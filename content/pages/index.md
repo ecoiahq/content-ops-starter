@@ -43,7 +43,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Why Ecoia?
+      text: Our Services
       color: text-light
       styles:
         self:
