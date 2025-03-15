@@ -49,7 +49,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Business-Driven. Impact-Focused. Creatively Engineered.
+    subtitle: Business-Focused. Impact-Driven. Creatively Engineered.
     items:
       - type: FeaturedItem
         title: Strategic Growth
