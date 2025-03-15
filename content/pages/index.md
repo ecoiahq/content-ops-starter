@@ -300,7 +300,7 @@ sections:
     subtitle: Be in good company
     text: >
       From website design to video production, we deliver digital innovation to
-      drive growth and amplify impact
+      drive growth and amplify impact. 
     actions:
       - label: Get started
         url: /
