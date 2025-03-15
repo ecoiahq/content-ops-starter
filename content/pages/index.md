@@ -241,7 +241,7 @@ sections:
       tools and insights you need to scale your mission effectively.
     actions:
       - label: Learn More
-        url: 'https://ecoia.netlify.app/business-services'
+        url: 'https://ecoia.netlify.app/Business-Services/'
         icon: arrowRight
         iconPosition: right
         style: secondary
