@@ -128,7 +128,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-            textAlign: center
+            textAlign: left
         type: FeaturedItem
     actions:
       - label: Explore our services
