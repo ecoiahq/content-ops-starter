@@ -52,7 +52,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Account Executive
+        title: Brand Strategy
         subtitle: From XYZ P/M.
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
