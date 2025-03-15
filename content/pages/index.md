@@ -106,7 +106,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Reporting
+      - title: Impact-Driven Startups & Entrepreneurs
         subtitle: ''
         text: >
           Every campaign is engineered to generate meaningful, direct and
