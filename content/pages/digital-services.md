@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Creative Services
+      text: Digital Services
       color: text-dark
       styles:
         self:
