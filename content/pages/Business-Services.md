@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Explore our Business Services
+      text: Business Services
       color: text-dark
       styles:
         self:
