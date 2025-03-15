@@ -49,8 +49,11 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          We create engaging videos that tell your brand's story, captivate your
-          audience, and drive action.
+          We create user-friendly, responsive websites that not only enhance
+          your online presence but also provide seamless navigation and engaging
+          experiences. Our optimization strategies focus on improving site
+          speed, mobile compatibility, and user engagement, ensuring your
+          website effectively converts visitors into supporters.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
