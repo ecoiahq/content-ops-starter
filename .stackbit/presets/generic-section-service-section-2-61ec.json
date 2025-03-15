@@ -1,0 +1,65 @@
+{
+    "model": "GenericSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Service Section 2",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Services"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": {
+                    "$$type": "TitleBlock",
+                    "text": "Business Services",
+                    "color": "text-light",
+                    "styles": null
+                },
+                "subtitle": "",
+                "text": "From incorporation and auditing to market positioning, we provide the tools and insights you need to scale your mission effectively.\n",
+                "actions": [
+                    {
+                        "$$type": "Button",
+                        "label": "Learn More",
+                        "altText": null,
+                        "url": "https://ecoia.netlify.app/set-packages",
+                        "showIcon": null,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "secondary",
+                        "elementId": null
+                    }
+                ],
+                "media": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/hero2.svg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Fun feature preview",
+                    "elementId": null,
+                    "styles": null
+                },
+                "badge": {
+                    "$$type": "Badge",
+                    "label": "",
+                    "color": "text-primary",
+                    "styles": null
+                },
+                "elementId": null,
+                "colors": "bg-dark-fg-light",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "alignItems": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/generic-section-service-section-2-61ec.png"
+        }
+    ]
+}
