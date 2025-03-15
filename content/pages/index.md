@@ -112,8 +112,8 @@ sections:
         subtitle: ''
         text: >
           We help early-stage ventures with a social or environmental purpose
-          get strategic brand development, high-quality media assets, and
-          marketing support to grow with purpose.
+          get strategic brand support, digital media assets, and marketing
+          support to grow with purpose.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
