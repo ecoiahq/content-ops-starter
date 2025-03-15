@@ -332,10 +332,8 @@ sections:
       Tell us a bit about your business goals, and we’ll create a strategy to
       amplify your impact.
     text: >
-      We’re here to help you amplify your mission, engage your audience, and
-      create lasting impact. Whether you're a nonprofit, ethical brand, media
-      platform, startup, or a business with a CSR initiative, we’re ready to
-      collaborate on campaigns that align with your values and goals.
+      Whether you’re an NGO, a startup, or an ethical brand, let’s work together
+      to transform your message into action.
     media:
       fields:
         - name: name
