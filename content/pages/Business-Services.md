@@ -11,14 +11,16 @@ sections:
         self:
           textAlign: center
     subtitle: ''
-    text: >
-      Our business services focus on key areas such as brand strategy, business
-      development, grant writing, and CSR reporting. We collaborate with you to
-      refine your brand, build strategic partnerships, secure funding, and
-      implement actionable strategies that align with your social and
-      environmental objectives. With a solid foundation in strategic thinking
-      and a results-driven approach, we provide tailored solutions designed to
-      help your organisation thrive in today’s competitive environment.
+    text: >+
+      <div style="text-align: left">Our business services focus on key areas
+      such as brand strategy, business development, grant writing, and CSR
+      reporting. We collaborate with you to refine your brand, build strategic
+      partnerships, secure funding, and implement actionable strategies that
+      align with your social and environmental objectives. With a solid
+      foundation in strategic thinking and a results-driven approach, we provide
+      tailored solutions designed to help your organisation thrive in today’s
+      competitive environment.</div>
+
     actions: []
     colors: bg-light-fg-dark
     styles:
