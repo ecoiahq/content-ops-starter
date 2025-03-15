@@ -52,9 +52,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: >-
-      A three-pronged approach to drive brand vision and impact at the
-      grassroots.
+    subtitle: A 3-pillar approach to driving innovation and impact.
     items:
       - type: FeaturedItem
         title: Strategy
