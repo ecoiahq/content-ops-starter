@@ -77,9 +77,8 @@ sections:
         title: Graphic Design
         subtitle: ''
         text: >
-          We help mission-driven organisations define their unique value and
-          position in the market, crafting brand strategies that resonate with
-          your audience and drive long-term growth.
+          Our designs, including logos, banners, and infographics, visually
+          communicate your brand's message and values.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
