@@ -83,7 +83,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Ethical & Sustainable Brands
+      - title: Digital
         subtitle: ''
         text: >
           We help businesses showcase their commitment to sustainability,
