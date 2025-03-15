@@ -139,8 +139,10 @@ sections:
         title: Impact / CSR / ESG Reporting
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          We assist with impactful reporting that communicates your
+          organisation’s social responsibility efforts, highlighting measurable
+          outcomes and ensuring transparency to engage stakeholders effectively.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
