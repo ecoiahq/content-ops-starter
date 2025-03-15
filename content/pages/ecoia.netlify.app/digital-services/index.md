@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: DigServices
+title: Digital Services
 sections:
   - type: GenericSection
     title:
