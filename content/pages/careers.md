@@ -48,7 +48,7 @@ sections:
       opacity: 100
       url: /images/abstract-background.svg
   - title:
-      text: Meet the team
+      text: Meet our team
       color: text-dark
       styles:
         self:
