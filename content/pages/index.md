@@ -11,9 +11,9 @@ sections:
     text: >
       We help mission-driven founders and organisations build scalable brands
       and impactful campaigns through strategic consultancy and creative
-      solutions. Built on extensive experience across the broadcast media
-      industry, we combine strategic thinking, cultural insight, and creative
-      agility to amplify your initiative. 
+      solutions. With extensive experience across the broadcast media industry,
+      we combine strategic thinking, cultural insight, and creative agility to
+      amplify your initiative.
     actions:
       - label: Get started
         altText: ''
