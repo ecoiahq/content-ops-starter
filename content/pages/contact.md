@@ -23,7 +23,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-    colors: bg-dark-fg-light
+    colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
       altText: Placeholder image
