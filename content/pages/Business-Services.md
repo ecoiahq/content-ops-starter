@@ -12,12 +12,15 @@ sections:
           textAlign: center
     subtitle: Section subtitle
     text: >
-      Our business services span across business development, grant writing, and
-      creative media, helping you build stronger brands, engage stakeholders,
-      and secure the funding needed to fuel your mission. Whether you're looking
-      to refine your brand strategy, optimise your digital presence, or craft
-      powerful campaigns, we deliver impactful solutions designed to drive real
-      change.
+      At Ecoia, we help mission-driven organisations build and execute business
+      strategies that drive growth, engagement, and impact. Our services cover
+      key areas including brand strategy, business development, grant writing,
+      and CSR reporting. We work with you to refine your brand, develop
+      strategic partnerships, secure funding, and implement strategies that
+      align with your social and environmental goals. With a strong foundation
+      in strategic thinking and a focus on measurable results, we deliver
+      solutions designed to help your organisation thrive in today’s competitive
+      landscape.
     actions: []
     colors: bg-light-fg-dark
     styles:
