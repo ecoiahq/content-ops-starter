@@ -249,7 +249,7 @@ sections:
       text: Business Consulting
       color: text-dark
       type: TitleBlock
-    subtitle: Supporting the brands we love.
+    subtitle: Growing the brands we love.
     text: >
       From business development, to impact strategy and content creation, we
       provide the tools and insights needed to scale your mission effectively.
