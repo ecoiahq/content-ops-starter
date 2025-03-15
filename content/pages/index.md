@@ -9,10 +9,8 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      Ecoia blends strategic business consultancy with creative innovation,
-      ensuring your brand not only grows but actively contributes to a better
-      world. Whether through storytelling, brand strategy, or digital
-      engagement, we turn vision into action.
+      We deliver impact strategy and creative solutions for businesses with a
+      social mission. 
     actions:
       - label: Get started
         altText: ''
