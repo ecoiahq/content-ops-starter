@@ -9,10 +9,11 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      We help social enterprises and non-profit founders develop their brands,
-      craft impactful strategies, and create innovative solutions for businesses
-      with a social mission. With a strong footprint in the media industry, we
-      bring expertise in storytelling and engagement to amplify your impact.
+      We support mission-driven organizations in developing their brands,
+      crafting impactful strategies, and creating culturally embedded media
+      solutions. With a strong footprint in the media industry, we bring
+      strategic thinking, cultural insight, and creative agility to help you
+      achieve your social and environmental mission.
     actions:
       - label: Get started
         altText: ''
