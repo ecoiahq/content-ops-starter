@@ -46,7 +46,7 @@ sections:
     items:
       - type: FeaturedItem
         title: UI/UX Website Design & Optimisation
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: >
           We create engaging videos that tell your brand's story, captivate your
