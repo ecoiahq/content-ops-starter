@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Creative Services
+title: DigServices
 sections:
   - type: GenericSection
     title:
