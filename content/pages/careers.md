@@ -3,7 +3,7 @@ title: Careers
 slug: careers
 sections:
   - title:
-      text: Meet our Award-Winning Team
+      text: Join the Team
       color: text-dark
       styles:
         self:
