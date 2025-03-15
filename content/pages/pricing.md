@@ -84,7 +84,7 @@ sections:
           - Brand Strategy Development
           - 'SEO, SEM Optimization'
           - Social Media Management (Organic & Paid)
-          - Feature four
+          - Grant Proposal Development
           - Feature five
         image:
           url: /images/abstract-feature3.svg
