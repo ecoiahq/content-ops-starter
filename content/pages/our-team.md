@@ -160,7 +160,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: /contact
+slug: /our-team
 seo:
   type: Seo
   metaTitle: Careers - Demo site
