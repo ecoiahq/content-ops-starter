@@ -53,7 +53,7 @@ sections:
           - Website Design & Optimisation
           - 'SEO, SEM Optimisation'
           - Social Media Management (Organic & Paid)
-          - ''
+          - Graphic Design
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
