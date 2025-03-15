@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: 'Contact '
+title: Our Team
 sections:
   - type: GenericSection
     title:
