@@ -54,7 +54,7 @@ sections:
     subtitle: Business-Driven. Impact-Focused. Creatively Engineered.
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Strategic Growth
         subtitle: Numbers Done
         text: >
           We design data-driven business development strategies that scale your
