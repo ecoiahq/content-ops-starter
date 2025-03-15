@@ -13,14 +13,14 @@ sections:
     subtitle: ''
     text: >+
       <div style="text-align: left">We provide high-impact creative solutions
-      that bring your brand’s mission to life. From **video production** and
-      **animation** to **graphic design** and **photography**, we create
-      visually engaging content that captures attention and drives results.
-      Whether you need compelling **campaign imagery**, eye-catching
-      **infographics**, or professional **podcast production**, our team crafts
-      tailor-made solutions that align with your mission. We combine creativity
-      with strategy to produce content that resonates with your audience and
-      amplifies your social and environmental impact.</div>
+      that bring your brand’s mission to life. From video production and
+      animation to graphic design and photography, we create visually engaging
+      content that captures attention and drives results. Whether you need
+      compelling campaign imagery, eye-catching infographics, or professional
+      podcast production, our team crafts tailor-made solutions that align with
+      your mission. We combine creativity with strategy to produce content that
+      resonates with your audience and amplifies your social and environmental
+      impact.</div>
 
     actions: []
     colors: bg-light-fg-dark
