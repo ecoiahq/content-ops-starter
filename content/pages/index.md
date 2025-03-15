@@ -191,18 +191,20 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: EcoiaFund™
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ''
+    text: >
+      Our innovative fundraising mechanism, EcoiaFund™, transforms business
+      campaigns into direct social and environmental impact through blockchain
+      technology. With a transparent smart contract and multi-signature safe,
+      every campaign we deliver automatically generates revenue, donations and
+      receives match funding, directly allocating 100% of the revenue generated
+      to our supported charities.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
@@ -224,7 +226,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: ''
       color: text-primary
       styles:
         self:
@@ -238,6 +240,16 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
+    actions:
+      - type: Button
+        label: Learn More
+        altText: ''
+        url: 'https://lucent-frangipane-84e1c1.netlify.app/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
   - title:
       text: Business Consulting
       color: text-dark
@@ -248,8 +260,8 @@ sections:
       presence, we provide the tools and insights needed to scale your mission
       and engage your audience effectively.
     actions:
-      - label: Get started
-        url: /Get-Started
+      - label: Learn More
+        url: 'https://ecoia.netlify.app/Business-Services/'
         icon: arrowRight
         iconPosition: right
         style: secondary
@@ -271,13 +283,13 @@ sections:
       text: Creative Solutions
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: Where creativity meets impact
     text: >
-      From website design to video production, we deliver digital innovation to
-      drive growth and amplify impact. 
+      From UX/UI website design to video production, we deliver digital
+      innovation to drive growth and amplify impact.
     actions:
-      - label: Get started
-        url: /Get-Started
+      - label: Learn More
+        url: 'https://ecoia.netlify.app/Business-Services/'
         icon: arrowRight
         iconPosition: right
         style: secondary
