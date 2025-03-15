@@ -261,7 +261,7 @@ sections:
       text: Business Development
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: Supporting the brands we love.
     text: >
       From brand strategy and fundraising to content creation and digital
       presence, we provide the tools and insights needed to scale your mission
