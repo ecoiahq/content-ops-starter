@@ -198,11 +198,13 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Our innovative fundraising mechanism, EcoiaFund™, transforms business
+      campaigns into direct social and environmental impact through blockchain
+      technology. With a transparent smart contract and multi-signature safe,
+      every campaign we deliver automatically generates revenue, donations and
+      receives match funding, directly allocating 100% of the revenue generated
+      to our supported charities.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
