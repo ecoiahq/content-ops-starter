@@ -25,14 +25,6 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Creative Services",
-                    "url": "https://ecoia.netlify.app/creative-services",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
                     "type": "Link",
                     "label": "Digital Services",
                     "altText": "",
@@ -42,6 +34,14 @@
                     "iconPosition": "right",
                     "style": "primary",
                     "elementId": ""
+                },
+                {
+                    "label": "Creative Services",
+                    "url": "https://ecoia.netlify.app/creative-services",
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "type": "Link"
                 }
             ],
             "labelStyle": "secondary",
