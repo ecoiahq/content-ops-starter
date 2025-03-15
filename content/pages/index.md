@@ -108,7 +108,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Mission-Driven Startups & Entrepreneurs
+      - title: Creative
         subtitle: ''
         text: >
           We help early-stage ventures with a social or environmental purpose
