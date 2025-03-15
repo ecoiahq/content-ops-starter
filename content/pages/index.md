@@ -86,8 +86,9 @@ sections:
       - title: Ethical & Sustainable Brands
         subtitle: ''
         text: >
-          We craft compelling narratives that engage audiences and inspire
-          action.
+          For businesses committed to sustainability, ethical practices, and
+          corporate responsibility, we strengthen brand identity and messaging
+          to amplify your impact.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
