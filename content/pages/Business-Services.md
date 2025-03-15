@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: Business Services
-      color: text-light
+      color: text-dark
       styles:
         self:
           textAlign: center
