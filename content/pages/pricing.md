@@ -19,7 +19,7 @@ sections:
         features:
           - Brand Audit
           - Social Listening
-          - Feature three
+          - 'SEO, SEM Optimisation'
           - Feature four
         image:
           url: /images/abstract-feature1.svg
