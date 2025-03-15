@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Helping Founders to drive positive Impact.
+      text: Helping Founders to Drive Positive Impact.
       color: text-dark
       type: TitleBlock
     subtitle: ''
