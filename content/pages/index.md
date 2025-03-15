@@ -274,7 +274,7 @@ sections:
         alignItems: center
     type: GenericSection
   - title:
-      text: Creative Solutions
+      text: Website Develoment
       color: text-dark
       type: TitleBlock
     subtitle: Where creativity meets impact
