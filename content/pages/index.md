@@ -245,6 +245,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/2.png
   - title:
       text: Business Consulting
       color: text-dark
