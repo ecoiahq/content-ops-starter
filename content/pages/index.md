@@ -328,7 +328,9 @@ sections:
       text: Let’s Bring Your Mission to Life
       color: text-dark
       type: TitleBlock
-    subtitle: 'Tell us a little about you, and let''s get started.'
+    subtitle: >-
+      Tell us a bit about your goals, and we’ll create a strategy to amplify
+      your impact.
     text: >
       We’re here to help you amplify your mission, engage your audience, and
       create lasting impact. Whether you're a nonprofit, ethical brand, media
