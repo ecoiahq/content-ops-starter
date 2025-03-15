@@ -85,8 +85,8 @@ sections:
       - title: Digital
         subtitle: ''
         text: >
-          We enhance your digital presence by optimising websites, SEO, and
-          managing your social media channels for greater visibility. 
+          We enhance your digital presence by optimising websites, SEO, and your
+          social media channels for greater visibility.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
