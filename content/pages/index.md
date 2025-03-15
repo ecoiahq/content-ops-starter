@@ -263,8 +263,9 @@ sections:
       type: TitleBlock
     subtitle: Increase your reach
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      From brand strategy and fundraising to content creation and digital
+      presence, we provide the tools and insights needed to scale your mission
+      and engage your audience effectively.
     actions:
       - label: Get started
         url: /
