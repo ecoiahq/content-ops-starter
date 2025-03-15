@@ -14,9 +14,8 @@ sections:
       - title: Ecoia Audit
         price: '£1,350'
         details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          Best for businesses seeking analysis & insights
         features:
           - Feature one
           - Feature two
