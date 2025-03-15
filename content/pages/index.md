@@ -85,9 +85,8 @@ sections:
       - title: Digital
         subtitle: ''
         text: >
-          We enhance the digital presence of social enterprises, non-profits,
-          and businesses by optimising websites, SEO, and social media for
-          greater visibility and engagement.
+          We enhance your digital presence by optimising websites, SEO, and
+          managing your social media channels for greater visibility. 
         image:
           url: /images/icon2.svg
           altText: Featured icon two
