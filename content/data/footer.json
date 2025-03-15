@@ -52,7 +52,7 @@
         },
         {
             "altText": "Email link",
-            "url": "<a href=\"mailto:{address}?subject={subject}&body={body}\">{Text of link}</a>",
+            "url": "",
             "icon": "mail",
             "type": "Social"
         }
