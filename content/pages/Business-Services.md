@@ -12,15 +12,13 @@ sections:
           textAlign: center
     subtitle: Section subtitle
     text: >
-      At Ecoia, we help mission-driven organisations build and execute business
-      strategies that drive growth, engagement, and impact. Our services cover
-      key areas including brand strategy, business development, grant writing,
-      and CSR reporting. We work with you to refine your brand, develop
-      strategic partnerships, secure funding, and implement strategies that
-      align with your social and environmental goals. With a strong foundation
-      in strategic thinking and a focus on measurable results, we deliver
-      solutions designed to help your organisation thrive in today’s competitive
-      landscape.
+      Our business services focus on key areas such as brand strategy, business
+      development, grant writing, and CSR reporting. We collaborate with you to
+      refine your brand, build strategic partnerships, secure funding, and
+      implement actionable strategies that align with your social and
+      environmental objectives. With a solid foundation in strategic thinking
+      and a results-driven approach, we provide tailored solutions designed to
+      help your organisation thrive in today’s competitive environment.
     actions: []
     colors: bg-light-fg-dark
     styles:
