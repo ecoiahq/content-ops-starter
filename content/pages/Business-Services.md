@@ -20,7 +20,7 @@ sections:
       align with your goals. </div>
 
     actions: []
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
