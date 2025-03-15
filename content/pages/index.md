@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Strategic Growth. Creative Excellence. Meaningful Impact.
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Ecoia provides the strategic guidance, creative resources, and cultural
+      insight needed to help purpose-led organizations grow, engage their
+      audience, and maximize their impact.
     actions:
       - label: Get started
         altText: ''
