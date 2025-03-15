@@ -46,7 +46,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Who we support.
+      text: What we do.
       color: text-light
       styles:
         self:
@@ -55,7 +55,7 @@ sections:
     subtitle: Business-Focused. Impact-Driven. Creatively Engineered.
     items:
       - type: FeaturedItem
-        title: Social Enterprises & Nonprofits
+        title: Strategy
         subtitle: ''
         text: >
           We help mission-driven organisations partner with key sector
@@ -83,7 +83,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Ethical & Sustainable Brands
+      - title: Digital
         subtitle: ''
         text: >
           We help businesses showcase their commitment to sustainability,
@@ -108,7 +108,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Mission-Driven Startups & Entrepreneurs
+      - title: Creative
         subtitle: ''
         text: >
           We help early-stage ventures with a social or environmental purpose
