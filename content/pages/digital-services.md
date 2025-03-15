@@ -12,15 +12,11 @@ sections:
           textAlign: center
     subtitle: ''
     text: >+
-      <div style="text-align: left">We provide high-impact creative solutions
-      that bring your brand’s mission to life. From video production and
-      animation to graphic design and photography, we create visually engaging
-      content that captures attention and drives results. Whether you need
-      compelling campaign imagery, eye-catching infographics, or professional
-      podcast production, our team crafts tailor-made solutions that align with
-      your mission. We combine creativity with strategy to produce content that
-      resonates with your audience and amplifies your social and environmental
-      impact.</div>
+      <div style="text-align: left">At Ecoia, we are dedicated to empowering
+      mission-driven organisations through a comprehensive suite of digital
+      services designed to amplify your impact and drive sustainable growth in
+      today's competitive digital landscape. Our offerings are tailored to meet
+      your unique needs:</div>
 
     actions: []
     colors: bg-dark-fg-light
