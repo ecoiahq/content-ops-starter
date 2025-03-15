@@ -82,7 +82,7 @@ sections:
           For businesses focused on expanding reach & funding
         features:
           - Brand Strategy Development
-          - Feature two
+          - 'SEO, SEM Optimization'
           - Feature three
           - Feature four
           - Feature five
