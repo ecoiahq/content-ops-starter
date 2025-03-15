@@ -94,10 +94,10 @@ sections:
       - type: FeaturedItem
         title: Impact Strategy
         subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We develop tailored impact strategies that align with your mission and
+          objectives, ensuring measurable social or environmental change while
+          maximising your influence and reach.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
