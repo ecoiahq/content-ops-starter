@@ -16,7 +16,7 @@ sections:
       to deliver high-impact projects.
     actions:
       - label: Explore our open positions
-        url: /
+        url: /our-careers
         icon: arrowRight
         iconPosition: right
         style: primary
