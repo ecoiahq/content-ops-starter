@@ -272,7 +272,7 @@ sections:
         alignItems: center
     type: GenericSection
   - title:
-      text: Digital Presence
+      text: Digital Services
       color: text-dark
       type: TitleBlock
     subtitle: Where creativity meets impact
