@@ -46,7 +46,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: What we do.
+      text: Our Solutions
       color: text-light
       styles:
         self:
@@ -57,10 +57,11 @@ sections:
       - type: FeaturedItem
         title: Strategy
         subtitle: ''
-        text: >
-          We help mission-driven organisations partner with key sector
-          influencers, craft compelling messaging and deliver campaigns that
-          inspire action, engage supporters, and drive funding.
+        text: >+
+          We help mission-driven organisations, ethical brands, and startups
+          create effective strategies, secure funding, and craft messaging that
+          engages supporters and drives impact.
+
         actions: []
         elementId: null
         colors: bg-light-fg-dark
@@ -86,9 +87,9 @@ sections:
       - title: Digital
         subtitle: ''
         text: >
-          We help businesses showcase their commitment to sustainability,
-          ethical practices, and corporate responsibility through comprehensive
-          audits and integrated strategies.
+          We enhance the digital presence of social enterprises, non-profits,
+          and businesses, optimising websites, SEO, and social media to boost
+          visibility, growth, and engagement.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -111,9 +112,9 @@ sections:
       - title: Creative
         subtitle: ''
         text: >
-          We help early-stage ventures with a social or environmental purpose
-          get strategic brand support, digital media assets, and marketing
-          support to grow with purpose.
+          We produce high-quality content, including video, design, animation,
+          and photography, to help organisations tell their story and amplify
+          their mission with powerful visuals.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
