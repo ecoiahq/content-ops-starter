@@ -18,7 +18,7 @@
                 "type": "Link"
             },
             {
-                "label": "Pricing",
+                "label": "Packages",
                 "url": "/pricing",
                 "icon": "arrowRight",
                 "iconPosition": "right",
