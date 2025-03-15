@@ -105,7 +105,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Impact Reporting
+      - title: Reporting
         subtitle: ''
         text: >
           Every campaign is engineered to generate meaningful, direct and
