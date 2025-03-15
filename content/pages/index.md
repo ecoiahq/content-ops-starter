@@ -105,7 +105,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
+      - title: Social & Environmental Impact
         subtitle: ''
         text: |+
           Every campaign is engineered to generate measurable change.
