@@ -17,7 +17,7 @@ sections:
         description: |
           Best for businesses seeking analysis & insights
         features:
-          - Feature one
+          - Brand Audit
           - Feature two
           - Feature three
           - Feature four
