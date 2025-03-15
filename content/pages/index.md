@@ -111,8 +111,9 @@ sections:
       - title: Mission-Driven Startups & Entrepreneurs
         subtitle: ''
         text: >
-          Every campaign is engineered to generate meaningful, direct and
-          measurable change.
+          We help early-stage ventures with a social or environmental purpose
+          get strategic brand development, high-quality media assets, and
+          marketing support to grow with purpose.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
