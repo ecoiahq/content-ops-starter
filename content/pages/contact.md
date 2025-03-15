@@ -126,7 +126,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: 'Account Manager '
+        title: 'Grants Manager '
         subtitle: Engineering
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
