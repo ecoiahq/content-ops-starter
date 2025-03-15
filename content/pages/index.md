@@ -192,12 +192,10 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      Our innovative fundraising mechanism, EcoiaFund™, transforms business
-      campaigns into direct social and environmental impact through blockchain
-      technology. With a transparent smart contract and multi-signature safe,
-      every campaign we deliver automatically generates revenue, donations and
-      receives match funding, directly allocating 100% of the revenue generated
-      to our supported charities.
+      Our innovative funding mechanism, **EcoiaFund™**, transforms business
+      campaigns into direct contributions to social and environmental change.
+      With every project, we help create sustainable solutions for communities
+      worldwide.
     badge:
       label: ''
       color: text-primary
