@@ -27,7 +27,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Get Started
-            url: /
+            url: Get Started/
             icon: arrowRight
             iconPosition: right
             style: secondary
