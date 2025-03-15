@@ -22,7 +22,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/2.png
+      url: /images/hero2.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
