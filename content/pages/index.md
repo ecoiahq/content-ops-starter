@@ -9,8 +9,10 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      We deliver brand development, impactful strategy and creative solutions
-      for businesses with a social mission.
+      We help social enterprises and non-profit founders develop their brands,
+      craft impactful strategies, and create innovative solutions for businesses
+      with a social mission. With a strong footprint in the media industry, we
+      bring expertise in storytelling and engagement to amplify your impact.
     actions:
       - label: Get started
         altText: ''
