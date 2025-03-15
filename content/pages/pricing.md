@@ -20,7 +20,7 @@ sections:
           - Brand Audit
           - Social Listening
           - 'SEO, SEM Optimisation'
-          - Feature four
+          - Brand/Media Activation
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
