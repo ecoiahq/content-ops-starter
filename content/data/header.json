@@ -18,7 +18,7 @@
             "links": [
                 {
                     "label": "Business Services",
-                    "url": "/Business-Services",
+                    "url": "https://ecoia.netlify.app//Business-Services",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
@@ -26,7 +26,7 @@
                 },
                 {
                     "label": "Creative Services",
-                    "url": "/creative-services",
+                    "url": "https://ecoia.netlify.app/creative-services",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
@@ -38,7 +38,7 @@
         },
         {
             "label": "Packages",
-            "url": "/packages",
+            "url": "https://ecoia.netlify.app/packages",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -56,7 +56,7 @@
         {
             "label": "Our Team",
             "altText": "Team Page",
-            "url": "/our-team",
+            "url": "https://ecoia.netlify.app/our-team",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
