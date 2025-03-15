@@ -302,35 +302,6 @@ sections:
         alignItems: center
         flexDirection: row-reverse
     type: GenericSection
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Digital Presence & Growth
-      color: text-dark
-    subtitle: Where creativity meets impact
-    text: >
-      From UX/UI website design to video production, we deliver digital
-      innovation to drive growth and amplify impact.
-    actions:
-      - type: Button
-        label: Learn More
-        url: 'https://ecoia.netlify.app/set-packages'
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-    media:
-      type: ImageBlock
-      url: /images/hero3.svg
-      altText: Dope design preview
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
   - title: Divider
     colors: bg-light-fg-dark
     styles:
