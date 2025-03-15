@@ -57,8 +57,9 @@ sections:
       - type: FeaturedItem
         title: Strategy
         subtitle: ''
-        text: |
-          We design business development strategies that scale your mission.
+        text: >
+          Whether you are in the planning stage or identifying current
+          challenges, we support your growth across all areas of your business.
         actions: []
         elementId: null
         colors: bg-light-fg-dark
