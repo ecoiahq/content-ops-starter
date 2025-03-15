@@ -95,7 +95,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Social Media Management (Organic & Paid)
+        title: Social Media Management (Organic )
         subtitle: Animation
         text: >
           We produce dynamic animations that bring your ideas to life, enhancing
