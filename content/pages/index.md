@@ -85,8 +85,8 @@ sections:
       - title: Digital
         subtitle: ''
         text: >
-          Our digital team build UX/UI websites, optimise SEO, and manage your
-          social media channels and paid media to enhance your visibility.
+          High-quality digital media, content marketing, and technology-driven
+          storytelling to connect with your community.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
