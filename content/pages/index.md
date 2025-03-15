@@ -58,9 +58,8 @@ sections:
         title: Strategy
         subtitle: ''
         text: >
-          We empowers startups, mission-driven organisations and ethical brands
-          to create effective strategies, secure funding, and craft compelling
-          messaging that engages supporters and drives impact.
+          We empower startups, mission-driven organisations, and ethical brands
+          to craft effective strategies that drive impact.
         actions: []
         elementId: null
         colors: bg-light-fg-dark
