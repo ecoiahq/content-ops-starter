@@ -242,7 +242,7 @@ sections:
     type: GenericSection
     actions:
       - type: Button
-        label: Get started
+        label: Learn More
         altText: ''
         url: 'https://lucent-frangipane-84e1c1.netlify.app/'
         showIcon: false
