@@ -46,7 +46,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Our Solutions
+      text: Our Expertise
       color: text-light
       styles:
         self:
