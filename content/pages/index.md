@@ -235,8 +235,8 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      From business planning to audits to market positioning, we provide the
-      tools and insights you need to scale your mission effectively.
+      From brand strategy to media production, we provide full-scale solutions
+      that help your mission-driven organisation grow.
     actions:
       - label: Learn More
         url: 'https://ecoia.netlify.app/Business-Services/'
