@@ -51,7 +51,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Business-Driven. Impact-Focused. Creatively Engineered.
     items:
       - type: FeaturedItem
         title: 500k
