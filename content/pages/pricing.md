@@ -45,8 +45,9 @@ sections:
       - title: Ecoia Foundation
         price: '£2,200'
         details: per month
-        description: |
-          Brand Strategy Development 
+        description: |+
+          Ideal for businesses needing foundational branding & digital presence
+
         features:
           - Feature one
           - Feature two
