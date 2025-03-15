@@ -130,9 +130,9 @@ sections:
             textAlign: left
         type: FeaturedItem
     actions:
-      - label: Explore our services
+      - label: Get Started
         altText: ''
-        url: 'https://ecoia.netlify.app/set-packages'
+        url: 'https://ecoia.netlify.app/pricing'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -241,7 +241,7 @@ sections:
       tools and insights you need to scale your mission effectively.
     actions:
       - label: Learn More
-        url: 'https://ecoia.netlify.app/set-packages'
+        url: 'https://ecoia.netlify.app/pricing'
         icon: arrowRight
         iconPosition: right
         style: secondary
