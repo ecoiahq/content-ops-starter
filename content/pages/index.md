@@ -56,9 +56,8 @@ sections:
       - type: FeaturedItem
         title: Strategic Growth
         subtitle: ''
-        text: >
-          We design data-driven business development strategies that scale your
-          mission.
+        text: |
+          We design business development strategies that scale your mission.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
