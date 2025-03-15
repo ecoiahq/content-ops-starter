@@ -74,7 +74,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Brand Strategy
+        title: Graphic Design
         subtitle: From XYZ P/M.
         text: >
           We help mission-driven organisations define their unique value and
