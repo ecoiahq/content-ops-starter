@@ -289,7 +289,7 @@ sections:
       drive growth and amplify impact. 
     actions:
       - label: Get started
-        url: /Get-Started
+        url: 'https://ecoia.netlify.app/Business-Services/'
         icon: arrowRight
         iconPosition: right
         style: secondary
