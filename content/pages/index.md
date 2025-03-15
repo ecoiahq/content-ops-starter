@@ -9,8 +9,8 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      We support mission-driven organisations in **developing their brands,
-      crafting impactful strategies, and delivering immersive media solutions.**
+      We support mission-driven organisations in developing their brands,
+      crafting impactful strategies, and delivering immersive media solutions.
       With a strong footprint in the media industry, we bring strategic
       thinking, cultural insight, and creative agility to help you achieve your
       social and environmental mission.
