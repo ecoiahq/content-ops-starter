@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: Business Services
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
@@ -22,7 +22,7 @@ sections:
       your organisation succeed and grow in today’s competitive landscape.</div>
 
     actions: []
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
