@@ -82,7 +82,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Production
+      - title: Ethical & Sustainable Brands
         subtitle: ''
         text: >
           We craft compelling narratives that engage audiences and inspire
