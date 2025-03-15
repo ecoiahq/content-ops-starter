@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Section subtitle
+    subtitle: ''
     text: >
       At Ecoia, our presence across the UK broadcast media sector gives clients
       a strategic advantage, offering deep insight, expertise, and connections
