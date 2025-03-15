@@ -269,7 +269,7 @@ sections:
       innovation to drive growth and amplify impact.
     actions:
       - label: Learn More
-        url: 'https://ecoia.netlify.app/set-packages'
+        url: 'https://ecoia.netlify.app/digital-services/'
         icon: arrowRight
         iconPosition: right
         style: secondary
