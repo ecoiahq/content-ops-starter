@@ -209,8 +209,8 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Apply now
-        url: /
+        label: Get in Touch
+        url: /Get in Touch
         icon: arrowRight
         iconPosition: right
         style: primary
