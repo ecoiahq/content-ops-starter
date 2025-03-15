@@ -52,7 +52,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Our Three-Pillar Approach to Support your mission.
+    subtitle: A Three-Pillar Approach to Empowering Your Mission.
     items:
       - type: FeaturedItem
         title: Strategy
