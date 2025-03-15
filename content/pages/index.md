@@ -59,8 +59,8 @@ sections:
         subtitle: ''
         text: >
           We help mission-driven organisations partner with key sector
-          influencers, craft compelling creative campaigns that inspire action,
-          engage supporters, and drive funding.
+          influencers, craft compelling messaging and deliver campaigns that
+          inspire action, engage supporters, and drive funding.
         actions: []
         elementId: null
         colors: bg-light-fg-dark
