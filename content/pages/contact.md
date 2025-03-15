@@ -12,11 +12,10 @@ sections:
           textAlign: center
     subtitle: Passionate Creatives. Strategic Thinkers. Impact-Driven Innovators.
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      At Ecoia, we believe in the power of storytelling, strategy, and
+      creativity to drive real change. Our team is made up of purpose-led
+      professionals who are dedicated to helping mission-driven organisations,
+      ethical brands, and social enterprises amplify their impact.
     actions:
       - type: Button
         label: See open positions
