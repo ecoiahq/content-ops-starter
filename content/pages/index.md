@@ -299,8 +299,8 @@ sections:
       type: TitleBlock
     subtitle: Be in good company
     text: >
-      **From video production and website design, we deliver digital
-      innovation** to drive growth and amplify impact
+      From video production and website design, we deliver digital innovation to
+      drive growth and amplify impact
     actions:
       - label: Get started
         url: /
