@@ -247,7 +247,7 @@ sections:
       text: Business Services
       color: text-dark
       type: TitleBlock
-    subtitle: Building the brands we love.
+    subtitle: ''
     text: >
       From incorporation and auditing to market positioning, we provide the
       tools and insights you need to scale your mission effectively.
