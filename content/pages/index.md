@@ -535,7 +535,7 @@ sections:
       text: Let’s Bring Your Mission to Life
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: 'Tell us a little about you, and let''s get started.'
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
