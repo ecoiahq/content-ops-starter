@@ -55,7 +55,7 @@ sections:
     subtitle: Business-Focused. Impact-Driven. Creatively Engineered.
     items:
       - type: FeaturedItem
-        title: Third-Sector Organisations & Nonprofits
+        title: Social Enterprises & Nonprofits
         subtitle: ''
         text: >
           We help charities, NGOs, and mission-driven organizations craft
