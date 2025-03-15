@@ -76,8 +76,11 @@ sections:
         title: SEO & SEM
         subtitle: ''
         text: >
-          Our designs, including logos, banners, and infographics, visually
-          communicate your brand's message and values.
+          Our Search Engine Optimization (SEO) and Search Engine Marketing (SEM)
+          services are designed to increase your visibility on search engines,
+          driving targeted traffic to your site. Through strategic keyword
+          targeting, content optimization, and paid advertising campaigns, we
+          help you reach your audience more effectively.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
