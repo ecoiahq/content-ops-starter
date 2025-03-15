@@ -65,7 +65,7 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Log in",
+            "label": "Client Log in",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
