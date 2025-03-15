@@ -4,19 +4,17 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Where Strategy Meets Creativity for Impact
+      text: Helping Founders to drive Positive Impact.
       color: text-dark
       type: TitleBlock
-    subtitle: Strategic Growth. Creative Excellence. Meaningful Impact.
+    subtitle: ''
     text: >
-      Ecoia blends strategic business consultancy with creative innovation,
-      ensuring your brand not only grows but actively contributes to a better
-      world. Whether through storytelling, brand strategy, or digital
-      engagement, we turn vision into action.
+      We deliver brand development, impactful strategy and creative solutions
+      for businesses with a social mission.
     actions:
       - label: Get started
         altText: ''
-        url: /Get-Started
+        url: 'https://ecoia.netlify.app/set-packages'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -24,7 +22,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/main-hero.svg
+      url: /images/hero2.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -45,13 +43,13 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Why Ecoia?
-      color: text-dark
+      text: Our Services
+      color: text-light
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Business-Driven. Impact-Focused. Creatively Engineered.
+    subtitle: Business-Focused. Impact-Driven. Creatively Engineered.
     items:
       - type: FeaturedItem
         title: Strategic Growth
@@ -60,7 +58,7 @@ sections:
           We design business development strategies that scale your mission.
         actions: []
         elementId: null
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -91,7 +89,7 @@ sections:
           elementId: ''
           type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -115,7 +113,7 @@ sections:
           elementId: ''
           type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -127,9 +125,9 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Explore our services
         altText: ''
-        url: /Get-Started
+        url: 'https://ecoia.netlify.app/set-packages'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -138,7 +136,7 @@ sections:
         type: Button
     elementId: ''
     variant: three-col-grid
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
@@ -149,7 +147,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Our Partnerships
+  - subtitle: Our Clients
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
@@ -173,23 +171,13 @@ sections:
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         justifyContent: center
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - title:
       text: EcoiaFund™
       color: text-dark
@@ -256,12 +244,11 @@ sections:
       type: TitleBlock
     subtitle: Supporting the brands we love.
     text: >
-      From brand strategy and fundraising to content creation and digital
-      presence, we provide the tools and insights needed to scale your mission
-      and engage your audience effectively.
+      From business development, to impact strategy and content creation, we
+      provide the tools and insights needed to scale your mission effectively.
     actions:
       - label: Learn More
-        url: 'https://ecoia.netlify.app/Business-Services/'
+        url: 'https://ecoia.netlify.app/set-packages'
         icon: arrowRight
         iconPosition: right
         style: secondary
@@ -289,7 +276,7 @@ sections:
       innovation to drive growth and amplify impact.
     actions:
       - label: Learn More
-        url: 'https://ecoia.netlify.app/Business-Services/'
+        url: 'https://ecoia.netlify.app/set-packages'
         icon: arrowRight
         iconPosition: right
         style: secondary
@@ -372,7 +359,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Contact Us
+      label: ''
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark

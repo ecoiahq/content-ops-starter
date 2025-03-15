@@ -88,6 +88,6 @@
         }
     ],
     "copyrightText": "© Ecoia Ltd. | Company Reg. No. 16252074. All Rights Reserved.\n",
-    "colors": "bg-dark-fg-light",
+    "colors": "bg-light-fg-dark",
     "type": "Footer"
 }
