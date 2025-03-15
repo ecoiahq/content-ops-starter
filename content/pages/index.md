@@ -304,7 +304,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Services
+      text: Creative Services
       color: text-light
     subtitle: ''
     text: >
