@@ -86,7 +86,7 @@ sections:
           - Social Media Management (Organic & Paid)
           - Grant Proposal Development
           - Influencer Partnership Facilitation
-          - ''
+          - 'Video, Graphic Design and Podcast Production'
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
