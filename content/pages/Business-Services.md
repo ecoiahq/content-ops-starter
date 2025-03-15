@@ -17,13 +17,7 @@ sections:
       randomised words which don't look even slightly believable. If you are
       going to use a passage of Lorem Ipsum, you need to be sure there isn't
       anything embarrassing hidden in the middle of text.
-    actions:
-      - type: Button
-        label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
