@@ -26,7 +26,7 @@
                 },
                 {
                     "label": "Dropdown item",
-                    "url": "/",
+                    "url": "/creative-services",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
