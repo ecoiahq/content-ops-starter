@@ -293,8 +293,8 @@ sections:
       color: text-light
     subtitle: ''
     text: >
-      From incorporation and auditing to market positioning, we provide the
-      tools and insights you need to scale your mission effectively.
+      We craft visually compelling and emotionally resonant content that
+      captivates audiences and strengthens your cause.
     actions:
       - type: Button
         label: Learn More
