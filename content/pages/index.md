@@ -46,7 +46,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Our Core Areas
+      text: A 3-Phase Approach
       color: text-light
       styles:
         self:
