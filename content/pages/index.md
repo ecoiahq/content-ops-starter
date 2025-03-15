@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Helping You to Drive Positive Impact.
+      text: Helping You Drive Positive Impact
       color: text-dark
       type: TitleBlock
     subtitle: ''
