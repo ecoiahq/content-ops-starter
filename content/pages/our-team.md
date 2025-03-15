@@ -12,7 +12,7 @@ sections:
           textAlign: center
     subtitle: "Strategic Thinkers. Passionate Creatives.\_Impact-Driven Innovators."
     text: >+
-      <div style="text-align: left">At Ecoia, we believe in the power of
+      <div style="text-align: center">At Ecoia, we believe in the power of
       storytelling, strategy, and creativity to drive real change. We are a
       collective of purpose-led professionals—strategists, designers,
       storytellers, and digital specialists—committed to helping mission-driven
