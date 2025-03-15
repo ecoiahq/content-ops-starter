@@ -251,8 +251,8 @@ sections:
       type: TitleBlock
     subtitle: Growing the brands we love.
     text: >
-      From business development, to impact strategy and content creation, we
-      provide the tools and insights needed to scale your mission effectively.
+      From business audits to impact roadmaps and market positioning, we provide
+      the tools and insights you need to scale your mission effectively.
     actions:
       - label: Learn More
         url: 'https://ecoia.netlify.app/set-packages'
