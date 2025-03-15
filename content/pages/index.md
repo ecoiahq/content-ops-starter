@@ -184,7 +184,7 @@ sections:
         textAlign: center
     type: ImageGallerySection
   - title:
-      text: EcoiaFund™
+      text: EcoiaFund™ – A Model for Impact
       color: text-dark
       styles:
         self:
