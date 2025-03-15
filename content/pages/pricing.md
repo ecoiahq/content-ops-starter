@@ -85,7 +85,7 @@ sections:
           - 'SEO, SEM Optimization'
           - Social Media Management (Organic & Paid)
           - Grant Proposal Development
-          - Feature five
+          - Influencer Partnership Facilitation
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
