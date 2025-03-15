@@ -73,7 +73,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Graphic Design
+        title: SEO & SEM
         subtitle: ''
         text: >
           Our designs, including logos, banners, and infographics, visually
