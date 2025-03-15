@@ -50,7 +50,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
+      text: Business Services
       color: text-dark
       styles:
         self:
