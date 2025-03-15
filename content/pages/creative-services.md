@@ -94,7 +94,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Animation
-        subtitle: Marketing
+        subtitle: Animation
         text: >
           Our brand audit service provides a comprehensive review of your
           brand’s performance, identifying strengths, weaknesses, and
