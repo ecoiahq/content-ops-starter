@@ -9,15 +9,6 @@
         "title": "Features",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
                 "label": "Packages",
                 "url": "https://ecoia.netlify.app/packages/",
                 "icon": "arrowRight",
