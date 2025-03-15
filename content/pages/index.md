@@ -240,6 +240,13 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
   - title:
       text: Business Consulting
       color: text-dark
