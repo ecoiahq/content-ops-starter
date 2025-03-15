@@ -155,32 +155,6 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Impact / CSR / ESG Reporting
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: >
-          We assist with impactful reporting that communicates your
-          organisation’s social responsibility efforts, highlighting measurable
-          outcomes and ensuring transparency to engage stakeholders effectively.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-      - type: FeaturedItem
         title: Grant Proposal Development
         tagline: This is the tagline
         subtitle: This is the item subtitle
