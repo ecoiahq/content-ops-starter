@@ -4,13 +4,16 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Helping Founders to drive Positive Impact.
+      text: Helping You to Drive Positive Impact.
       color: text-dark
       type: TitleBlock
     subtitle: ''
     text: >
-      We deliver brand development, impactful strategy and creative solutions
-      for businesses with a social mission.
+      We help mission-driven founders and organisations build scalable brands
+      and impactful campaigns through strategic consultancy and creative
+      solutions. Built on extensive experience across the broadcast media
+      industry, we combine strategic thinking, cultural insight, and creative
+      agility to amplify your initiative. 
     actions:
       - label: Get started
         altText: ''
@@ -43,7 +46,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Our Services
+      text: Who we support.
       color: text-light
       styles:
         self:
@@ -52,10 +55,12 @@ sections:
     subtitle: Business-Focused. Impact-Driven. Creatively Engineered.
     items:
       - type: FeaturedItem
-        title: Strategic Growth
+        title: Social Enterprises & Nonprofits
         subtitle: ''
-        text: |
-          We design business development strategies that scale your mission.
+        text: >
+          We help mission-driven organisations partner with key sector
+          influencers, craft compelling messaging and deliver campaigns that
+          inspire action, engage supporters, and drive funding.
         actions: []
         elementId: null
         colors: bg-light-fg-dark
@@ -78,11 +83,12 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Creative Storytelling
+      - title: Ethical & Sustainable Brands
         subtitle: ''
         text: >
-          We craft compelling narratives that engage audiences and inspire
-          action.
+          We help businesses showcase their commitment to sustainability,
+          ethical practices, and corporate responsibility through comprehensive
+          audits and integrated strategies.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -102,11 +108,12 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Impact Driven
+      - title: Mission-Driven Startups & Entrepreneurs
         subtitle: ''
         text: >
-          Every campaign is engineered to generate meaningful, direct and
-          measurable change.
+          We help early-stage ventures with a social or environmental purpose
+          get strategic brand support, digital media assets, and marketing
+          support to grow with purpose.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -239,13 +246,13 @@ sections:
         style: secondary
         elementId: ''
   - title:
-      text: Business Consulting
+      text: Business Development
       color: text-dark
       type: TitleBlock
-    subtitle: Supporting the brands we love.
+    subtitle: Building the brands we love.
     text: >
-      From business development, to impact strategy and content creation, we
-      provide the tools and insights needed to scale your mission effectively.
+      From incorporation and auditing to market positioning, we provide the
+      tools and insights you need to scale your mission effectively.
     actions:
       - label: Learn More
         url: 'https://ecoia.netlify.app/set-packages'
@@ -267,7 +274,7 @@ sections:
         alignItems: center
     type: GenericSection
   - title:
-      text: Creative Solutions
+      text: Digital Presence
       color: text-dark
       type: TitleBlock
     subtitle: Where creativity meets impact
@@ -295,6 +302,34 @@ sections:
         alignItems: center
         flexDirection: row-reverse
     type: GenericSection
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Partnership Facilitation
+      color: text-dark
+    subtitle: Increase your reach
+    text: >
+      A service that helps businesses to manage their social media accounts and
+      posts.
+    actions:
+      - type: Button
+        label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+    media:
+      type: ImageBlock
+      url: /images/hero2.svg
+      altText: Fun feature preview
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
