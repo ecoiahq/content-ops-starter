@@ -277,7 +277,7 @@ sections:
       drive growth and amplify impact. 
     actions:
       - label: Get started
-        url: /
+        url: /Get-Started
         icon: arrowRight
         iconPosition: right
         style: secondary
