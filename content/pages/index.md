@@ -109,8 +109,8 @@ sections:
       - title: Creative
         subtitle: ''
         text: >
-          We produce films, reels, podcasts, design, explainer animation, and
-          photography—to help you amplify your mission.
+          Compelling visual storytelling, campaign development, and media assets
+          that bring your mission to life.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
