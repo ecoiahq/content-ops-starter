@@ -274,7 +274,7 @@ sections:
         alignItems: center
     type: GenericSection
   - title:
-      text: Website Develoment
+      text: Digital Presence & Growth
       color: text-dark
       type: TitleBlock
     subtitle: Where creativity meets impact
