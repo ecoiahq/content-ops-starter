@@ -248,7 +248,7 @@ sections:
         style: secondary
         type: Button
     media:
-      url: /images/hero2.svg
+      url: /images/undraw_data-trends_kv5v.svg
       altText: Fun feature preview
       type: ImageBlock
     badge:
