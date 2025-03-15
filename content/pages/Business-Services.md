@@ -165,8 +165,10 @@ sections:
         title: Grant Proposal Development
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Our expert team creates compelling grant proposals that highlight your
+          organisation's mission, goals, and impact, maximising your chances of
+          securing funding from foundations and donors.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
