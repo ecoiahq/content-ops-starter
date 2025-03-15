@@ -9,11 +9,11 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      We deliver business consultancy, digital solutions, and creative
-      production for organisations and individuals with a social mission. With a
-      foundation in the UK broadcast media sector, combined with cultural
-      insight, we provide you with advantageous steps to create lasting positive
-      for people and the planet.
+      We provide business consultancy, digital solutions, and creative
+      production for organisations with a social mission. With a foundation in
+      the UK broadcast media sector, combined with cultural insight, we provide
+      you with advantageous steps to create lasting positive impact for people
+      and the planet.
     actions:
       - label: Get started
         altText: ''
