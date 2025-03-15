@@ -42,7 +42,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Professional
+      - title: Ecoia Foundation
         price: $99
         details: per month
         description: >-
