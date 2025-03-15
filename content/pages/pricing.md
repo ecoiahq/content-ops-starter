@@ -81,7 +81,7 @@ sections:
         description: |
           For businesses focused on expanding reach & funding
         features:
-          - Feature one
+          - Brand Strategy Development
           - Feature two
           - Feature three
           - Feature four
