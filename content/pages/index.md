@@ -249,7 +249,7 @@ sections:
       and engage your audience effectively.
     actions:
       - label: Get started
-        url: /
+        url: /Get-Started
         icon: arrowRight
         iconPosition: right
         style: secondary
