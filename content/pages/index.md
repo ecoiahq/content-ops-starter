@@ -246,7 +246,7 @@ sections:
         style: secondary
         elementId: ''
   - title:
-      text: Business Consultancy
+      text: Business Development
       color: text-dark
       type: TitleBlock
     subtitle: Growing the brands we love.
