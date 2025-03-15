@@ -46,7 +46,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: 3 Core Areas
+      text: Our Core Areas
       color: text-light
       styles:
         self:
