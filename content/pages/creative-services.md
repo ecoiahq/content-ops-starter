@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: Creative Services
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
@@ -23,7 +23,7 @@ sections:
       impact.</div>
 
     actions: []
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
