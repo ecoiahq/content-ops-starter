@@ -77,7 +77,7 @@ sections:
         type: PricingPlan
       - title: Enterprise
         price: '£2,750'
-        details: per month
+        details: Billed Monthly
         description: |
           For businesses focused on expanding reach & funding
         features:
