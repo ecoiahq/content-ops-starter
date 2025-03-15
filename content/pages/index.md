@@ -17,7 +17,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /set-packages
+        url: 'https://ecoia.netlify.app/pricing'
         showIcon: false
         icon: arrowRight
         iconPosition: right
