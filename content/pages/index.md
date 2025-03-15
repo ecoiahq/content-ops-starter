@@ -536,7 +536,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 'Tell us a little about you, and let''s get started.'
-    text: ''
+    text: >
+      We’re here to help you amplify your mission, engage your audience, and
+      create lasting impact. Whether you're a nonprofit, ethical brand, media
+      platform, startup, or a business with a CSR initiative, we’re ready to
+      collaborate on campaigns that align with your values and goals.
     media:
       fields:
         - name: name
