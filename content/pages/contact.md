@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Meet the Team Behind Ecoia
+      text: Meet the Team
       color: text-light
       styles:
         self:
