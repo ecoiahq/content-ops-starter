@@ -112,9 +112,9 @@ sections:
       - title: Creative
         subtitle: ''
         text: >
-          We help early-stage ventures with a social or environmental purpose
-          get strategic brand support, digital media assets, and marketing
-          support to grow with purpose.
+          We produce high-quality content, including video, design, animation,
+          and photography, to help organisations tell their story and amplify
+          their mission with powerful visuals.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
