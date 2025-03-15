@@ -140,7 +140,7 @@ sections:
         type: FeaturedItem
     actions:
       - label: Apply now
-        url: /
+        url: /get-started
         icon: arrowRight
         iconPosition: right
         style: primary
