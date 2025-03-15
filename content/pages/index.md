@@ -107,9 +107,8 @@ sections:
         type: FeaturedItem
       - title: Impact Driven
         subtitle: ''
-        text: |+
+        text: |
           Every campaign is engineered to generate measurable change.
-
         image:
           url: /images/icon3.svg
           altText: Featured icon three
