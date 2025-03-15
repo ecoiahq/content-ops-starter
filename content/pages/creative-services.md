@@ -113,7 +113,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Podcast Production
-        subtitle: Engineering
+        subtitle: ''
         text: >
           We develop tailored impact strategies that align with your mission and
           objectives, ensuring measurable social or environmental change while
