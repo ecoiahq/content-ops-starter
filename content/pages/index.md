@@ -81,7 +81,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Media Activation
+      - title: Media Production
         subtitle: ''
         text: >
           We craft compelling narratives that engage audiences and inspire
