@@ -105,7 +105,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Social & Environmental Impact
+      - title: Impact Driven
         subtitle: ''
         text: |+
           Every campaign is engineered to generate measurable change.
