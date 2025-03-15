@@ -23,7 +23,7 @@ sections:
       impact.</div>
 
     actions: []
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
