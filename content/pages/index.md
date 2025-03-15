@@ -9,11 +9,10 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      We are a diverse team delivering brand development, digital marketing, and
-      creative media production for organisations with a social mission. With a
-      foundation in the UK broadcast media sector, combined with cultural
-      insight, we provide you with advantageous steps to create lasting positive
-      impact for people and the planet.
+      We craft innovative, mission-driven storytelling, digital solutions, and
+      creative campaigns that amplify your purpose. Whether you're a nonprofit,
+      ethical brand, or CSR leader, we help you engage supporters, grow your
+      influence, and make a real difference.
     actions:
       - label: Get started
         altText: ''
