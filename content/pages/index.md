@@ -249,7 +249,7 @@ sections:
       text: Business Development
       color: text-dark
       type: TitleBlock
-    subtitle: Growing the brands we love.
+    subtitle: Building the brands we love.
     text: >
       From business audits to impact roadmaps and market positioning, we provide
       the tools and insights you need to scale your mission effectively.
