@@ -12,7 +12,7 @@ sections:
     subtitle: We offer set packages to support your mission.
     plans:
       - title: Ecoia Audit
-        price: Free
+        price: '£1,350'
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
