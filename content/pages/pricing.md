@@ -26,7 +26,7 @@ sections:
           altText: Pricing plan 1
           type: ImageBlock
         actions:
-          - label: Get Started Now
+          - label: Get Started
             url: /
             icon: arrowRight
             iconPosition: right
