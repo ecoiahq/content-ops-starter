@@ -52,7 +52,7 @@ sections:
           - Feature one
           - Website Design & Optimisation
           - 'SEO, SEM Optimisation'
-          - Feature four
+          - Social Media Management (Organic & Paid)
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
