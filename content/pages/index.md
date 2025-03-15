@@ -58,8 +58,9 @@ sections:
         title: Third-Sector Organisations & Nonprofits
         subtitle: ''
         text: >
-          Whether you are in the planning stage or identifying current
-          challenges, we support your growth across all areas of your business.
+          We help charities, NGOs, and mission-driven organizations craft
+          compelling stories and creative campaigns that inspire action, engage
+          supporters, and drive funding.
         actions: []
         elementId: null
         colors: bg-light-fg-dark
