@@ -300,34 +300,6 @@ sections:
         alignItems: center
         flexDirection: row-reverse
     type: GenericSection
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Partnership Facilitation
-      color: text-dark
-    subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-    media:
-      type: ImageBlock
-      url: /images/hero2.svg
-      altText: Fun feature preview
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
