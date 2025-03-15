@@ -37,17 +37,17 @@
             "type": "SubNav"
         },
         {
-            "label": "EcoiaFund™",
-            "altText": "EcoiaFund™",
-            "url": "https://lucent-frangipane-84e1c1.netlify.app/",
+            "label": "Packages",
+            "url": "/packages",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Packages",
-            "url": "/packages",
+            "label": "EcoiaFund™",
+            "altText": "EcoiaFund™",
+            "url": "https://lucent-frangipane-84e1c1.netlify.app/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
