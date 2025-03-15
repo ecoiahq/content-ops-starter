@@ -86,7 +86,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Creative Director
+        title: Freelance Creative Director
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
