@@ -13,9 +13,10 @@ sections:
     subtitle: "Strategic Thinkers. Passionate Creatives.\_Impact-Driven Innovators."
     text: >
       At Ecoia, we believe in the power of storytelling, strategy, and
-      creativity to drive real change. Our team is made up of purpose-led
-      professionals who are dedicated to helping mission-driven organisations,
-      ethical brands, and social enterprises amplify their impact.
+      creativity to drive real change. We are a collective of purpose-led
+      professionals—strategists, designers, storytellers, and digital
+      specialists—committed to helping mission-driven organisations, ethical
+      brands, and social enterprises amplify their impact.
     actions:
       - type: Button
         label: See open positions
