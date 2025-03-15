@@ -87,9 +87,9 @@ sections:
       - title: Digital
         subtitle: ''
         text: >
-          We help mission-driven organisations, ethical brands, and startups
-          create effective strategies, secure funding, and craft messaging that
-          engages supporters and drives impact.
+          We enhance the digital presence of social enterprises, non-profits,
+          and businesses, optimising websites, SEO, and social media to boost
+          visibility, growth, and engagement.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
