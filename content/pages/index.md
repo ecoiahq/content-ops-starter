@@ -58,9 +58,8 @@ sections:
         title: Strategy
         subtitle: ''
         text: >
-          We help mission-driven organisations partner with key sector
-          influencers, craft compelling messaging and deliver campaigns that
-          inspire action, engage supporters, and drive funding.
+          We help mission-driven organisations develop impactful strategies,
+          build partnerships, and secure funding. 
         actions: []
         elementId: null
         colors: bg-light-fg-dark
