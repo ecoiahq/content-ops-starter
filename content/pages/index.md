@@ -7,7 +7,7 @@ sections:
       text: Supporting Founders to make Positive Impact.
       color: text-dark
       type: TitleBlock
-    subtitle: Strategic Growth. Creative Excellence. Meaningful Impact.
+    subtitle: ''
     text: >
       Ecoia blends strategic business consultancy with creative innovation,
       ensuring your brand not only grows but actively contributes to a better
