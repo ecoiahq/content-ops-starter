@@ -244,10 +244,10 @@ sections:
         style: secondary
         elementId: ''
   - title:
-      text: Business Development
+      text: Business Services
       color: text-dark
       type: TitleBlock
-    subtitle: Building the brands we love.
+    subtitle: ''
     text: >
       From incorporation and auditing to market positioning, we provide the
       tools and insights you need to scale your mission effectively.
@@ -272,10 +272,10 @@ sections:
         alignItems: center
     type: GenericSection
   - title:
-      text: Digital Presence
+      text: Digital Services
       color: text-dark
       type: TitleBlock
-    subtitle: Where creativity meets impact
+    subtitle: ''
     text: >
       From UX/UI website design to video production, we deliver digital
       innovation to drive growth and amplify impact.
@@ -300,34 +300,6 @@ sections:
         alignItems: center
         flexDirection: row-reverse
     type: GenericSection
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Partnership Facilitation
-      color: text-dark
-    subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-    media:
-      type: ImageBlock
-      url: /images/hero2.svg
-      altText: Fun feature preview
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
