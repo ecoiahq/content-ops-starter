@@ -246,7 +246,7 @@ sections:
         elementId: ''
   - title:
       text: Business Services
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: ''
     text: >
