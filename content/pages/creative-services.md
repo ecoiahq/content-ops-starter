@@ -115,9 +115,9 @@ sections:
         title: Podcast Production
         subtitle: ''
         text: >
-          We develop tailored impact strategies that align with your mission and
-          objectives, ensuring measurable social or environmental change while
-          maximising your influence and reach.
+          From concept to editing, we handle all aspects of podcast production,
+          delivering professional audio content that resonates with your
+          listeners.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
