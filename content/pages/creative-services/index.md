@@ -260,7 +260,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: /creative-services
+slug: /creative-services/
 seo:
   type: Seo
   metaTitle: Careers - Demo site
