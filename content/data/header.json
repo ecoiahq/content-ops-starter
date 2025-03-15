@@ -37,9 +37,9 @@
             "type": "SubNav"
         },
         {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
+            "label": "EcoiaFund™",
+            "altText": "EcoiaFund™",
+            "url": "https://lucent-frangipane-84e1c1.netlify.app/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
