@@ -51,7 +51,7 @@ sections:
         features:
           - Feature one
           - Website Design & Optimisation
-          - Feature three
+          - 'SEO, SEM Optimisation'
           - Feature four
         image:
           url: /images/abstract-feature2.svg
