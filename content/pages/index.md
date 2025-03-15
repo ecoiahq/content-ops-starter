@@ -109,8 +109,8 @@ sections:
       - title: Creative
         subtitle: ''
         text: >
-          We produce documentaries, reels, podcasts, design, explainer
-          animation, and photography—to help you amplify your mission. 
+          We produce films, reels, podcasts, design, explainer animation, and
+          photography—to help you amplify your mission.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
