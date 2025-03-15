@@ -15,7 +15,7 @@ sections:
       a strategic advantage, offering deep insight, expertise, and connections
       to deliver high-impact projects.
     actions:
-      - label: See open positions
+      - label: Explore our open positions
         url: /
         icon: arrowRight
         iconPosition: right
