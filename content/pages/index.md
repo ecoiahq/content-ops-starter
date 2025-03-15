@@ -78,7 +78,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Creative Storytelling
+      - title: Media Activation
         subtitle: ''
         text: >
           We craft compelling narratives that engage audiences and inspire
