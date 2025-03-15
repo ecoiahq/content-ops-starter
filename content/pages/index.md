@@ -109,9 +109,9 @@ sections:
       - title: Creative
         subtitle: ''
         text: >
-          We produce high-quality content, including video, design, animation,
-          and photography, to help organisations tell their story and amplify
-          their mission with powerful visuals.
+          We produce and edit video, podcasts, design, animation, and
+          photography—to help your amplify their mission with compelling
+          visuals.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
