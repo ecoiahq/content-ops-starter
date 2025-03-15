@@ -86,9 +86,9 @@ sections:
       - title: Digital
         subtitle: ''
         text: >
-          We help businesses showcase their commitment to sustainability,
-          ethical practices, and corporate responsibility through comprehensive
-          audits and integrated strategies.
+          We help mission-driven organisations, ethical brands, and startups
+          create effective strategies, secure funding, and craft messaging that
+          engages supporters and drives impact.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
