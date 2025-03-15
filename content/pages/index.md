@@ -57,10 +57,11 @@ sections:
       - type: FeaturedItem
         title: Strategy
         subtitle: ''
-        text: >
-          We help mission-driven organisations, ethical brands, startups, and
-          CSR initiatives develop impactful strategies, secure funding, and
-          craft messaging that drives change and engages key stakeholders.
+        text: >+
+          We help mission-driven organisations, ethical brands, and startups
+          create effective strategies, secure funding, and craft messaging that
+          engages supporters and drives impact.
+
         actions: []
         elementId: null
         colors: bg-light-fg-dark
