@@ -13,7 +13,7 @@ sections:
       mission-driven creative campaigns that amplify your social and
       environmental mission. Whether you're a nonprofit, ethical brand, or CSR
       leader, we help you engage supporters, grow your influence, and make a
-      real difference.
+      real difference at the grassroots level. 
     actions:
       - label: Get started
         altText: ''
