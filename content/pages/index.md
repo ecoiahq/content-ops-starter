@@ -46,7 +46,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Who we support.
+      text: What we do.
       color: text-light
       styles:
         self:
