@@ -19,14 +19,6 @@ sections:
       anything embarrassing hidden in the middle of text.
     actions: []
     colors: bg-light-fg-dark
-    backgroundImage:
-      type: BackgroundImage
-      url: /images/abstract-background.svg
-      altText: Placeholder image
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
     styles:
       self:
         padding:
