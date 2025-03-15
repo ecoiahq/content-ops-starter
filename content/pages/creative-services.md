@@ -131,8 +131,8 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Photography
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+        tagline: ''
+        subtitle: ''
         text: >
           Through social listening, we help you understand audience sentiment,
           track key conversations, and identify emerging trends to inform your
