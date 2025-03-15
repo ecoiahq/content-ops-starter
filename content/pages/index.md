@@ -17,7 +17,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: 'https://ecoia.netlify.app/set-packages'
+        url: /set-packages
         showIcon: false
         icon: arrowRight
         iconPosition: right
