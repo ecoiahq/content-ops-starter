@@ -113,8 +113,10 @@ sections:
         title: 'Social Listening '
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Through social listening, we help you understand audience sentiment,
+          track key conversations, and identify emerging trends to inform your
+          strategy and strengthen stakeholder engagement.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
