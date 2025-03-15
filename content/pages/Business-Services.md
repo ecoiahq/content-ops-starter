@@ -10,7 +10,9 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Section subtitle
+    subtitle: >-
+      Empowering mission-driven organisations with strategic solutions that
+      drive growth, impact, and lasting change.
     text: >
       Our business services focus on key areas such as brand strategy, business
       development, grant writing, and CSR reporting. We collaborate with you to
