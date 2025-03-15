@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Where Strategy Meets Creativity for Impact
+      text: Supporting Founders to make Positive Impact.
       color: text-dark
       type: TitleBlock
     subtitle: Strategic Growth. Creative Excellence. Meaningful Impact.
