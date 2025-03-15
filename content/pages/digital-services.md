@@ -45,7 +45,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Video Production
+        title: UI/UX Website Design & Optimisation
         tagline: This is the tagline
         subtitle: ''
         text: >
