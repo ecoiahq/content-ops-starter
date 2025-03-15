@@ -254,13 +254,6 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-      - label: ''
-        url: /Get-Started
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
     media:
       url: /images/hero2.svg
       altText: Fun feature preview
