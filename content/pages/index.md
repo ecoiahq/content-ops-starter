@@ -46,7 +46,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Our Areas of Expertise
+      text: Who we Support
       color: text-light
       styles:
         self:
