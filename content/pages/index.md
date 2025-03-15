@@ -4,16 +4,16 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Helping You to Drive Positive Impact.
+      text: Helping You Drive Positive Impact
       color: text-dark
       type: TitleBlock
     subtitle: ''
     text: >
-      We help mission-driven founders and organisations build scalable brands
-      and impactful campaigns through strategic consultancy and creative
-      solutions. Built on extensive experience across the broadcast media
-      industry, we combine strategic thinking, cultural insight, and creative
-      agility to amplify your initiative. 
+      We deliver business consultancy, digital solutions, and creative
+      production for organisations and individuals with a social mission. With a
+      foundation in the UK broadcast media sector, combined with cultural
+      insight, we provide you with advantageous steps to create lasting positive
+      for people and the planet.
     actions:
       - label: Get started
         altText: ''
@@ -46,22 +46,20 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Our Expertise
+      text: Our Core Areas
       color: text-light
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Business-Focused. Impact-Driven. Creatively Engineered.
+    subtitle: A Three-Pillar Approach to Empower Your Organisation.
     items:
       - type: FeaturedItem
         title: Strategy
         subtitle: ''
-        text: >+
-          We help mission-driven organisations, ethical brands, and startups
-          create effective strategies, secure funding, and craft messaging that
-          engages supporters and drives impact.
-
+        text: >
+          We empower startups, mission-driven organisations, and ethical brands
+          to craft effective strategies that drive impact.
         actions: []
         elementId: null
         colors: bg-light-fg-dark
@@ -87,9 +85,8 @@ sections:
       - title: Digital
         subtitle: ''
         text: >
-          We enhance the digital presence of social enterprises, non-profits,
-          and businesses, optimising websites, SEO, and social media to boost
-          visibility, growth, and engagement.
+          We enhance your digital presence by optimising websites, SEO, and your
+          social media channels for greater visibility.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -112,9 +109,9 @@ sections:
       - title: Creative
         subtitle: ''
         text: >
-          We produce high-quality content, including video, design, animation,
-          and photography, to help organisations tell their story and amplify
-          their mission with powerful visuals.
+          We produce and edit video, podcasts, design, animation, and
+          photography—to help your amplify their mission with compelling
+          visuals.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
