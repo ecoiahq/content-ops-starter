@@ -9,8 +9,8 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      We deliver impactful brand strategy and creative solutions for businesses
-      with a social mission.
+      We deliver brand development, impactful strategy and creative solutions
+      for businesses with a social mission.
     actions:
       - label: Get started
         altText: ''
