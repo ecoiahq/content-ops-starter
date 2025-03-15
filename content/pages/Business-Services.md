@@ -6,23 +6,21 @@ sections:
     title:
       type: TitleBlock
       text: Business Services
-      color: text-light
+      color: text-dark
       styles:
         self:
           textAlign: center
     subtitle: ''
     text: >+
-      <div style="text-align: left">Our business services are centred around key
-      areas including business plan development, brand and impact strategy,
-      business development, grant writing, and CSR reporting. We work closely
-      with you to refine your brand, build strategic partnerships, secure
-      funding, and implement actionable strategies that align with your social
-      and environmental goals. With a strong foundation in strategic thinking
-      and a focus on measurable results, we deliver tailored solutions that help
-      your organisation succeed and grow in today’s competitive landscape.</div>
+      <div style="text-align: left">Our business consultancy services are
+      centred around crucial areas of business development and growth. From
+      business plan development, to grant development support and CSR reporting,
+      we work closely with you to refine your brand, build strategic
+      partnerships, secure funding, and implement actionable strategies that
+      align with your goals. </div>
 
     actions: []
-    colors: bg-dark-fg-light
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
