@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      We partner with mission-driven organizations and entrepreneurs to build
+      We work with mission-driven organisations and entrepreneurs to build
       impactful brands and messaging campaigns through strategic consultancy and
       creative storytelling. With a strong foundation in the UK broadcast media
       industry, we blend strategic thinking, cultural insight, and creative
