@@ -58,8 +58,8 @@ sections:
         title: Strategy
         subtitle: ''
         text: >
-          We develop effective strategies to empower startups, established
-          organisations, and ethical brands.
+          Expert guidance in brand positioning, audience engagement, and funding
+          strategies to maximise your impact.
         actions: []
         elementId: null
         colors: bg-light-fg-dark
