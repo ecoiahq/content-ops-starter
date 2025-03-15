@@ -235,7 +235,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      From brand strategy to media production, we provide full-scale solutions
+      From brand strategy to impact reporting, we provide full-scale solutions
       that help your mission-driven organisation grow.
     actions:
       - label: Learn More
