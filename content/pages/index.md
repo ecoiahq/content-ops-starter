@@ -258,7 +258,7 @@ sections:
         textAlign: center
     type: GenericSection
   - title:
-      text: Business Development
+      text: Business Consulting
       color: text-dark
       type: TitleBlock
     subtitle: Supporting the brands we love.
