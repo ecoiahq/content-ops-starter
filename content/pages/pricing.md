@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: We offer set packages to support your mission.
     plans:
-      - title: Developers
+      - title: Ecoia Audit
         price: Free
         details: No credit card required
         description: >-
