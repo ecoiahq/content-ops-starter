@@ -52,7 +52,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: A 3-pillar approach to driving innovation and impact.
+    subtitle: A Three-Pillar Approach to Driving Innovation and Impact.
     items:
       - type: FeaturedItem
         title: Strategy
