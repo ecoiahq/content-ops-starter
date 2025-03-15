@@ -275,7 +275,7 @@ sections:
       text: Digital Services
       color: text-dark
       type: TitleBlock
-    subtitle: Where creativity meets impact
+    subtitle: ''
     text: >
       From UX/UI website design to video production, we deliver digital
       innovation to drive growth and amplify impact.
