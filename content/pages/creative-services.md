@@ -75,7 +75,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Graphic Design
-        subtitle: From XYZ P/M.
+        subtitle: ''
         text: >
           We help mission-driven organisations define their unique value and
           position in the market, crafting brand strategies that resonate with
