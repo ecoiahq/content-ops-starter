@@ -96,7 +96,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Social Media Management (Organic )
-        subtitle: Animation
+        subtitle: Social Media Management
         text: >
           We manage your social media platforms with a blend of organic content
           creation and paid advertising strategies. Our approach fosters
