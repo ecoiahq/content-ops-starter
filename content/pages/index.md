@@ -9,10 +9,10 @@ sections:
       type: TitleBlock
     subtitle: Strategic Growth. Creative Excellence. Meaningful Impact.
     text: >
-      Ecoia blends strategic consultancy with creative execution, ensuring your
-      brand not only grows but actively contributes to a better world. Whether
-      through storytelling, brand strategy, or digital engagement, we turn
-      vision into action.
+      Ecoia blends strategic business consultancy with creative innovation,
+      ensuring your brand not only grows but actively contributes to a better
+      world. Whether through storytelling, brand strategy, or digital
+      engagement, we turn vision into action.
     actions:
       - label: Get started
         altText: ''
