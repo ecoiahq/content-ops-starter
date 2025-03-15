@@ -305,7 +305,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Digital Presence & Growth
+      text: Digital Presence
       color: text-dark
     subtitle: Where creativity meets impact
     text: >
