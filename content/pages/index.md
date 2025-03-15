@@ -191,7 +191,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: EcoiaFund
+      text: EcoiaFund™
       color: text-dark
       styles:
         self:
