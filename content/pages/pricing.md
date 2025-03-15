@@ -76,7 +76,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Enterprise
-        price: Custom
+        price: '£2,750'
         details: per month
         description: |
           For businesses focused on expanding reach & funding
