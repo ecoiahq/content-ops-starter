@@ -9,11 +9,11 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      We help mission-driven organisations and entrepreneurs build strong,
-      purpose-led brands through strategic storytelling, immersive media
-      solutions, and impactful campaigns. With deep expertise in the media
-      industry, we combine strategic thinking, cultural insight, and creative
-      agility to amplify your social and environmental mission.
+      We partner with mission-driven organisations to build purpose-led brands
+      and campaigns through strategic consultancy and creative storytelling.
+      With deep expertise in the media industry, we blend strategic thinking,
+      cultural insight, and creative agility to amplify your social and
+      environmental mission.
     actions:
       - label: Get started
         altText: ''
