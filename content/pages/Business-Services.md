@@ -22,7 +22,7 @@ sections:
       your organisation succeed and grow in today’s competitive landscape.</div>
 
     actions: []
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
