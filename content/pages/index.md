@@ -248,7 +248,7 @@ sections:
         style: secondary
         type: Button
     media:
-      url: /images/hero2.svg
+      url: /images/undraw_data-trends_kv5v.svg
       altText: Fun feature preview
       type: ImageBlock
     badge:
@@ -276,7 +276,7 @@ sections:
         style: secondary
         type: Button
     media:
-      url: /images/hero3.svg
+      url: /images/undraw_progressive-app_9517.svg
       altText: Dope design preview
       type: ImageBlock
     badge:
@@ -307,7 +307,7 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/undraw_video-files_cxl9.svg
       altText: Fun feature preview
     badge:
       type: Badge
