@@ -74,10 +74,10 @@ sections:
       - type: FeaturedItem
         title: Brand Audit
         subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Our brand audit service provides a comprehensive review of your
+          brand’s performance, identifying strengths, weaknesses, and
+          opportunities to refine your messaging and improve market presence.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
