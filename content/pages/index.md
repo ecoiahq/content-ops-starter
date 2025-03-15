@@ -9,9 +9,10 @@ sections:
       type: TitleBlock
     subtitle: Strategic Growth. Creative Excellence. Meaningful Impact.
     text: >
-      Ecoia provides the strategic guidance, creative resources, and cultural
-      insight needed to help purpose-led organizations grow, engage their
-      audience, and maximize their impact.
+      Ecoia blends strategic consultancy with creative execution, ensuring your
+      brand not only grows but actively contributes to a better world. Whether
+      through storytelling, brand strategy, or digital engagement, we turn
+      vision into action.
     actions:
       - label: Get started
         altText: ''
