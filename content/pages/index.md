@@ -255,7 +255,7 @@ sections:
         style: secondary
         type: Button
       - label: ''
-        url: /
+        url: /Get-Started
         showIcon: true
         icon: arrowRight
         iconPosition: right
