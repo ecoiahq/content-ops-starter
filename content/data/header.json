@@ -67,7 +67,7 @@
         {
             "label": "Our Team",
             "altText": "Team Page",
-            "url": "https://ecoia.netlify.app/our-team",
+            "url": "https://ecoia.netlify.app/our-team/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
