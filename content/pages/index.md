@@ -331,7 +331,7 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
-        justifyContent: flex-end
+        justifyContent: flex-start
   - type: GenericSection
     title:
       type: TitleBlock
