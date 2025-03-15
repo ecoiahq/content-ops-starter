@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: Meet our Team
-      color: text-light
+      color: text-dark
       styles:
         self:
           textAlign: center
@@ -23,7 +23,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-    colors: bg-dark-fg-light
+    colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
       altText: Placeholder image
