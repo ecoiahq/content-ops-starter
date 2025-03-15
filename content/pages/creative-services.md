@@ -49,7 +49,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Business Planning
+        title: Video Production
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >
