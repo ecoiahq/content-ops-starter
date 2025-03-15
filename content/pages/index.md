@@ -301,6 +301,34 @@ sections:
         alignItems: center
         flexDirection: row-reverse
     type: GenericSection
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Business Services
+      color: text-light
+    subtitle: ''
+    text: >
+      From incorporation and auditing to market positioning, we provide the
+      tools and insights you need to scale your mission effectively.
+    actions:
+      - type: Button
+        label: Learn More
+        url: 'https://ecoia.netlify.app/set-packages'
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+    media:
+      type: ImageBlock
+      url: /images/hero2.svg
+      altText: Fun feature preview
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        alignItems: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
