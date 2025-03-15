@@ -117,7 +117,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Podcast Production
+        title: Data Analytics and Reporting
         subtitle: ''
         text: >
           From concept to editing, we handle all aspects of podcast production,
