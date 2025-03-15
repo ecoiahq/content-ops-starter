@@ -44,7 +44,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Business Services
+      text: ''
       color: text-dark
       styles:
         self:
