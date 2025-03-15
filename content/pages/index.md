@@ -237,7 +237,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      From incorporation and auditing to market positioning, we provide the
+      From business planning to audits to market positioning, we provide the
       tools and insights you need to scale your mission effectively.
     actions:
       - label: Learn More
