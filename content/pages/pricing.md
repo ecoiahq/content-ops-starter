@@ -50,7 +50,7 @@ sections:
 
         features:
           - Feature one
-          - Feature two
+          - Website Design & Optimisation
           - Feature three
           - Feature four
         image:
