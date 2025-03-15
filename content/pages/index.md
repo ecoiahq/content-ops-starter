@@ -258,7 +258,7 @@ sections:
         textAlign: center
     type: GenericSection
   - title:
-      text: Business Strategy & Development
+      text: Business Development
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
