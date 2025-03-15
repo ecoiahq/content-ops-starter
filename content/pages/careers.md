@@ -11,9 +11,11 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      At Ecoia, our presence across the UK broadcast media sector gives clients
-      a strategic advantage, offering deep insight, expertise, and connections
-      to deliver high-impact projects.
+      At Ecoia, we believe that great work comes from great people. We’re always
+      looking for talented, passionate, and driven individuals who are ready to
+      help us push boundaries, innovate, and create amazing work for our
+      clients. If you're ready to be part of something exciting, explore our
+      current opportunities and see how you can contribute to our growing team.
     actions:
       - label: Explore our open positions
         url: /our-careers
