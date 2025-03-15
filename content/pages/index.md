@@ -52,7 +52,7 @@ sections:
     subtitle: Business-Focused. Impact-Driven. Creatively Engineered.
     items:
       - type: FeaturedItem
-        title: Strategic Growth
+        title: Strategic Roadmap
         subtitle: ''
         text: |
           We design business development strategies that scale your mission.
