@@ -241,7 +241,7 @@ sections:
       tools and insights you need to scale your mission effectively.
     actions:
       - label: Learn More
-        url: 'https://ecoia.netlify.app/pricing'
+        url: 'https://ecoia.netlify.app/business-services'
         icon: arrowRight
         iconPosition: right
         style: secondary
@@ -269,7 +269,7 @@ sections:
       innovation to drive growth and amplify impact.
     actions:
       - label: Learn More
-        url: 'https://ecoia.netlify.app/set-packages'
+        url: 'https://ecoia.netlify.app/digital-services/'
         icon: arrowRight
         iconPosition: right
         style: secondary
@@ -300,7 +300,7 @@ sections:
     actions:
       - type: Button
         label: Learn More
-        url: 'https://ecoia.netlify.app/set-packages'
+        url: 'https://ecoia.netlify.app/creative-services/'
         icon: arrowRight
         iconPosition: right
         style: secondary
