@@ -9,11 +9,11 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      We deliver business consultancy, digital solutions, and creative
-      production for organisations and individuals with a social mission. With a
-      foundation in the UK broadcast media sector, combined with cultural
-      insight, we provide you with advantageous steps to create lasting positive
-      for people and the planet.
+      We provide business consultancy, digital solutions, and creative
+      production for organisations with a social mission. With a foundation in
+      the UK broadcast media sector, combined with cultural insight, we provide
+      you with advantageous steps to create lasting positive impact for people
+      and the planet.
     actions:
       - label: Get started
         altText: ''
@@ -58,8 +58,8 @@ sections:
         title: Strategy
         subtitle: ''
         text: >
-          We empower startups, mission-driven organisations, and ethical brands
-          to craft effective strategies that drive impact.
+          We develop effective strategies to empower startups, established
+          organisations, and ethical brands.
         actions: []
         elementId: null
         colors: bg-light-fg-dark
@@ -85,8 +85,8 @@ sections:
       - title: Digital
         subtitle: ''
         text: >
-          We enhance your digital presence by optimising websites, SEO, and your
-          social media channels for greater visibility.
+          Our digital team build UX/UI websites, optimise SEO, and manage your
+          social media channels and paid media to enhance your visibility.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -109,9 +109,8 @@ sections:
       - title: Creative
         subtitle: ''
         text: >
-          We produce and edit video, podcasts, design, animation, and
-          photography—to help your amplify their mission with compelling
-          visuals.
+          We produce films, reels, podcasts, design, explainer animation, and
+          photography—to help you amplify your mission.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
