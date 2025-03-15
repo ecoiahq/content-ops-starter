@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: Business Services
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
@@ -20,7 +20,7 @@ sections:
       align with your goals. </div>
 
     actions: []
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
