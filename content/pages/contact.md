@@ -5,8 +5,8 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Meet the Team Behind Ecoia
-      color: text-dark
+      text: Meet our Team
+      color: text-light
       styles:
         self:
           textAlign: center
@@ -23,10 +23,9 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     backgroundImage:
       type: BackgroundImage
-      url: /images/abstract-background.svg
       altText: Placeholder image
       backgroundSize: cover
       backgroundPosition: center
