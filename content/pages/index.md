@@ -125,7 +125,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Explore our services
         altText: ''
         url: 'https://ecoia.netlify.app/set-packages'
         showIcon: false
