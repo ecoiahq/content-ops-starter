@@ -55,7 +55,7 @@ sections:
     subtitle: Business-Focused. Impact-Driven. Creatively Engineered.
     items:
       - type: FeaturedItem
-        title: Strategy
+        title: Third-Sector Organisations & Nonprofits
         subtitle: ''
         text: >
           Whether you are in the planning stage or identifying current
