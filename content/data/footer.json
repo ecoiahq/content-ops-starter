@@ -52,7 +52,7 @@
         },
         {
             "altText": "Email link",
-            "url": "mailto:ecoiahq@gmail.com",
+            "url": "<a href=\"mailto:{address}?subject={subject}&body={body}\">{Text of link}</a>",
             "icon": "mail",
             "type": "Social"
         }
