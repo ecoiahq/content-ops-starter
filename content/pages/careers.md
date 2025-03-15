@@ -3,22 +3,22 @@ title: Careers
 slug: careers
 sections:
   - title:
-      text: A team that works closely together
+      text: Join the Team
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Section subtitle
+    subtitle: ''
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      We’re always looking for talented, passionate, and driven individuals who
+      are ready to help us push boundaries, innovate, and create amazing work
+      for our clients. If you're ready to be part of something exciting, explore
+      our current opportunities and see how you can contribute to our growing
+      team.
     actions:
-      - label: See open positions
-        url: /
+      - label: Explore our open positions
+        url: /our-careers
         icon: arrowRight
         iconPosition: right
         style: primary
@@ -48,7 +48,7 @@ sections:
       opacity: 100
       url: /images/abstract-background.svg
   - title:
-      text: Meet the team
+      text: Our ‍Team
       color: text-dark
       styles:
         self:
@@ -81,7 +81,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Explore our open vacancies
     items:
       - title: Account Executive
         subtitle: Sales
@@ -102,7 +102,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Open Source Engineer
+      - title: Digital Marketing Manager
         subtitle: Marketing
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -121,8 +121,8 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Senior Software Engineer
-        subtitle: Engineering
+      - title: Head of Fundraising
+        subtitle: Fundraising
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
@@ -140,7 +140,7 @@ sections:
         type: FeaturedItem
     actions:
       - label: Apply now
-        url: /
+        url: /get-started
         icon: arrowRight
         iconPosition: right
         style: primary
