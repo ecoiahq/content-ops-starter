@@ -283,7 +283,7 @@ sections:
       text: Creative Solutions
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: Where creativity meets impact
     text: >
       From website design to video production, we deliver digital innovation to
       drive growth and amplify impact. 
