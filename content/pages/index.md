@@ -132,7 +132,7 @@ sections:
     actions:
       - label: Explore our services
         altText: ''
-        url: 'https://ecoia.netlify.app/set-packages'
+        url: 'https://ecoia.netlify.app/pricing'
         showIcon: false
         icon: arrowRight
         iconPosition: right
