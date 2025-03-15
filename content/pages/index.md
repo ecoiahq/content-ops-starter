@@ -263,8 +263,8 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      From UX/UI website design to video production, we deliver digital
-      innovation to drive growth and amplify impact.
+      Maximise your online reach with a refreshed website, application, or
+      digital campaign that fuels audience engagement and impact.
     actions:
       - label: Learn More
         url: 'https://ecoia.netlify.app/digital-services/'
