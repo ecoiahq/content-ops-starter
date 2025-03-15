@@ -12,11 +12,12 @@ sections:
           textAlign: center
     subtitle: Section subtitle
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      Our business services span across business development, grant writing, and
+      creative media, helping you build stronger brands, engage stakeholders,
+      and secure the funding needed to fuel your mission. Whether you're looking
+      to refine your brand strategy, optimise your digital presence, or craft
+      powerful campaigns, we deliver impactful solutions designed to drive real
+      change.
     actions: []
     colors: bg-light-fg-dark
     styles:
