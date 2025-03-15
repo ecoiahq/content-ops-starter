@@ -112,7 +112,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Impact Strategy
+        title: Podcast Production
         subtitle: Engineering
         text: >
           We develop tailored impact strategies that align with your mission and
