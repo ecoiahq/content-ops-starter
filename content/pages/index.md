@@ -285,8 +285,8 @@ sections:
       type: TitleBlock
     subtitle: Where creativity meets impact
     text: >
-      From website design to video production, we deliver digital innovation to
-      drive growth and amplify impact. 
+      From UX/UI website design to video production, we deliver digital
+      innovation to drive growth and amplify impact.
     actions:
       - label: Learn More
         url: 'https://ecoia.netlify.app/Business-Services/'
