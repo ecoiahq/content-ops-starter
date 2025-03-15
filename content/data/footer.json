@@ -10,7 +10,7 @@
         "links": [
             {
                 "label": "Packages",
-                "url": "https://ecoia.netlify.app/packages/",
+                "url": "https://ecoia.netlify.app/pricing",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
