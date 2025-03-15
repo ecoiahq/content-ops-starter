@@ -44,7 +44,7 @@ sections:
         type: PricingPlan
       - title: Ecoia Foundation
         price: '£2,200'
-        details: per month
+        details: Billed Monthly
         description: |+
           Ideal for businesses needing foundational branding & digital presence
 
