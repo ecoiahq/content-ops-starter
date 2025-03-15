@@ -44,7 +44,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       text: Why Ecoia?
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
