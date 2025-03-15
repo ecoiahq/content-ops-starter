@@ -1,6 +1,6 @@
 ---
 title: Our Work
-slug: /blog
+slug: /Our-Work
 numOfPostsPerPage: 8
 enableSearch: true
 topSections: []
