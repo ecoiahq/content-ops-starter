@@ -52,7 +52,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: A Three-Pillar Strategy for Innovation and Impact.
+    subtitle: Our Three-Pillar Approach to Support your mission.
     items:
       - type: FeaturedItem
         title: Strategy
