@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: Meet our Team
-      color: text-light
+      color: text-dark
       styles:
         self:
           textAlign: center
