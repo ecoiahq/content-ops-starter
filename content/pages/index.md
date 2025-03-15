@@ -129,7 +129,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: /Get-Started
         showIcon: false
         icon: arrowRight
         iconPosition: right
