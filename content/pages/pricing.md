@@ -83,7 +83,7 @@ sections:
         features:
           - Brand Strategy Development
           - 'SEO, SEM Optimization'
-          - Feature three
+          - Social Media Management (Organic & Paid)
           - Feature four
           - Feature five
         image:
