@@ -46,7 +46,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: A 3-Phase Approach
+      text: Our Solutions
       color: text-light
       styles:
         self:
