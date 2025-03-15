@@ -260,7 +260,7 @@ sections:
       presence, we provide the tools and insights needed to scale your mission
       and engage your audience effectively.
     actions:
-      - label: Get started
+      - label: Learn More
         url: 'https://ecoia.netlify.app/Business-Services/'
         icon: arrowRight
         iconPosition: right
