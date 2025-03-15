@@ -26,7 +26,7 @@ sections:
         type: Button
     media:
       url: /images/undraw_ship-it_vn4g.svg
-      altText: Unblock your team boost your time to production preview
+      altText: ''
       elementId: ''
       type: ImageBlock
     badge:
