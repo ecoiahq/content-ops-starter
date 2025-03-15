@@ -86,9 +86,9 @@ sections:
       - title: Ethical & Sustainable Brands
         subtitle: ''
         text: >
-          For businesses committed to sustainability, ethical practices, and
-          corporate responsibility, we strengthen brand identity and messaging
-          to amplify your impact.
+          We help businesses showcase their commitment to sustainability,
+          ethical practices, and corporate responsibility through comprehensive
+          audits and integrated strategies.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
