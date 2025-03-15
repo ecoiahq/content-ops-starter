@@ -52,7 +52,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: A Three-Phase Strategy for Innovation and Impact.
+    subtitle: A Three-Pro Strategy for Innovation and Impact.
     items:
       - type: FeaturedItem
         title: Strategy
