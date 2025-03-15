@@ -58,9 +58,9 @@ sections:
         title: Social Enterprises & Nonprofits
         subtitle: ''
         text: >
-          We help charities, NGOs, and mission-driven organizations craft
-          compelling stories and creative campaigns that inspire action, engage
-          supporters, and drive funding.
+          We help mission-driven organisations partner with key sector
+          influencers, craft compelling creative campaigns that inspire action,
+          engage supporters, and drive funding.
         actions: []
         elementId: null
         colors: bg-light-fg-dark
