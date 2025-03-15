@@ -9,10 +9,11 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      We craft innovative brand strategy, digital solutions, and mission-driven
-      creative campaigns that amplify your purpose. Whether you're a nonprofit,
-      ethical brand, or CSR leader, we help you engage supporters, grow your
-      influence, and make a real difference.
+      We provide brand impact strategy, digital marketing solutions, and
+      mission-driven creative campaigns that amplify your social and
+      environmental mission. Whether you're a nonprofit, ethical brand, or CSR
+      leader, we help you engage supporters, grow your influence, and make a
+      real difference.
     actions:
       - label: Get started
         altText: ''
