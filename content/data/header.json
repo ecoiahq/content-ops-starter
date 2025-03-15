@@ -37,7 +37,7 @@
                 },
                 {
                     "label": "Creative Services",
-                    "url": "https://ecoia.netlify.app/creative-services/",
+                    "url": "https://ecoia.netlify.app/creative-services",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
