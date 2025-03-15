@@ -102,7 +102,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Impact Driven
+      - title: CSR/Impact Reporting
         subtitle: ''
         text: >
           Every campaign is engineered to generate meaningful, direct and
