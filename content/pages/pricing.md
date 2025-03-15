@@ -3,7 +3,7 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: Packages
+      text: Set Packages
       color: text-dark
       styles:
         self:
