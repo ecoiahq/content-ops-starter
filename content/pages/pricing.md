@@ -18,7 +18,7 @@ sections:
           Best for businesses seeking analysis & insights
         features:
           - Brand Audit
-          - Feature two
+          - Social Listening
           - Feature three
           - Feature four
         image:
