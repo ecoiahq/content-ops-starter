@@ -135,31 +135,6 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-      - type: FeaturedItem
-        title: Photography
-        tagline: ''
-        subtitle: ''
-        text: >
-          Our photography services capture authentic moments and visuals that
-          align with your brand's identity and connect with your audience.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
     actions:
       - type: Button
         label: Get in Touch
