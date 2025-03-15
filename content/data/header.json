@@ -54,7 +54,7 @@
             "type": "Link"
         },
         {
-            "label": "packages",
+            "label": "Packages",
             "url": "/packages",
             "icon": "arrowRight",
             "iconPosition": "right",
