@@ -276,7 +276,7 @@ sections:
         style: secondary
         type: Button
     media:
-      url: /images/hero3.svg
+      url: /images/undraw_progressive-app_9517.svg
       altText: Dope design preview
       type: ImageBlock
     badge:
