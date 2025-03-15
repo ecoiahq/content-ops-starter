@@ -244,9 +244,8 @@ sections:
       type: TitleBlock
     subtitle: Supporting the brands we love.
     text: >
-      From brand strategy and fundraising to content creation and digital
-      presence, we provide the tools and insights needed to scale your mission
-      and engage your audience effectively.
+      From business development, to impact strategy and content creation, we
+      provide the tools and insights needed to scale your mission effectively.
     actions:
       - label: Learn More
         url: 'https://ecoia.netlify.app/set-packages'
