@@ -108,7 +108,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Impact-Driven Startups & Entrepreneurs
+      - title: Mission-Driven Entrepreneurs
         subtitle: ''
         text: >
           Every campaign is engineered to generate meaningful, direct and
