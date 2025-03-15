@@ -9,11 +9,11 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      We provide business consultancy, digital solutions, and creative
-      production for organisations with a social mission. With a foundation in
-      the UK broadcast media sector, combined with cultural insight, we provide
-      you with advantageous steps to create lasting positive impact for people
-      and the planet.
+      We provide impact strategy, digital marketing solutions, and
+      mission-driven creative campaigns that amplify your social and
+      environmental mission. Whether you're a nonprofit, ethical brand, or CSR
+      leader, we help you engage supporters, grow your influence, and make a
+      real difference at the grassroots level.
     actions:
       - label: Get started
         altText: ''
