@@ -57,11 +57,10 @@ sections:
       - type: FeaturedItem
         title: Strategy
         subtitle: ''
-        text: >+
-          We help mission-driven organisations, ethical brands, and startups
-          create effective strategies, secure funding, and craft messaging that
-          engages supporters and drives impact.
-
+        text: >
+          We empowers startups, mission-driven organisations and ethical brands
+          to create effective strategies, secure funding, and craft compelling
+          messaging that engages supporters and drives impact.
         actions: []
         elementId: null
         colors: bg-light-fg-dark
