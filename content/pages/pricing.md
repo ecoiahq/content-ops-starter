@@ -49,7 +49,7 @@ sections:
           Ideal for businesses needing foundational branding & digital presence
 
         features:
-          - Feature one
+          - Brand Strategy Development
           - Website Design & Optimisation
           - 'SEO, SEM Optimisation'
           - Social Media Management (Organic & Paid)
