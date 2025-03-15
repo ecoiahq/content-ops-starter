@@ -19,7 +19,7 @@
             },
             {
                 "label": "Packages",
-                "url": "/pricing",
+                "url": "https://ecoia.netlify.app/packages/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
