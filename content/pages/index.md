@@ -307,7 +307,7 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/undraw_video-files_cxl9.svg
       altText: Fun feature preview
     badge:
       type: Badge
