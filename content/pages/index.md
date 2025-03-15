@@ -85,8 +85,8 @@ sections:
       - title: Digital
         subtitle: ''
         text: >
-          We build UX/UI websites, optimise SEO, and manage your social media
-          channels to enhance your visibility.
+          Our digital team build UX/UI websites, optimise SEO, and manage your
+          social media channels and paid media to enhance your visibility.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
