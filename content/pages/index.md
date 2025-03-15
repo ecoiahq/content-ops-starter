@@ -130,7 +130,7 @@ sections:
             textAlign: left
         type: FeaturedItem
     actions:
-      - label: Explore our services
+      - label: Get Started
         altText: ''
         url: 'https://ecoia.netlify.app/pricing'
         showIcon: false
