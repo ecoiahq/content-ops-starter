@@ -58,8 +58,9 @@ sections:
         title: Strategy
         subtitle: ''
         text: >
-          We help mission-driven organisations develop impactful strategies,
-          build partnerships, and secure funding. 
+          We help mission-driven organisations, ethical brands, startups, and
+          CSR initiatives develop impactful strategies, secure funding, and
+          craft messaging that drives change and engages key stakeholders.
         actions: []
         elementId: null
         colors: bg-light-fg-dark
