@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Our Work
 slug: /blog
 numOfPostsPerPage: 8
 enableSearch: true
