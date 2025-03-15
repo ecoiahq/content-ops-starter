@@ -12,14 +12,15 @@ sections:
           textAlign: center
     subtitle: ''
     text: >+
-      <div style="text-align: left">Our business services are centred around key
-      areas including business plan development, brand and impact strategy,
-      business development, grant writing, and CSR reporting. We work closely
-      with you to refine your brand, build strategic partnerships, secure
-      funding, and implement actionable strategies that align with your social
-      and environmental goals. With a strong foundation in strategic thinking
-      and a focus on measurable results, we deliver tailored solutions that help
-      your organisation succeed and grow in today’s competitive landscape.</div>
+      <div style="text-align: left">We provide high-impact creative solutions
+      that bring your brand’s mission to life. From **video production** and
+      **animation** to **graphic design** and **photography**, we create
+      visually engaging content that captures attention and drives results.
+      Whether you need compelling **campaign imagery**, eye-catching
+      **infographics**, or professional **podcast production**, our team crafts
+      tailor-made solutions that align with your mission. We combine creativity
+      with strategy to produce content that resonates with your audience and
+      amplifies your social and environmental impact.</div>
 
     actions: []
     colors: bg-light-fg-dark
