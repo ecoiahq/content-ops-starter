@@ -52,7 +52,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: A Three-Pillar Approach to Empowering Your Mission.
+    subtitle: A Three-Pillar Approach to Empowering Your Organisation.
     items:
       - type: FeaturedItem
         title: Strategy
