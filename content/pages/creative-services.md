@@ -134,9 +134,8 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          Through social listening, we help you understand audience sentiment,
-          track key conversations, and identify emerging trends to inform your
-          strategy and strengthen stakeholder engagement.
+          Our photography services capture authentic moments and visuals that
+          align with your brand's identity and connect with your audience.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
