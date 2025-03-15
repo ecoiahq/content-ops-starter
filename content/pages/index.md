@@ -58,8 +58,8 @@ sections:
         title: Strategy
         subtitle: ''
         text: >
-          We develop effective strategies to empower startups, established
-          organisations, and ethical brands.
+          Expert guidance in brand positioning, audience engagement, and funding
+          strategies to maximise your impact.
         actions: []
         elementId: null
         colors: bg-light-fg-dark
@@ -85,8 +85,8 @@ sections:
       - title: Digital
         subtitle: ''
         text: >
-          Our digital team build UX/UI websites, optimise SEO, and manage your
-          social media channels and paid media to enhance your visibility.
+          High-quality digital media, content marketing, and technology-driven
+          storytelling to connect with your community.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -109,8 +109,8 @@ sections:
       - title: Creative
         subtitle: ''
         text: >
-          We produce films, reels, podcasts, design, explainer animation, and
-          photography—to help you amplify your mission.
+          Compelling visual storytelling, campaign development, and media assets
+          that bring your mission to life.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -152,7 +152,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Our Clients
+  - subtitle: Trusted by Leading Impact-Driven Brands
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
@@ -184,7 +184,7 @@ sections:
         textAlign: center
     type: ImageGallerySection
   - title:
-      text: EcoiaFund™
+      text: EcoiaFund™ – A Model for Impact
       color: text-dark
       styles:
         self:
@@ -192,12 +192,10 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      Our innovative fundraising mechanism, EcoiaFund™, transforms business
-      campaigns into direct social and environmental impact through blockchain
-      technology. With a transparent smart contract and multi-signature safe,
-      every campaign we deliver automatically generates revenue, donations and
-      receives match funding, directly allocating 100% of the revenue generated
-      to our supported charities.
+      Our innovative funding mechanism, **EcoiaFund™**, transforms business
+      campaigns into direct contributions to social and environmental change.
+      With every project, we help create sustainable solutions for communities
+      worldwide.
     badge:
       label: ''
       color: text-primary
@@ -237,8 +235,8 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      From business planning to audits to market positioning, we provide the
-      tools and insights you need to scale your mission effectively.
+      From brand strategy to impact reporting, we provide full-scale solutions
+      that help your mission-driven organisation grow.
     actions:
       - label: Learn More
         url: 'https://ecoia.netlify.app/Business-Services/'
@@ -265,8 +263,8 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      From UX/UI website design to video production, we deliver digital
-      innovation to drive growth and amplify impact.
+      Maximise your online reach with a refreshed website, application, or
+      digital campaign that fuels audience engagement and impact.
     actions:
       - label: Learn More
         url: 'https://ecoia.netlify.app/digital-services/'
@@ -295,8 +293,8 @@ sections:
       color: text-light
     subtitle: ''
     text: >
-      From incorporation and auditing to market positioning, we provide the
-      tools and insights you need to scale your mission effectively.
+      We craft visually compelling and emotionally resonant content that
+      captivates audiences and strengthens your cause.
     actions:
       - type: Button
         label: Learn More
@@ -330,12 +328,12 @@ sections:
       text: Let’s Bring Your Mission to Life
       color: text-dark
       type: TitleBlock
-    subtitle: 'Tell us a little about you, and let''s get started.'
+    subtitle: >-
+      Tell us a bit about your business goals, and we’ll create a strategy to
+      amplify your impact.
     text: >
-      We’re here to help you amplify your mission, engage your audience, and
-      create lasting impact. Whether you're a nonprofit, ethical brand, media
-      platform, startup, or a business with a CSR initiative, we’re ready to
-      collaborate on campaigns that align with your values and goals.
+      Whether you’re an NGO, a startup, or an ethical brand, let’s work together
+      to transform your message into action.
     media:
       fields:
         - name: name
