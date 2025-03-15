@@ -160,7 +160,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: /our-team
+slug: 'https://ecoia.netlify.app/our-team/'
 seo:
   type: Seo
   metaTitle: Careers - Demo site
