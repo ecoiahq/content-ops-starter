@@ -55,7 +55,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Strategic Growth
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           We design data-driven business development strategies that scale your
           mission.
