@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Digital Presence Optimisation Services
+      text: Digital Marketing Optimisation Services
       color: text-light
       styles:
         self:
