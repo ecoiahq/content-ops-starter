@@ -52,7 +52,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Business-Focused. Impact-Driven. Creatively Engineered.
+    subtitle: >-
+      A three-pronged approach to drive brand vision and impact at the
+      grassroots.
     items:
       - type: FeaturedItem
         title: Strategy
