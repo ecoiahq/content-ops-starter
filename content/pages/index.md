@@ -300,7 +300,7 @@ sections:
     actions:
       - type: Button
         label: Learn More
-        url: 'https://ecoia.netlify.app/set-packages'
+        url: 'https://ecoia.netlify.app/creative-services/'
         icon: arrowRight
         iconPosition: right
         style: secondary
