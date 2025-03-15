@@ -51,8 +51,16 @@ sections:
         title: Business Planning
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          We guide mission-driven organisations through the process of
+          developing comprehensive, actionable business plans that lay the
+          foundation for growth and success. From defining your vision and
+          mission to outlining clear objectives, strategies, and financial
+          projections, we provide the tools and insights needed to turn your
+          goals into a sustainable, scalable business. Our approach ensures that
+          your plan aligns with your social, environmental, and financial
+          targets, helping you attract investors, secure funding, and navigate
+          the complexities of today’s market.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
