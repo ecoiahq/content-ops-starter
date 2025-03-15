@@ -51,7 +51,7 @@ sections:
       - type: FeaturedItem
         title: Video Production
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           We guide mission-driven organisations through the process of
           developing comprehensive, actionable business plans that lay the
