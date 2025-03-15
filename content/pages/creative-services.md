@@ -96,9 +96,8 @@ sections:
         title: Animation
         subtitle: Animation
         text: >
-          Our brand audit service provides a comprehensive review of your
-          brand’s performance, identifying strengths, weaknesses, and
-          opportunities to refine your messaging and improve market presence.
+          We produce dynamic animations that bring your ideas to life, enhancing
+          storytelling and audience engagement.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
