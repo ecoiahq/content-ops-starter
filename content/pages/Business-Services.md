@@ -54,10 +54,10 @@ sections:
       - type: FeaturedItem
         title: Brand Strategy
         subtitle: From XYZ P/M.
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We help mission-driven organisations define their unique value and
+          position in the market, crafting brand strategies that resonate with
+          your audience and drive long-term growth.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
