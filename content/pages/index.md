@@ -261,7 +261,7 @@ sections:
       and engage your audience effectively.
     actions:
       - label: Learn More
-        url: 'https://ecoia.netlify.app/Business-Services/'
+        url: 'https://ecoia.netlify.app/set-packages'
         icon: arrowRight
         iconPosition: right
         style: secondary
