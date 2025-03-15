@@ -191,8 +191,10 @@ sections:
         title: Fundraising Strategy
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          We design customised fundraising strategies that align with your
+          organisation's goals, helping you reach and engage potential donors,
+          secure grants, and build long-term financial support.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
