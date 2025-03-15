@@ -209,7 +209,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Apply now
+        label: Get in Touch
         url: /
         icon: arrowRight
         iconPosition: right
