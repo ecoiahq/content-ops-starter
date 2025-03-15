@@ -199,26 +199,6 @@ sections:
       every campaign we deliver automatically generates revenue, donations and
       receives match funding, directly allocating 100% of the revenue generated
       to our supported charities.
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
     badge:
       label: ''
       color: text-primary
