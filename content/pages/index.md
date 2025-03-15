@@ -58,8 +58,8 @@ sections:
         title: Strategy
         subtitle: ''
         text: >
-          We craft effective strategies to empower startups, mission-driven
-          organisations, and ethical brands.
+          We develop effective strategies to empower startups, established
+          organisations, and high-profile ethical brands.
         actions: []
         elementId: null
         colors: bg-light-fg-dark
