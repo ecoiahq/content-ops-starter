@@ -18,7 +18,7 @@ sections:
       going to use a passage of Lorem Ipsum, you need to be sure there isn't
       anything embarrassing hidden in the middle of text.
     actions: []
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     backgroundImage:
       type: BackgroundImage
       url: /images/abstract-background.svg
