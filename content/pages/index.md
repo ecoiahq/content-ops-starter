@@ -251,8 +251,8 @@ sections:
       type: TitleBlock
     subtitle: Building the brands we love.
     text: >
-      From business audits to impact roadmaps and market positioning, we provide
-      the tools and insights you need to scale your mission effectively.
+      From incorporation and auditing to market positioning, we provide the
+      tools and insights you need to scale your mission effectively.
     actions:
       - label: Learn More
         url: 'https://ecoia.netlify.app/set-packages'
