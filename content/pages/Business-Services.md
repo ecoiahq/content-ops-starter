@@ -59,7 +59,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Account Executive
-        subtitle: Sales
+        subtitle: From XYZ P/M.
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
