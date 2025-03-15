@@ -12,14 +12,15 @@ sections:
           textAlign: center
     subtitle: ''
     text: >+
-      <div style="text-align: left">Our business services are centred around key
-      areas including business plan development, brand and impact strategy,
-      business development, grant writing, and CSR reporting. We work closely
-      with you to refine your brand, build strategic partnerships, secure
-      funding, and implement actionable strategies that align with your social
-      and environmental goals. With a strong foundation in strategic thinking
-      and a focus on measurable results, we deliver tailored solutions that help
-      your organisation succeed and grow in today’s competitive landscape.</div>
+      <div style="text-align: left">We provide high-impact creative solutions
+      that bring your brand’s mission to life. From video production and
+      animation to graphic design and photography, we create visually engaging
+      content that captures attention and drives results. Whether you need
+      compelling campaign imagery, eye-catching infographics, or professional
+      podcast production, our team crafts tailor-made solutions that align with
+      your mission. We combine creativity with strategy to produce content that
+      resonates with your audience and amplifies your social and environmental
+      impact.</div>
 
     actions: []
     colors: bg-light-fg-dark
@@ -48,19 +49,12 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Business Planning
+        title: Video Production
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
-          We guide mission-driven organisations through the process of
-          developing comprehensive, actionable business plans that lay the
-          foundation for growth and success. From defining your vision and
-          mission to outlining clear objectives, strategies, and financial
-          projections, we provide the tools and insights needed to turn your
-          goals into a sustainable, scalable business. Our approach ensures that
-          your plan aligns with your social, environmental, and financial
-          targets, helping you attract investors, secure funding, and navigate
-          the complexities of today’s market.
+          We create engaging videos that tell your brand's story, captivate your
+          audience, and drive action.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
@@ -80,12 +74,11 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Brand Strategy
-        subtitle: From XYZ P/M.
+        title: Graphic Design
+        subtitle: ''
         text: >
-          We help mission-driven organisations define their unique value and
-          position in the market, crafting brand strategies that resonate with
-          your audience and drive long-term growth.
+          Our designs, including logos, banners, and infographics, visually
+          communicate your brand's message and values.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
@@ -100,12 +93,11 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Brand Audit
-        subtitle: Marketing
+        title: Animation
+        subtitle: Animation
         text: >
-          Our brand audit service provides a comprehensive review of your
-          brand’s performance, identifying strengths, weaknesses, and
-          opportunities to refine your messaging and improve market presence.
+          We produce dynamic animations that bring your ideas to life, enhancing
+          storytelling and audience engagement.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
@@ -120,12 +112,12 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Impact Strategy
-        subtitle: Engineering
+        title: Podcast Production
+        subtitle: ''
         text: >
-          We develop tailored impact strategies that align with your mission and
-          objectives, ensuring measurable social or environmental change while
-          maximising your influence and reach.
+          From concept to editing, we handle all aspects of podcast production,
+          delivering professional audio content that resonates with your
+          listeners.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
@@ -138,91 +130,12 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: 'Social Listening '
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+        title: Photography
+        tagline: ''
+        subtitle: ''
         text: >
-          Through social listening, we help you understand audience sentiment,
-          track key conversations, and identify emerging trends to inform your
-          strategy and strengthen stakeholder engagement.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-      - type: FeaturedItem
-        title: Impact / CSR / ESG Reporting
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: >
-          We assist with impactful reporting that communicates your
-          organisation’s social responsibility efforts, highlighting measurable
-          outcomes and ensuring transparency to engage stakeholders effectively.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-      - type: FeaturedItem
-        title: Grant Proposal Development
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: >
-          Our expert team creates compelling grant proposals that highlight your
-          organisation's mission, goals, and impact, maximising your chances of
-          securing funding from foundations and donors.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-      - type: FeaturedItem
-        title: Fundraising Strategy
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: >
-          We design customised fundraising strategies that align with your
-          organisation's goals, helping you reach and engage potential donors,
-          secure grants, and build long-term financial support.
+          Our photography services capture authentic moments and visuals that
+          align with your brand's identity and connect with your audience.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
