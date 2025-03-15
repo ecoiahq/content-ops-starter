@@ -288,7 +288,7 @@ sections:
       From website design to video production, we deliver digital innovation to
       drive growth and amplify impact. 
     actions:
-      - label: Get started
+      - label: Learn More
         url: 'https://ecoia.netlify.app/Business-Services/'
         icon: arrowRight
         iconPosition: right
