@@ -55,7 +55,7 @@ sections:
     subtitle: Business-Focused. Impact-Driven. Creatively Engineered.
     items:
       - type: FeaturedItem
-        title: Development
+        title: Strategy
         subtitle: ''
         text: >
           We help mission-driven organisations partner with key sector
