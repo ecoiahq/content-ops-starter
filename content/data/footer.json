@@ -52,7 +52,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto:ecoiahq@gmail.com",
             "icon": "mail",
             "type": "Social"
         }
