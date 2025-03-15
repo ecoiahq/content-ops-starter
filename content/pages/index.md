@@ -240,6 +240,16 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: 'https://lucent-frangipane-84e1c1.netlify.app/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
   - title:
       text: Business Consulting
       color: text-dark
