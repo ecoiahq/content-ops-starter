@@ -46,7 +46,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Our Services
+      text: Areas We Support
       color: text-light
       styles:
         self:
