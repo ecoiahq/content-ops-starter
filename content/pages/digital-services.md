@@ -120,9 +120,10 @@ sections:
         title: Data Analytics and Reporting
         subtitle: ''
         text: >
-          From concept to editing, we handle all aspects of podcast production,
-          delivering professional audio content that resonates with your
-          listeners.
+          Utilising data analytics enables organisations to measure the
+          effectiveness of their programs and campaigns, make informed
+          decisions, and demonstrate impact to stakeholders through
+          comprehensive reporting.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
