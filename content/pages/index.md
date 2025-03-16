@@ -295,8 +295,8 @@ sections:
       color: text-light
     subtitle: ''
     text: >
-      We craft visually compelling and emotionally resonant content that
-      captivates audiences and strengthens your cause.
+      We produce compelling and emotionally resonant content that captivates
+      audiences and strengthens your cause.
     actions:
       - type: Button
         label: Learn More
