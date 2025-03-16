@@ -141,9 +141,9 @@ sections:
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >
-          We assist with impactful reporting that communicates your
-          organisation’s social responsibility efforts, highlighting measurable
-          outcomes and ensuring transparency to engage stakeholders effectively.
+          We assist in creating impactful reports that communicate your
+          organisation’s social responsibility efforts, highlight measurable
+          outcomes, and ensure transparency to engage stakeholders effectively.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
