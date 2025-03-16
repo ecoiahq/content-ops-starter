@@ -24,7 +24,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     backgroundImage:
       type: BackgroundImage
       url: /images/abstract-background.svg
