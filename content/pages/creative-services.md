@@ -11,30 +11,30 @@ sections:
         self:
           textAlign: center
     subtitle: ''
-    text: >
-      ## Creativity with Purpose  
+    text: >-
+      ## Content That Captivates  
 
 
-      We don’t just create content—we craft stories that connect, engage, and
-      inspire.  
+      We don’t just create content—we craft **compelling films, podcasts,
+      designs, and photography** that connect, engage, and inspire.  
 
 
       With a **strong foundation in the UK broadcast media industry**, we give
-      our partners the **creative advantage** to produce and deliver compelling
-      assets that stand out.  
+      our partners the **creative edge** to produce and deliver standout assets
+      that leave a lasting impact.  
 
 
       ## Strategy-Driven Content Creation  
 
 
-      We combine **creativity with strategy** to produce content that resonates
-      with your audience while amplifying your **social and environmental
-      impact**.  
+      Creativity is powerful, but when combined with strategy, it drives real
+      change. We develop **content that resonates with your audience** while
+      amplifying your **social and environmental impact**.  
 
 
       From **video production and animation** to **graphic design and
-      photography**, we create **visually engaging content** that captures
-      attention and drives real results.  
+      photography**, we create **visually engaging assets** designed to capture
+      attention and deliver results.  
     actions: []
     colors: bg-dark-fg-light
     styles:
