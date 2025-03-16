@@ -192,10 +192,11 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >+
-      <div style="text-align: center">Our innovative funding mechanism,
-      **EcoiaFund™**, transforms business campaigns into direct contributions to
-      social and environmental change. With every project, we help create
-      sustainable solutions for communities worldwide.</div>
+      <div style="text-align: center">## A Model for ImpactOur innovative
+      funding mechanism, **EcoiaFund™**, transforms business campaigns into
+      direct contributions to social and environmental change. With every
+      project, we help create sustainable solutions for communities
+      worldwide.</div>
 
     badge:
       label: ''
