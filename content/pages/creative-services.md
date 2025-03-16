@@ -104,7 +104,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Animation
-        subtitle: Animation
+        subtitle: ''
         text: >
           We produce dynamic animations that bring your ideas to life, enhancing
           storytelling and audience engagement.
