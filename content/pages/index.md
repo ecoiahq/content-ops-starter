@@ -154,7 +154,7 @@ sections:
         textAlign: center
   - subtitle: Trusted by Leading Brands
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/image.webp
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
