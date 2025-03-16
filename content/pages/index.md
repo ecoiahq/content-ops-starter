@@ -191,11 +191,11 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >+
-      <div style="text-align: center">##### Our match-funding innovation,
-      EcoiaFund™, offers our partners the option to transform creative campaigns
-      into direct contributions toward social and environmental change at the
-      grassroots level. With each project, we help create sustainable solutions
-      for communities worldwide.</div>
+      <div style="text-align: center">##### Our decentralised fundraising
+      innovation, EcoiaFund™, offers our partners the option to transform
+      creative campaigns into direct contributions toward social and
+      environmental change at the grassroots level. With each project, we help
+      create sustainable solutions for communities worldwide.</div>
 
     badge:
       label: ''
