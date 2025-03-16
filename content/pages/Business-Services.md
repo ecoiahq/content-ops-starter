@@ -98,7 +98,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Brand Audit
+        title: Business Audit
         subtitle: Marketing
         text: >
           Our brand audit service provides a comprehensive review of your
