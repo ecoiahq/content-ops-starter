@@ -74,7 +74,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Business Audit
-        subtitle: From XYZ P/M.
+        subtitle: ''
         text: >
           We conduct thorough assessments of your organisation to identify
           strengths, weaknesses, opportunities, and threats, providing
