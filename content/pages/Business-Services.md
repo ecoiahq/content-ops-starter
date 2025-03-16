@@ -168,7 +168,7 @@ sections:
         subtitle: This is the item subtitle
         text: >
           We design customised fundraising strategies that align with your
-          organisation's goals, helping you reach and engage potential donors,
+          organisation’s goals, helping you reach and engage potential donors,
           secure grants, and build long-term financial support.
         image:
           type: ImageBlock
