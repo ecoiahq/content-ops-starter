@@ -11,30 +11,27 @@ sections:
         self:
           textAlign: center
     subtitle: ''
-    text: >-
-      ## Content That Captivates  
-
-
+    text: >
       We don’t just create content—we craft **compelling films, podcasts,
-      designs, and photography** that connect, engage, and inspire.  
+      designs, and photography** that connect, engage, and inspire.
 
 
       With a **strong foundation in the UK broadcast media industry**, we give
       our partners the **creative edge** to produce and deliver standout assets
-      that leave a lasting impact.  
+      that leave a lasting impact.
 
 
-      ## Strategy-Driven Content Creation  
+      ## Strategy-Driven Content Creation
 
 
       Creativity is powerful, but when combined with strategy, it drives real
       change. We develop **content that resonates with your audience** while
-      amplifying your **social and environmental impact**.  
+      amplifying your **social and environmental impact**.
 
 
       From **video production and animation** to **graphic design and
       photography**, we create **visually engaging assets** designed to capture
-      attention and deliver results.  
+      attention and deliver results.
     actions: []
     colors: bg-dark-fg-light
     styles:
