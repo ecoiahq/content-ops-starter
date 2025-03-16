@@ -11,14 +11,13 @@ sections:
         self:
           textAlign: center
     subtitle: ''
-    text: >
-      Every Business is Different– Your goals, challenges, and opportunities are
-      unique—which means your strategy should be too.
+    text: >+
+      <div style="text-align: center">Every Business is Different– Your goals,
+      challenges, and opportunities are unique—which means your strategy should
+      be too.That’s why we take a tailored approach, working closely with you to
+      refine your brand, secure funding, build strategic partnerships, and
+      implement strategies that drive real growth.</div>
 
-
-      That’s why we take a tailored approach, working closely with you to refine
-      your brand, secure funding, build strategic partnerships, and implement
-      strategies that drive real growth.
     actions: []
     colors: bg-dark-fg-light
     styles:
