@@ -11,48 +11,51 @@ sections:
         self:
           textAlign: center
     subtitle: ''
-    text: >-
-      Build Around Your Brand and Its Mission
-
-      Your brand isn’t just a business—it’s a vision, a mission, and a unique
-      voice in the digital space. That’s why a one-size-fits-all approach won’t
-      cut it.
+    text: >
+      ## You have a vision, a mission, and a unique voice—but standing out takes
+      more than that.  
 
 
-      We craft tailored digital strategies designed to amplify your impact,
-      align with your mission, and engage your audience in meaningful ways. From
-      website development and SEO to social media management and data-driven
-      insights, we help you build a strong, sustainable digital presence that
-      reflects your brand’s values.
+      The digital space is crowded, and a one-size-fits-all approach won’t cut
+      it.  
 
 
-      Transparent Pricing, No Hidden Costs
-
-      We know pricing matters. What we can tell you upfront is that our services
-      start from £600.
-
-
-      But we don’t offer pre-set packages—because your brand’s needs are unique.
-      Instead, we create bespoke solutions that fit your goals, ensuring you
-      invest in what truly moves the needle.
+      We craft **tailored digital strategies** that don’t just get you seen—they
+      get you remembered. Whether it’s **website development, SEO, or social
+      media management**, we align every move with your brand’s mission,
+      ensuring you connect with the right audience in the right way.  
 
 
-      A Strategic, Hands-On Partnership
+      ## Pricing That Fits Your Business  
 
-      Your digital presence should work for you, not against you. We take a
-      hands-on, consultative approach to website optimisation, search
-      visibility, social media engagement, and performance tracking—helping you
-      turn strategy into results.
+
+      We know budget matters. What we can tell you upfront is that our services
+      start from **£600**.  
+
+
+      But pricing isn’t one-size-fits-all either. Instead of rigid packages, we
+      create **bespoke solutions designed around your specific goals**—so you
+      only pay for what truly drives results.  
+
+
+      ## A Hands-On, Strategic Approach  
+
+
+      Your digital presence should **work for you, not against you**. We take a
+      hands-on, consultative approach to **website optimisation, search
+      visibility, social media engagement, and performance tracking**—helping
+      you turn strategy into results.  
 
 
       Once we understand your needs, pricing is simple—and there’s no minimum
-      contract.
+      contract.  
 
 
-      Send Your Request
+      ## Send Your Request  
 
-      If £600 is within your budget, send us a request, and we’ll discuss how we
-      can help bring your brand’s mission to life online.
+
+      If **£600** is within your budget, **send us a request**, and we’ll
+      explore how we can help bring your brand’s mission to life online.  
     actions: []
     colors: bg-dark-fg-light
     styles:
