@@ -152,7 +152,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: We' Delivered For
+  - subtitle: Trusted by Leading Impact–Driven Brands
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
