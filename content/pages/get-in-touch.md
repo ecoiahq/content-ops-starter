@@ -41,9 +41,6 @@ sections:
       color: text-dark
     subtitle: 'Email: ecoiahq@gmail.com'
     text: >
-      ## **Contact Us**
-
-
       **Email Us:** For general inquiries, reach out to
       [**ecoiahq@gmail.com**](mailto:ecoiahq@gmail.com).
 
