@@ -48,7 +48,7 @@ sections:
       - type: FeaturedItem
         title: Business Planning and Formation
         tagline: This is the tagline
-        subtitle: From £75/hour
+        subtitle: ''
         text: >
           We guide mission-driven organisations in developing comprehensive
           business plans that lay the foundation for growth and success. This
