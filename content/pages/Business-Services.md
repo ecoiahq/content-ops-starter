@@ -165,7 +165,7 @@ sections:
       - type: FeaturedItem
         title: Fundraising Strategy
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           We design customised fundraising strategies that align with your
           organisation’s goals, helping you reach and engage potential donors,
