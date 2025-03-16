@@ -12,12 +12,11 @@ sections:
           textAlign: center
     subtitle: ''
     text: >+
-      <div style="text-align: center">We combine **creativity** with
-      **strategy** to produce content that resonates with your audience and
-      **amplifies your social and environmental impact**.From **video
-      production** and **animation** to **graphic design** and **photography**,
-      we create visually engaging content that captures attention and drives
-      results.</div>
+      <div style="text-align: center">We combine creativity with strategy to
+      produce content that resonates with your audience and amplifies your
+      social and environmental impact. From video production and animation to
+      graphic design and photography, we create visually engaging content that
+      captures attention and drives results.</div>
 
     actions: []
     colors: bg-dark-fg-light
