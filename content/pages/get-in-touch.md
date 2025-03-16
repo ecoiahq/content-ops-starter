@@ -39,7 +39,7 @@ sections:
       type: TitleBlock
       text: Contact Us
       color: text-dark
-    subtitle: 'Email: ecoiahq@gmail.com'
+    subtitle: ''
     text: >
       **Email Us:** For general inquiries, reach out to
       [**ecoiahq@gmail.com**](mailto:ecoiahq@gmail.com).
