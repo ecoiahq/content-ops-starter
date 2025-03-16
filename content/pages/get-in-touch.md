@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Get- in touch
+title: Get in touch
 sections:
   - type: GenericSection
     title:
