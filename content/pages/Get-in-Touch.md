@@ -15,7 +15,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Have an Idea? Get in touch.
+      text: Get in Touch
       color: text-dark
       styles:
         self:
