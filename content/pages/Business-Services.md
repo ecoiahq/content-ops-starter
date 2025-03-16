@@ -12,12 +12,18 @@ sections:
           textAlign: center
     subtitle: ''
     text: >+
-      <div style="text-align: center">Our business consultancy services are
-      centred around crucial areas of business development and growth. From
-      business plan development, to grant development support and CSR reporting,
-      we work closely with you to refine your brand, build strategic
-      partnerships, secure funding, and implement actionable strategies that
-      align with your goals.</div>
+      <div style="text-align: center">Every business is different. Your goals,
+      challenges, and opportunities are unique—which means your strategy should
+      be too. That’s why we take a tailored approach, working closely with you
+      to refine your brand, secure funding, build strategic partnerships, and
+      implement strategies that drive real growth.But You need to know we’re a
+      good fit for your budget. What we can tell you right now is that our
+      services start from £600. But there’s a reason this page doesn’t list
+      fixed pricing.We offer a hands-on, consultative service, from business
+      plan development to grant support and CSR reporting. Once we understand
+      your needs, pricing is simple, and there’s no minimum contract.So if that
+      starting point works for you, let’s talk. Book a call, and we’ll discuss
+      the details.</div>
 
     actions: []
     colors: bg-dark-fg-light
