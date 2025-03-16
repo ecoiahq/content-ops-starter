@@ -264,7 +264,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      Maximise your online reach with a refreshed website, application, or
+      Maximise your online messaging with a refreshed website, application, or
       digital campaign that fuels audience engagement and impact.
     actions:
       - label: Learn More
