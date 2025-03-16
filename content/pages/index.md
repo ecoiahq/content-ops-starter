@@ -4,15 +4,16 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Helping You Drive Positive Impact
+      text: Helping You Drive Positive Impact.
       color: text-dark
       type: TitleBlock
     subtitle: ''
     text: >
-      We provide business, digital and creative solutions to amplify
-      mission-driven organisations. Whether you're a nonprofit, ethical brand,
-      or CSR leader, we help you engage supporters, grow your influence, and
-      make a real difference at the grassroots level.
+      We are a diverse team of strategists, marketeers and creative producers
+      working collaboratively to amplify mission-driven organisations. Whether
+      you're a nonprofit, ethical brand, or looking to demonstrate your
+      corporate social responsibility, we help you engage supporters, grow your
+      influence, and make a real difference at the grassroots level.
     actions:
       - label: Get started
         altText: ''
