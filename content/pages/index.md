@@ -9,10 +9,10 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      We provide impact strategy, digital marketing solutions, and philanthropic
-      creative media to that amplify mission-driven businesses. Whether you're a
-      nonprofit, ethical brand, or CSR leader, we help you engage supporters,
-      grow your influence, and make a real difference at the grassroots level.
+      We provide business, digital and creative solutions to amplify
+      mission-driven organisations. Whether you're a nonprofit, ethical brand,
+      or CSR leader, we help you engage supporters, grow your influence, and
+      make a real difference at the grassroots level.
     actions:
       - label: Get started
         altText: ''
