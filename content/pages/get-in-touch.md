@@ -40,11 +40,21 @@ sections:
       text: Contact Us
       color: text-dark
     subtitle: 'Email: ecoiahq@gmail.com'
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      ## **Contact Us**
+
+
+      **Email Us:** For general inquiries, reach out to
+      [**ecoiahq@gmail.com**](mailto:ecoiahq@gmail.com).
+
+
+      **Partnerships & Collaborations:** Want to explore ways we can work
+      together? We’re open to innovative ideas and strategic alliances. Drop us
+      an email with your proposal or use the **contact form below**.
+
+
+      **Fill out the form below, and we’ll get back to you as soon as
+      possible!**
     actions: []
     media:
       type: FormBlock
