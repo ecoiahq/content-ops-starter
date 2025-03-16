@@ -12,7 +12,7 @@ sections:
           textAlign: center
     subtitle: ''
     text: >+
-      <div style="text-align: center">At ECOIA, we’re dedicated to creating
+      <div style="text-align: center">At Ecoia, we’re dedicated to creating
       sustainable impact through strategic partnerships, innovation, and funding
       solutions. Whether you’re a potential collaborator, a grant partner, or a
       talented professional looking to join us, we’d love to connect with
