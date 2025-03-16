@@ -45,8 +45,8 @@ sections:
       ### Send Your Request
 
 
-      If our starting point works for you, send us a request, and we’ll go
-      through the details together.
+      If our starting point works for you, send us a request with the contact
+      form below, and we’ll go through the details together.
     actions: []
     colors: bg-dark-fg-light
     styles:
