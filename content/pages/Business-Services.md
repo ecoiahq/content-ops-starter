@@ -116,13 +116,13 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Impact / CSR Reporting
+        title: Grant Proposal Development
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >
-          We assist with impactful reporting that communicates your
-          organisation’s social responsibility efforts, highlighting measurable
-          outcomes and ensuring transparency to engage stakeholders effectively.
+          Our expert team creates compelling grant proposals that highlight your
+          organisation's mission, goals, and impact, maximising your chances of
+          securing funding from foundations and donors.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
@@ -142,13 +142,13 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Grant Proposal Development
+        title: Impact / CSR Reporting
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >
-          Our expert team creates compelling grant proposals that highlight your
-          organisation's mission, goals, and impact, maximising your chances of
-          securing funding from foundations and donors.
+          We assist with impactful reporting that communicates your
+          organisation’s social responsibility efforts, highlighting measurable
+          outcomes and ensuring transparency to engage stakeholders effectively.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
