@@ -11,9 +11,10 @@ sections:
     text: >
       We are a diverse team of business strategists, digital marketers and
       creative producers working together to amplify mission-driven
-      organisations. Whether you're a nonprofit, ethical brand, or CSR leader,
-      we help you engage supporters, grow your influence, and make a real
-      difference at the grassroots level.
+      organisations. Whether you're a nonprofit, ethical brand, or looking to
+      demonstrate your corporate social responsibility, we help you engage
+      supporters, grow your influence, and make a real difference at the
+      grassroots level.
     actions:
       - label: Get started
         altText: ''
