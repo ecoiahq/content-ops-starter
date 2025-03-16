@@ -272,7 +272,7 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-        showIcon: true
+        showIcon: false
     media:
       url: /images/undraw_progressive-app_9517.svg
       altText: Dope design preview
