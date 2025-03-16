@@ -11,53 +11,45 @@ sections:
         self:
           textAlign: center
     subtitle: ''
-    text: >+
-      ### Build Around Your Brand and Its Mission
+    text: >
+      ## Every Business is Different  
 
 
-      Your brand isn’t just a business—it’s a vision, a mission, and a unique
-      voice in the digital space. That’s why a one-size-fits-all approach won’t
-      cut it.
+      Your goals, challenges, and opportunities are unique—which means your
+      strategy should be too.  
 
 
-      We craft **tailored digital strategies** designed to amplify your impact,
-      align with your mission, and engage your audience in meaningful ways. From
-      **website development and SEO** to **social media management and
-      data-driven insights**, we help you build a strong, sustainable digital
-      presence that reflects your brand’s values.
+      That’s why we take a tailored approach, working closely with you to refine
+      your brand, secure funding, build strategic partnerships, and implement
+      strategies that drive real growth.  
 
 
-      ### Transparent Pricing, No Hidden Costs
+      ### Transparent Pricing, No Surprises  
 
 
-      We know pricing matters. What we can tell you upfront is that our services
-      start from **£600**.
+      We know budget matters. What we can tell you upfront is that our services
+      start from **£600**.  
 
 
-      But we don’t offer pre-set packages—because your brand’s needs are unique.
-      Instead, we create **bespoke solutions that fit your goals**, ensuring you
-      invest in what truly moves the needle.
+      But there’s a reason we don’t list fixed pricing. Every project is
+      different, and a one-size-fits-all approach won’t deliver the best
+      results.  
 
 
-      ### A Strategic, Hands-On Partnership
+      ### A Hands-On, Consultative Service  
 
 
-      Your digital presence should **work for you, not against you**. We take a
-      hands-on, consultative approach to **website optimisation, search
-      visibility, social media engagement, and performance tracking**—helping
-      you turn strategy into results.
+      From **business plan development** to **grant support** and **CSR
+      reporting**, we offer a strategic, hands-on partnership designed to help
+      you achieve your goals. Once we understand your needs, pricing is
+      straightforward—and there’s no minimum contract.  
 
 
-      Once we understand your needs, pricing is simple—and there’s no minimum
-      contract.
+      ### Send Your Request  
 
 
-      ### Send Your Request
-
-
-      If **£600** is within your budget, **send us a request**, and we’ll
-      discuss how we can help bring your brand’s mission to life online.
-
+      If our starting point works for you, send us a request, and we’ll go
+      through the details together.  
     actions: []
     colors: bg-dark-fg-light
     styles:
