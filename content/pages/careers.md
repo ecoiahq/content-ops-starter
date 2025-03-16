@@ -39,14 +39,6 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/abstract-background.svg
   - title:
       text: Open positions
       color: text-dark
