@@ -21,11 +21,8 @@ sections:
       strategies that drive real growth.
 
 
-      ### Transparent Pricing, No Surprises
-
-
-      We know budget matters. What we can tell you upfront is that our services
-      start from **£600**.
+      But we know budget matters. What we can tell you upfront is that our
+      services start from **£600**.
 
 
       But there’s a reason we don’t list fixed pricing. Every project is
