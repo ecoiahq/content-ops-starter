@@ -98,24 +98,6 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Impact Strategy
-        subtitle: Engineering
-        text: >
-          We develop tailored impact strategies that align with your mission and
-          objectives, ensuring measurable social or environmental change while
-          maximising your influence and reach.
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-      - type: FeaturedItem
         title: Grant Proposal Development
         tagline: This is the tagline
         subtitle: This is the item subtitle
@@ -132,6 +114,24 @@ sections:
               borderRadius: x-large
         actions: []
         colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: Impact Strategy
+        subtitle: Engineering
+        text: >
+          We develop tailored impact strategies that align with your mission and
+          objectives, ensuring measurable social or environmental change while
+          maximising your influence and reach.
+        actions: []
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
