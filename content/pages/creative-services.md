@@ -11,13 +11,30 @@ sections:
         self:
           textAlign: center
     subtitle: ''
-    text: >+
-      <div style="text-align: center">We combine creativity with strategy to
-      produce content that resonates with your audience and amplifies your
-      social and environmental impact. From video production and animation to
-      graphic design and photography, we create visually engaging content that
-      captures attention and drives results.</div>
+    text: >
+      ## Creativity with Purpose  
 
+
+      We don’t just create content—we craft stories that connect, engage, and
+      inspire.  
+
+
+      With a **strong foundation in the UK broadcast media industry**, we give
+      our partners the **creative advantage** to produce and deliver compelling
+      assets that stand out.  
+
+
+      ## Strategy-Driven Content Creation  
+
+
+      We combine **creativity with strategy** to produce content that resonates
+      with your audience while amplifying your **social and environmental
+      impact**.  
+
+
+      From **video production and animation** to **graphic design and
+      photography**, we create **visually engaging content** that captures
+      attention and drives real results.  
     actions: []
     colors: bg-dark-fg-light
     styles:
