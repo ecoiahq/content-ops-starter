@@ -190,7 +190,7 @@ sections:
     actions:
       - type: Button
         label: Get in Touch
-        url: 'https://ecoia.co.uk/get-in-touch'
+        url: 'https://ecoia.netlify.app/get-in-touch'
         icon: arrowRight
         iconPosition: right
         style: primary
