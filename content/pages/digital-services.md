@@ -12,12 +12,10 @@ sections:
           textAlign: center
     subtitle: ''
     text: >+
-      <div style="text-align: center">We provide a comprehensive suite of
-      digital services designed to amplify your impact and drive sustainable
-      growth in today’s competitive digital landscape. From full website
-      development to SEO and search engine marketing, we equip you with the
-      tools to effectively communicate your message and maximise your
-      reach.</div>
+      <div style="text-align: center">From full website development to social
+      media management, we provide a comprehensive suite of digital services
+      designed to amplify your impact and drive sustainable growth in today’s
+      competitive digital landscape.</div>
 
     actions: []
     colors: bg-dark-fg-light
