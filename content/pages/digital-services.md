@@ -16,10 +16,6 @@ sections:
       takes more than that.
 
 
-      The digital space is crowded, and a one-size-fits-all approach won’t cut
-      it.
-
-
       That's why we craft **tailored digital strategies** that don’t just get
       you seen—they get you remembered. Whether it’s **website development, SEO,
       or social media management**, we align every move with your brand’s
