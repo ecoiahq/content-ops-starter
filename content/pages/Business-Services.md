@@ -19,34 +19,6 @@ sections:
       That’s why we take a tailored approach, working closely with you to refine
       your brand, secure funding, build strategic partnerships, and implement
       strategies that drive real growth.
-
-
-      ### Transparent Pricing, No Surprises
-
-
-      We know budget matters. What we can tell you upfront is that our services
-      start from **£600**.
-
-
-      But there’s a reason we don’t list fixed pricing. Every project is
-      different, and a one-size-fits-all approach won’t deliver the best
-      results.
-
-
-      ### A Hands-On, Consultative Service
-
-
-      From **business plan development** to **grant support** and **CSR
-      reporting**, we offer a strategic, hands-on partnership designed to help
-      you achieve your goals. Once we understand your needs, pricing is
-      straightforward—and there’s no minimum contract.
-
-
-      ### Send Your Request
-
-
-      If our starting point works for you, send us a request with the button
-      below, and we’ll go through the details together.
     actions: []
     colors: bg-dark-fg-light
     styles:
