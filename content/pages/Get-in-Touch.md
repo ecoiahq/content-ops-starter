@@ -15,7 +15,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Grow your business 10x faster
+      text: Have an Idea? Get in touch.
       color: text-dark
       styles:
         self:
