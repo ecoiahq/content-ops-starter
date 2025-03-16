@@ -191,10 +191,11 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >+
-      <div style="text-align: center">#### Our innovative fundraising mechansim,
-      EcoiaFund™, offers our partners the option to transform creative campaigns
-      into direct contributions toward social and environmental change at the
-      grassroots level. </div>
+      <div style="text-align: center">Our innovative funding mechanism,
+      EcoiaFund™, empowers our partners to transform business campaigns into
+      direct contributions toward social and environmental change at the
+      grassroots level. With each project we deliver, we leverage blockchain
+      technology to provide direct support to communities worldwide.</div>
 
     badge:
       label: ''
