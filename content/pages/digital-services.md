@@ -12,50 +12,50 @@ sections:
           textAlign: center
     subtitle: ''
     text: >
-      You have a vision, a mission, and a unique voice—but standing out takes
-      more than that.
+      ## You have a vision, a mission, and a unique voice—but standing out takes
+      more than that.  
 
 
       The digital space is crowded, and a one-size-fits-all approach won’t cut
-      it.
+      it.  
 
 
       That's why we craft **tailored digital strategies** that don’t just get
       you seen—they get you remembered. Whether it’s **website development, SEO,
       or social media management**, we align every move with your brand’s
-      mission, ensuring you connect with the right audience in the right way.
+      mission, ensuring you connect with the right audience in the right way.  
 
 
-      ## Pricing That Fits Your Business
+      ## Pricing That Fits Your Business  
 
 
       We know budget matters. What we can tell you upfront is that our services
-      start from **£600**.
+      start from **£600**.  
 
 
       But pricing isn’t one-size-fits-all either. Instead of rigid packages, we
       create **bespoke solutions designed around your specific goals**—so you
-      only pay for what truly drives results.
+      only pay for what truly drives results.  
 
 
-      ## A Hands-On, Strategic Approach
+      ## A Hands-On, Strategic Approach  
 
 
       Your digital presence should **work for you, not against you**. We take a
       hands-on, consultative approach to **website optimisation, search
       visibility, social media engagement, and performance tracking**—helping
-      you turn strategy into results.
+      you turn strategy into results.  
 
 
       Once we understand your needs, pricing is simple—and there’s no minimum
-      contract.
+      contract.  
 
 
-      ## Send Your Request
+      ## Send Your Request  
 
 
       If **£600** is within your budget, **send us a request**, and we’ll
-      explore how we can help bring your brand’s mission to life online.
+      explore how we can help bring your brand’s mission to life online.  
     actions: []
     colors: bg-dark-fg-light
     styles:
