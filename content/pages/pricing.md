@@ -27,7 +27,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Get Started
-            url: 'https://ecoia.netlify.app/get-in-touch'
+            url: 'https://ecoia.netlify.app/get-in-touch/'
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -60,7 +60,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Get Started
-            url: 'https://ecoia.netlify.app/get-in-touch'
+            url: 'https://ecoia.netlify.app/get-in-touch/'
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -93,7 +93,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Get Started
-            url: 'https://ecoia.netlify.app/get-in-touch'
+            url: 'https://ecoia.netlify.app/get-in-touch/'
             icon: arrowRight
             iconPosition: right
             style: secondary
