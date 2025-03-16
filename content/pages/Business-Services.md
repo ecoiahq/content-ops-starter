@@ -50,15 +50,10 @@ sections:
         tagline: This is the tagline
         subtitle: From £75/hour
         text: >
-          We guide mission-driven organizations through the process of
-          developing comprehensive, actionable business plans that lay the
-          foundation for growth and success. From defining your vision and
-          mission to outlining clear objectives, strategies, and financial
-          projections, we provide the tools and insights needed to turn your
-          goals into a sustainable, scalable business. Our approach ensures
-          alignment with your social, environmental, and financial
-          targets—helping you attract investors, secure funding, and navigate
-          today’s market complexities.
+          We guide mission-driven organisations in developing comprehensive
+          business plans that lay the foundation for growth and success. This
+          includes defining your vision, mission, objectives, strategies, and
+          financial projections to create a sustainable, scalable business.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
