@@ -16,29 +16,19 @@ sections:
       takes more than that.
 
 
-      The digital space is crowded, and a one-size-fits-all approach won’t cut
-      it.
-
-
       That's why we craft **tailored digital strategies** that don’t just get
       you seen—they get you remembered. Whether it’s **website development, SEO,
       or social media management**, we align every move with your brand’s
       mission, ensuring you connect with the right audience in the right way.
 
 
-      ## Pricing That Fits Your Business
-
-
-      We know budget matters. What we can tell you upfront is that our services
-      start from **£600**.
+      But we know budget matters. What we can tell you upfront is that our
+      services start from **£600**.
 
 
       But pricing isn’t one-size-fits-all either. Instead of rigid packages, we
       create **bespoke solutions designed around your specific goals**—so you
       only pay for what truly drives results.
-
-
-      ## A Hands-On, Strategic Approach
 
 
       Your digital presence should **work for you, not against you**. We take a
