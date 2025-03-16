@@ -98,26 +98,6 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Business Audit
-        subtitle: Marketing
-        text: >
-          Our brand audit service provides a comprehensive review of your
-          brand’s performance, identifying strengths, weaknesses, and
-          opportunities to refine your messaging and improve market presence.
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            textAlign: left
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
         title: Impact Strategy
         subtitle: Engineering
         text: >
