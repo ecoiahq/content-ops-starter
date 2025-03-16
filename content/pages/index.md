@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Helping You Drive Positive Impact at the Grassroots.
+      text: Helping You Drive Positive Impact the Grassroots.
       color: text-dark
       type: TitleBlock
     subtitle: ''
