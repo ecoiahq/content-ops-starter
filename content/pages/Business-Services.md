@@ -136,32 +136,6 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: 'Social Listening '
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: >
-          Through social listening, we help you understand audience sentiment,
-          track key conversations, and identify emerging trends to inform your
-          strategy and strengthen stakeholder engagement.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-      - type: FeaturedItem
         title: Impact / CSR / ESG Reporting
         tagline: This is the tagline
         subtitle: This is the item subtitle
