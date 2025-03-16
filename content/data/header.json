@@ -68,7 +68,7 @@
     "secondaryLinks": [
         {
             "label": "Get in Touch",
-            "url": "/",
+            "url": "https://ecoia.co.uk/get-in-touch",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
