@@ -151,7 +151,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Trusted by Leading Impact–Driven Brands
+  - subtitle: Trusted by Leading Brands
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
