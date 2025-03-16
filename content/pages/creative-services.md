@@ -11,14 +11,18 @@ sections:
         self:
           textAlign: center
     subtitle: ''
-    text: >+
-      <div style="text-align: center">## Creative Content with PurposeWe combine
-      **creativity** with **strategy** to produce content that resonates with
-      your audience and **amplifies your social and environmental impact**.From
-      **video production** and **animation** to **graphic design** and
-      **photography**, we create visually engaging content that captures
-      attention and drives results.</div>
+    text: >-
+      ## Creative Content with Purpose  
 
+
+      We combine **creativity** with **strategy** to produce content that
+      resonates with your audience and **amplifies your social and environmental
+      impact**.  
+
+
+      From **video production** and **animation** to **graphic design** and
+      **photography**, we create visually engaging content that captures
+      attention and drives results.  
     actions: []
     colors: bg-dark-fg-light
     styles:
