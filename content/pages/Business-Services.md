@@ -190,7 +190,7 @@ sections:
     actions:
       - type: Button
         label: Get in Touch
-        url: /Get in Touch
+        url: /Get-in-Touch
         icon: arrowRight
         iconPosition: right
         style: primary
