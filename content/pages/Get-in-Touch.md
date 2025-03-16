@@ -58,9 +58,10 @@ sections:
       text: ''
       color: text-dark
     subtitle: ''
-    text: |+
-      Email: ecoiahq\@gmail.com
+    text: |
+      **Email**: <ecoiahq@gmail.com>
 
+      **Tel**: +44 7462737929
     actions: []
     media:
       type: FormBlock
