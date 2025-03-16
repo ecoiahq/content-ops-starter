@@ -19,13 +19,7 @@ sections:
       organisations, ethical brands, and social enterprises amplify their
       impact.</div>
 
-    actions:
-      - type: Button
-        label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     colors: bg-neutral-fg-dark
     styles:
       self:
