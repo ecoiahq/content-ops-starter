@@ -15,6 +15,17 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
+            },
+            {
+                "type": "Link",
+                "label": "See Tutorials",
+                "altText": "",
+                "url": "/https://ecoia.netlify.app/careers/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
