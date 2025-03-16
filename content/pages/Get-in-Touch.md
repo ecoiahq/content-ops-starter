@@ -21,10 +21,12 @@ sections:
         self:
           textAlign: center
     subtitle: ''
-    text: >
-      Whether you’re a potential collaborator, a grant partner, or a talented
-      professional looking to join us, we’d love to connect with you. Simply
-      fill out the form below, and a member of our team will be in touch. 
+    text: >+
+      <div style="text-align: center">Whether you’re a potential collaborator, a
+      grant partner, or a talented professional looking to join us, we’d love to
+      connect with you. Simply fill out the form below, and a member of our team
+      will be in touch.</div>
+
     actions: []
     badge:
       type: Badge
