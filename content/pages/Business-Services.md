@@ -120,7 +120,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Impact Strategy
-        subtitle: Engineering
+        subtitle: ''
         text: >
           We develop tailored impact strategies that align with your mission and
           objectives, ensuring measurable social or environmental change while
