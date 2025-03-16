@@ -12,12 +12,12 @@ sections:
           textAlign: center
     subtitle: ''
     text: >+
-      <div style="text-align: left">Our business consultancy services are
+      <div style="text-align: center">Our business consultancy services are
       centred around crucial areas of business development and growth. From
       business plan development, to grant development support and CSR reporting,
       we work closely with you to refine your brand, build strategic
       partnerships, secure funding, and implement actionable strategies that
-      align with your goals. </div>
+      align with your goals.</div>
 
     actions: []
     colors: bg-dark-fg-light
