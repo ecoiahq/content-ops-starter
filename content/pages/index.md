@@ -152,7 +152,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Trusted by Leading Impact-Driven Brands
+  - subtitle: Trusted by Leading Impact–Driven Brands
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
@@ -184,18 +184,19 @@ sections:
         textAlign: center
     type: ImageGallerySection
   - title:
-      text: EcoiaFund™ – A Model for Impact
+      text: EcoiaFund™
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: >
-      Our innovative funding mechanism, **EcoiaFund™**, transforms business
-      campaigns into direct contributions to social and environmental change.
-      With every project, we help create sustainable solutions for communities
-      worldwide.
+    text: >+
+      <div style="text-align: center">##### Our innovative funding mechanism,
+      **EcoiaFund™**, transforms business campaigns into direct contributions to
+      social and environmental change. With every project, we help create
+      sustainable solutions for communities worldwide.</div>
+
     badge:
       label: ''
       color: text-primary
@@ -235,8 +236,8 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      From brand strategy to impact reporting, we provide full-scale solutions
-      that help your mission-driven organisation grow.
+      From business strategy to impact reporting, we provide full-scale
+      solutions that help your mission-driven organisation grow.
     actions:
       - label: Learn More
         url: 'https://ecoia.netlify.app/Business-Services/'
@@ -263,7 +264,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      Maximise your online reach with a refreshed website, application, or
+      Maximise your online messaging with a refreshed website, application, or
       digital campaign that fuels audience engagement and impact.
     actions:
       - label: Learn More
@@ -272,6 +273,7 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
+        showIcon: false
     media:
       url: /images/undraw_progressive-app_9517.svg
       altText: Dope design preview
@@ -293,8 +295,8 @@ sections:
       color: text-light
     subtitle: ''
     text: >
-      We craft visually compelling and emotionally resonant content that
-      captivates audiences and strengthens your cause.
+      We produce compelling and emotionally resonant content that captivates
+      audiences and strengthens your cause.
     actions:
       - type: Button
         label: Learn More

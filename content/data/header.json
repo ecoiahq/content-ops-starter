@@ -65,9 +65,9 @@
             "type": "Link"
         },
         {
-            "label": "Our Team",
+            "label": "Meet our Team",
             "altText": "Team Page",
-            "url": "/our-team",
+            "url": "/Meet–our–Team",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
