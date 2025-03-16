@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Meet the Team
+      text: Meet our Team
       color: text-light
       styles:
         self:
