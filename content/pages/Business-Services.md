@@ -12,7 +12,7 @@ sections:
           textAlign: center
     subtitle: ''
     text: >+
-      <div style="text-align: left">Every business is different. Your goals,
+      <div style="text-align: left">## Every business is different. Your goals,
       challenges, and opportunities are unique—which means your strategy should
       be too. That’s why we take a tailored approach, working closely with you
       to refine your brand, secure funding, build strategic partnerships, and
