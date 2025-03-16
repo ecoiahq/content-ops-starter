@@ -27,7 +27,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Get Started
-            url: /Get-Started
+            url: 'https://ecoia.netlify.app/get-in-touch'
             icon: arrowRight
             iconPosition: right
             style: secondary
