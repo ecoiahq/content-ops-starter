@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      We are a diverse team of strategists, marketeers and creative producers
-      working collaboratively to amplify mission-driven organisations. Whether
-      you're a nonprofit, ethical brand, or looking to demonstrate your
+      We are a diverse team of brand strategists, marketeers and creative
+      producers working collaboratively to amplify mission-driven organisations.
+      Whether you're a nonprofit, ethical brand, or looking to demonstrate your
       corporate social responsibility, we help you engage supporters, grow your
       influence, and make a real difference at the grassroots level.
     actions:
