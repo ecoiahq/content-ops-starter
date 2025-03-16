@@ -26,11 +26,8 @@ sections:
       mission, ensuring you connect with the right audience in the right way.
 
 
-      ## Pricing That Fits Your Business
-
-
-      We know budget matters. What we can tell you upfront is that our services
-      start from **£600**.
+      But we know budget matters. What we can tell you upfront is that our
+      services start from **£600**.
 
 
       But pricing isn’t one-size-fits-all either. Instead of rigid packages, we
