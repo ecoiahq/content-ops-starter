@@ -12,13 +12,10 @@ sections:
           textAlign: center
     subtitle: ''
     text: >
-      We don’t just create content—we craft **compelling films, podcasts,
-      designs, and photography** that connect, engage, and inspire.
-
-
-      With a **strong foundation in the UK broadcast media industry**, we give
-      our partners the **creative edge** to produce and deliver standout assets
-      that leave a lasting impact.
+      We don’t just create content—we are award-winning media producers with a
+      **strong foundation in the UK broadcast media industry**, we give our
+      partners the **creative edge** to produce and deliver standout assets that
+      leave a lasting impact.
 
 
       Creativity is powerful, but when combined with strategy, it drives real
