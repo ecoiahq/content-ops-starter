@@ -12,11 +12,12 @@ sections:
           textAlign: center
     subtitle: ''
     text: >+
-      <div style="text-align: left">At Ecoia, we are dedicated to empowering
-      mission-driven organisations through a comprehensive suite of digital
-      services designed to amplify your impact and drive sustainable growth in
-      today's competitive digital landscape. Our offerings are tailored to meet
-      your unique needs:</div>
+      <div style="text-align: center">We provide a comprehensive suite of
+      digital services designed to amplify your impact and drive sustainable
+      growth in today’s competitive digital landscape. From full website
+      development to SEO and search engine marketing, we equip you with the
+      tools to effectively communicate your message and maximise your
+      reach.</div>
 
     actions: []
     colors: bg-dark-fg-light
