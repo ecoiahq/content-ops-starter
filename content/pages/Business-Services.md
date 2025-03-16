@@ -95,7 +95,7 @@ sections:
       - type: FeaturedItem
         title: Grant Proposal Development
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           Our team crafts compelling grant proposals that effectively
           communicate your organisation’s mission, goals, and impact, maximising
