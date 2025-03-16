@@ -12,11 +12,11 @@ sections:
           textAlign: center
     subtitle: ''
     text: >+
-      <div style="text-align: center">We craft **tailored digital strategies**
-      that don’t just get you seen—they get you remembered. Whether it’s
-      **website development, SEO, or social media management**, we align every
-      move with your brand’s mission, ensuring you connect with the right
-      audience in the right way.</div>
+      <div style="text-align: center">We craft tailored digital strategies that
+      don’t just get you seen—they get you remembered. Whether it’s website
+      development, SEO, or social media management, we align every move with
+      your brand’s mission, ensuring you connect with the right audience in the
+      right way.</div>
 
     actions: []
     colors: bg-dark-fg-light
@@ -138,7 +138,7 @@ sections:
     actions:
       - type: Button
         label: Get in Touch
-        url: /Get in Touch
+        url: 'https://ecoia.netlify.app/get-in-touch/'
         icon: arrowRight
         iconPosition: right
         style: primary
