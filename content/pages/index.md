@@ -9,11 +9,10 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      We provide impact strategy, digital marketing solutions, and
-      mission-driven creative campaigns that amplify your social and
-      environmental mission. Whether you're a nonprofit, ethical brand, or CSR
-      leader, we help you engage supporters, grow your influence, and make a
-      real difference at the grassroots level.
+      We provide impact strategy, digital marketing solutions, and philanthropic
+      creative media to that amplify mission-driven businesses. Whether you're a
+      nonprofit, ethical brand, or CSR leader, we help you engage supporters,
+      grow your influence, and make a real difference at the grassroots level.
     actions:
       - label: Get started
         altText: ''
@@ -152,7 +151,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Trusted by Leading Impact–Driven Brands
+  - subtitle: Trusted by Leading Brands
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
