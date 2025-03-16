@@ -10,7 +10,7 @@ sections:
     subtitle: ''
     text: >
       We are a diverse team of strategists, marketeers and creative producers
-      working collaborative to amplify mission-driven organisations. Whether
+      working collaboratively to amplify mission-driven organisations. Whether
       you're a nonprofit, ethical brand, or looking to demonstrate your
       corporate social responsibility, we help you engage supporters, grow your
       influence, and make a real difference at the grassroots level.
