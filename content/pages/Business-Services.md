@@ -78,7 +78,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Business Strategy
+        title: Business Audit
         subtitle: From XYZ P/M.
         text: >
           We help mission-driven organisations define their unique value and
