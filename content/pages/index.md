@@ -236,8 +236,8 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      From brand strategy to impact reporting, we provide full-scale solutions
-      that help your mission-driven organisation grow.
+      From business strategy to impact reporting, we provide full-scale
+      solutions that help your mission-driven organisation grow.
     actions:
       - label: Learn More
         url: 'https://ecoia.netlify.app/Business-Services/'
