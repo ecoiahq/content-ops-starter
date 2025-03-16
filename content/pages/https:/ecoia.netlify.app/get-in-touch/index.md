@@ -163,7 +163,7 @@ sections:
       label: ''
       color: text-primary
     colors: bg-light-fg-dark
-slug: /Get-in-Touch
+slug: 'https://ecoia.netlify.app/get-in-touch/'
 seo:
   type: Seo
   metaTitle: Home - Demo site
