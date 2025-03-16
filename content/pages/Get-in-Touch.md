@@ -49,7 +49,7 @@ sections:
           borderRadius: large
     badge:
       type: Badge
-      label: Key Benefits
+      label: ''
       color: text-primary
       styles:
         self:
