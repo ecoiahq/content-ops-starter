@@ -152,7 +152,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: We've Delivered For
+  - subtitle: We' Delivered For
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
