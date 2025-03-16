@@ -4,7 +4,7 @@ slug: careers
 sections:
   - title:
       text: Join the Team
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
