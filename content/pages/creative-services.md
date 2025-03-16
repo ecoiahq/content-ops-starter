@@ -21,9 +21,6 @@ sections:
       that leave a lasting impact.
 
 
-      ## Strategy-Driven Content Creation
-
-
       Creativity is powerful, but when combined with strategy, it drives real
       change. We develop **content that resonates with your audience** while
       amplifying your **social and environmental impact**.
