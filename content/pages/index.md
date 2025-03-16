@@ -10,9 +10,9 @@ sections:
     subtitle: ''
     text: >
       We provide business, digital and creative solutions to amplify
-      mission-driven businesses. Whether you're a nonprofit, ethical brand, or
-      CSR leader, we help you engage supporters, grow your influence, and make a
-      real difference at the grassroots level.
+      mission-driven organisations. Whether you're a nonprofit, ethical brand,
+      or CSR leader, we help you engage supporters, grow your influence, and
+      make a real difference at the grassroots level.
     actions:
       - label: Get started
         altText: ''
