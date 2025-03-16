@@ -38,9 +38,6 @@ sections:
       only pay for what truly drives results.
 
 
-      ## A Hands-On, Strategic Approach
-
-
       Your digital presence should **work for you, not against you**. We take a
       hands-on, consultative approach to **website optimisation, search
       visibility, social media engagement, and performance tracking**—helping
