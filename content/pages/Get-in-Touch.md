@@ -108,7 +108,7 @@ sections:
     badge:
       type: Badge
       label: Contact Us
-      color: text-primary
+      color: text-dark
     colors: bg-light-fg-dark
   - type: GenericSection
     title:
