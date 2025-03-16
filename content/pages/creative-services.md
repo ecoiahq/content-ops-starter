@@ -11,20 +11,12 @@ sections:
         self:
           textAlign: center
     subtitle: ''
-    text: >
-      Our creative team doesn't just create content—they have a foundation in
-      the UK broadcast media industry, which gives our partners the creative
-      edge to produce and deliver standout assets that leave a lasting impact.
+    text: >+
+      <div style="text-align: center">Our creative team doesn't just create
+      content—they have a foundation in the UK broadcast media industry, which
+      gives our partners the creative edge to produce and deliver standout
+      assets that leave a lasting impact.</div>
 
-
-      Creativity is powerful, but when combined with strategy, it drives real
-      change. We develop content that resonates with your audience while
-      amplifying your social and environmental impact.
-
-
-      From video production and animation to graphic design and photography, we
-      create visually engaging assets designed to capture attention and deliver
-      results.
     actions: []
     colors: bg-dark-fg-light
     styles:
