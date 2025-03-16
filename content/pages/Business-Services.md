@@ -139,7 +139,7 @@ sections:
       - type: FeaturedItem
         title: Impact / CSR Reporting
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           We assist in creating impactful reports that communicate your
           organisation’s social responsibility efforts, highlight measurable
