@@ -194,8 +194,8 @@ sections:
       <div style="text-align: center">Our innovative funding mechanism,
       EcoiaFund™, empowers our partners to transform creative campaigns into
       direct contributions at the grassroots level. With each project we
-      deliver, we leverage blockchain technology to directly support communities
-      and the planet worldwide. </div>
+      deliver, we leverage blockchain technology to directly support causes
+      worldwide.</div>
 
     badge:
       label: ''
