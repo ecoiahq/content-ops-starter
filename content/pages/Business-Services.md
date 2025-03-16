@@ -76,9 +76,9 @@ sections:
         title: Business Audit
         subtitle: From XYZ P/M.
         text: >
-          We help mission-driven organisations define their unique value and
-          position in the market, crafting brand strategies that resonate with
-          your audience and drive long-term growth.
+          We conduct thorough assessments of your organisation to identify
+          strengths, weaknesses, opportunities, and threats, providing
+          actionable insights to enhance performance and achieve your mission.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
