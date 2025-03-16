@@ -41,17 +41,11 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      **Email Us:** For general inquiries, reach out to
-      [**ecoiahq@gmail.com**](mailto:ecoiahq@gmail.com).
+      For general inquiries, reach out to
+      [**ecoiahq@gmail.com**](mailto:ecoiahq@gmail.com) or fill out the form. 
 
 
-      **Partnerships & Collaborations:** Want to explore ways we can work
-      together? We’re open to innovative ideas and strategic alliances. Drop us
-      an email with your proposal or use the **contact form below**.
-
-
-      **Fill out the form below, and we’ll get back to you as soon as
-      possible!**
+      ****
     actions: []
     media:
       type: FormBlock
