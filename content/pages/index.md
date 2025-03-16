@@ -195,7 +195,7 @@ sections:
       EcoiaFund™, empowers our clients to transform creative campaigns into
       direct contributions at the grassroots level. With each project we
       deliver, we leverage blockchain technology to directly support causes
-      worldwide.</div>
+      worldwide– at no extra cost.</div>
 
     badge:
       label: ''
