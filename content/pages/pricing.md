@@ -54,7 +54,7 @@ sections:
           stronger strategy.
         features:
           - 'Brand, Website & Marketing Audit'
-          - Website Design & Optimisation
+          - 'SEO, Social Media & Audience Insights'
           - 'SEO, SEM Optimisation'
           - Social Media Management (Organic & Paid)
           - Brand Design
