@@ -22,7 +22,7 @@ sections:
           presence.
         features:
           - Brand Identity Development
-          - Brand Strategy Roadmap
+          - Marketing Roadmap
           - Website & Digital Presence Setup
           - SEO & Search Visibility Setup
           - Branded Marketing Essentials
