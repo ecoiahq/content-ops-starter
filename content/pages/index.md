@@ -9,12 +9,12 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      We empower mission-driven organisations to expand their influence and
+      We support mission-driven organisations to expand their influence and
       create lasting social impact. Rooted in the UK broadcast media sector, our
-      team of strategists, marketers, and creative producers leverage cultural
-      insight, digital expertise, and creative excellence to help you engage
-      audiences, inspire action, and drive measurable results– online and
-      offline. 
+      diverse team of brand strategists, marketers, and creative producers
+      leverage cultural insight, digital expertise, and creative excellence to
+      help you engage audiences, inspire action, and drive meaningful results–
+      online and offline.
     actions:
       - label: Get started
         altText: ''
@@ -47,7 +47,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Our Approach
+      text: Our Three-Pillar Approach
       color: text-light
       styles:
         self:
@@ -60,7 +60,8 @@ sections:
         subtitle: ''
         text: >
           Thoughtful guidance in brand development, audience engagement, and
-          funding strategies designed for sustainability and real-world impact.
+          impact strategies designed to inspire, encourage, and drive real-world
+          progress.
         actions: []
         elementId: null
         colors: bg-light-fg-dark
@@ -86,8 +87,9 @@ sections:
       - title: Digital
         subtitle: ''
         text: >
-          Purpose-led digital marketing, data-driven optimisation, and online
-          experiences that foster deep engagement and long-term connections.
+          Purpose-led digital marketing, social-first experiences, and
+          data-driven optimisation that foster deep engagement and long-term
+          connections.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -110,9 +112,9 @@ sections:
       - title: Creative
         subtitle: ''
         text: >
-          Award-winning storytelling across social media, film, television, and
-          print—bringing your social and environmental mission to life with
-          authenticity. 
+          Award-winning creative storytelling across social media, film,
+          television, and print—bringing your brand’s identity and mission to
+          life with authenticity. 
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -235,7 +237,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      From strategic brand development to measurable impact reporting, we
+      From philanthropic brand strategy to measurable impact reporting, we
       provide full-scale solutions that help mission-driven organisations
       amplify their influence and drive meaningful change.
     actions:
