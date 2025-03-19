@@ -16,8 +16,9 @@ sections:
         title: Adidas
         tagline: ''
         subtitle: Sonic Branding (4D4WD)
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: >
+          Our creative team were briefed to produce the original music, sound
+          mixing and mastering for Adidas 4D4WD advertisement. 
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
