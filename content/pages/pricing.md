@@ -94,7 +94,7 @@ sections:
           change.
         features:
           - Ongoing Social Media Management
-          - Weekly video and content production.
+          - Weekly 360 content production.
           - Grant Proposal Development and Pitching
           - Influencer & Partnership Outreach
           - Thought Leadership & Blog Content
