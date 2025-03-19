@@ -97,7 +97,16 @@ sections:
             self:
               borderRadius: x-large
           url: /images/3.png
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: 'https://horizonscan.fera.co.uk/'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
