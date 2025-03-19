@@ -8,7 +8,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: ''
+    text: >-
+      We are a diverse team of brand strategists, marketers, and creative
+      producers. With roots across the UK broadcast media sector, we equip
+      organisations with cultural and creative advantage to engage supporters,
+      expand their influence, and drive real impact at the grassroots level. 
     actions:
       - label: Get started
         altText: ''
