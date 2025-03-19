@@ -23,7 +23,7 @@ sections:
           For non-profits, entrepreneurs, and mission-led SMEs establishing
           their presence.
         features:
-          - Brand Development and Strategy
+          - Brand Development & Strategy
           - Market Positioning Roadmap
           - Website Development
           - Social Media Channel Setup
