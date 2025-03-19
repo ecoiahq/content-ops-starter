@@ -12,11 +12,9 @@ sections:
           textAlign: center
     subtitle: ''
     text: >+
-      <div style="text-align: center">Every Brand is Different– Your identity,
-      goals, challenges, and opportunities are unique—which means your strategy
-      should be too. That’s why we take a tailored approach, working closely
-      with you to refine your brand, secure funding, build strategic
-      partnerships, and implement strategies that drive real growth and impact.
+      <div style="text-align: center">Your identity, goals, challenges, and opportunities are one-of-a-kind—so your strategy should be, too. 
+        We take a personalised approach, collaborating closely with you to refine your brand, secure funding, forge strategic partnerships, and implement strategies 
+        that drive genuine growth and meaningful impact.
       </div>
 
     actions: []
