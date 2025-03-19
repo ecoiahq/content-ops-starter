@@ -81,7 +81,9 @@ sections:
         type: PricingPlan
       - title: Ecoia Growth
         price: '£3,500'
-        details: 'You’re saving £1,000 (22.2%) by selecting this set package.'
+        details: >-
+          You’re saving £1,000 (22.2%) by selecting this set package. Billed
+          Monthly.
         description: >
           For organisations ready to amplify their reach and drive meaningful
           change.
