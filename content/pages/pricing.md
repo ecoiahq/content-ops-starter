@@ -9,7 +9,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: We offer tailored packages designed to elevate and support your mission.
+    subtitle: >-
+      We offer both set and bespoke packages designed to elevate and support
+      your mission.
     plans:
       - title: Ecoia Audit
         price: '£1,350'
