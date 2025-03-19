@@ -96,7 +96,7 @@ sections:
           - Ongoing Social Media Management
           - Weekly 360 content production.
           - Weekly Grant Proposal Development and Pitching
-          - Influencer & Partnership Outreach
+          - Ongoing Influencer & Partnership Outreach
           - Thought Leadership & Blog Content
           - Monthly social impact reporting
         image:
