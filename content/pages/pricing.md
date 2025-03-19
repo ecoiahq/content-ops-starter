@@ -90,7 +90,7 @@ sections:
           - Influencer Partnership Facilitation
           - 'Video, Graphic Design and Podcast Production'
         image:
-          url: /images/abstract-feature3.svg
+          url: /images/3.png
           altText: Pricing plan 3
           type: ImageBlock
         actions:
