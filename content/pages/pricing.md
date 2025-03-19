@@ -20,13 +20,13 @@ sections:
           You’re saving £350 (17.1%) by selecting this package. Billed as a
           one-time payment.
         description: >
-          For startups, non-profits, and mission-led brands establishing their
-          presence.
+          For non-profits, entrepreneurs, and mission-led SMEs establishing
+          their presence.
         features:
-          - Brand Development and Strategy
-          - Market Positioning Roadmap
-          - Website Development
-          - Social Media Channel Setup
+          - Brand Development & Strategy
+          - Brand Positioning Roadmap
+          - UX/UI Website Development
+          - Bespoke content Marketing Plan
           - Brand Social Media Marketing Templates
         image:
           altText: Pricing plan 1
@@ -55,10 +55,10 @@ sections:
           You’re saving £350 (17.1%) by selecting this package. Billed as a
           one-time payment.
         description: >
-          For established organisations seeking clarity, direction, and a
-          stronger strategy.
+          For established organisations seeking improved visibility and audience
+          engagement. 
         features:
-          - 'Brand, Website & Marketing Audit'
+          - Brand and Impact Audit
           - 'SEO, Social Media & Audience Insights'
           - Competitor & Positioning Analysis
           - Strategic Roadmap & Messaging Guide
@@ -93,12 +93,12 @@ sections:
           For organisations ready to amplify their reach and drive meaningful
           change.
         features:
-          - Ongoing Social Media & Community Management
-          - Video & Storytelling Content
-          - Grant Proposal Development and Pitching
+          - Monthly Social Media Management
+          - Bespoke Content Production
+          - Grant Proposal Development
           - Influencer & Partnership Outreach
-          - Thought Leadership & Blog Content
-          - Monthly social impact reporting
+          - Press & Media Outreach Support
+          - Monthly Social Impact Reporting
         image:
           url: /images/Growth.png
           altText: Pricing plan 3
