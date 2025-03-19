@@ -10,18 +10,19 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: >-
-      We offer flexible packages designed for SMEs, NGOs, and founder-led
-      businesses. Whether you're building your brand, expanding your reach, or
-      securing funding, we have a solution that fits your goals—and your budget.
+      We offer both set and flexible packages designed to build your brand,
+      expand your reach, and drive sustainable growth. Whatever your goals or
+      budget, we have a solution tailored to your needs.
     plans:
       - title: Ecoia Foundation
         price: '£1,350'
-        details: You’re saving £350 (20.6%) by selecting this package.
+        details: You’re saving £350 (20.6%) by selecting this package. Billed Monthly.
         description: >
           For startups, non-profits, and mission-led brands establishing their
           presence.
         features:
-          - 'Brand Development, Strategy & Positioning'
+          - Brand Identity Development
+          - Marketing Roadmap
           - Website & Digital Presence Setup
           - SEO & Search Visibility Setup
           - Branded Marketing Essentials
@@ -48,7 +49,7 @@ sections:
         type: PricingPlan
       - title: Ecoia Audit
         price: '£1,700'
-        details: You’re saving £350 (17.1%) by selecting this package.
+        details: You’re saving £350 (17.1%) by selecting this package. Billed Monthly.
         description: >
           For established organisations seeking clarity, direction, and a
           stronger strategy.
@@ -81,7 +82,9 @@ sections:
         type: PricingPlan
       - title: Ecoia Growth
         price: '£3,500'
-        details: 'You’re saving £1,000 (22.2%) by selecting this set package.'
+        details: >-
+          You’re saving £1,000 (22.2%) by selecting this set package. Billed
+          Monthly.
         description: >
           For organisations ready to amplify their reach and drive meaningful
           change.
