@@ -230,7 +230,7 @@ sections:
         self:
           borderRadius: medium
   - title:
-      text: Business Services
+      text: Brand Solutions
       color: text-light
       type: TitleBlock
     subtitle: ''
@@ -259,7 +259,7 @@ sections:
         alignItems: center
     type: GenericSection
   - title:
-      text: Digital Services
+      text: Digital Solutions
       color: text-dark
       type: TitleBlock
     subtitle: ''
@@ -292,7 +292,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Creative Services
+      text: Creative Solutions
       color: text-light
     subtitle: ''
     text: >
