@@ -60,7 +60,8 @@ sections:
         subtitle: ''
         text: >
           Thoughtful guidance in brand development, audience engagement, and
-          funding strategies designed for sustainability and real-world impact.
+          impact strategies designed to inspire, encourage, and drive positive,
+          real-world progress.
         actions: []
         elementId: null
         colors: bg-light-fg-dark
