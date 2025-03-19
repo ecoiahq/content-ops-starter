@@ -333,11 +333,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: >-
-      Tell us a bit about your business goals, and we’ll create a strategy to
-      amplify your impact.
-    text: >
-      Whether you’re an NGO, a startup, or an ethical brand, let’s work together
-      to transform your message into action.
+      Tell us a bit about your business goals, and we’ll create a bespoke
+      strategy to amplify your impact.
+    text: ''
     media:
       fields:
         - name: name
