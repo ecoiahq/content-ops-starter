@@ -237,7 +237,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      From strategic brand development to measurable impact reporting, we
+      From philanthropic brand strategy to measurable impact reporting, we
       provide full-scale solutions that help mission-driven organisations
       amplify their influence and drive meaningful change.
     actions:
