@@ -190,10 +190,10 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >+
-      <div style="text-align: center">Turn creative content into tangible
-      impact. EcoiaFund™ seamlessly integrates blockchain technology to
-      transform media assets into direct grassroots contributions—funding causes
-      that matter, at no extra cost.</div>
+      <div style="text-align: center">Our innovative fundraising mechanism,
+      EcoiaFund™, seamlessly integrates blockchain technology to transform media
+      assets into direct grassroots contributions—funding causes that matter, at
+      no extra cost.</div>
 
     badge:
       label: ''
