@@ -5,18 +5,19 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Services
+      text: Brand Solutions
       color: text-light
       styles:
         self:
           textAlign: center
     subtitle: ''
     text: >+
-      <div style="text-align: center">Every Business is Different– Your goals,
-      challenges, and opportunities are unique—which means your strategy should
-      be too.That’s why we take a tailored approach, working closely with you to
-      refine your brand, secure funding, build strategic partnerships, and
-      implement strategies that drive real growth.</div>
+      <div style="text-align: center">Every Brand is Different– Your identity,
+      goals, challenges, and opportunities are unique—which means your strategy
+      should be too. That’s why we take a tailored approach, working closely
+      with you to refine your brand, secure funding, build strategic
+      partnerships, and implement strategies that drive real growth and impact.
+      </div>
 
     actions: []
     colors: bg-dark-fg-light
@@ -45,8 +46,8 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Business Planning and Formation
-        tagline: This is the tagline
+        title: Brand Strategy
+        tagline: ''
         subtitle: ''
         text: >
           We guide mission-driven organisations in developing comprehensive
@@ -72,7 +73,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Business Audit
+        title: Brand Audit
         subtitle: ''
         text: >
           We conduct thorough assessments of your organisation to identify
@@ -118,7 +119,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Impact Strategy
+        title: Social Impact Strategy
         subtitle: ''
         text: >
           We develop tailored impact strategies that align with your mission and
@@ -136,39 +137,13 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Impact / CSR Reporting
+        title: Impact Reporting
         tagline: This is the tagline
         subtitle: ''
         text: >
           We assist in creating impactful reports that communicate your
           organisation’s social responsibility efforts, highlight measurable
           outcomes, and ensure transparency to engage stakeholders effectively.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-      - type: FeaturedItem
-        title: Fundraising Strategy
-        tagline: This is the tagline
-        subtitle: ''
-        text: >
-          We design customised fundraising strategies that align with your
-          organisation’s goals, helping you reach and engage potential donors,
-          secure grants, and build long-term financial support.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
