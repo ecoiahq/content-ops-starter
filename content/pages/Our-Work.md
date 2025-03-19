@@ -116,7 +116,7 @@ sections:
         text: >
           Phronesis Cyber Security briefed us to create thought leadership
           content highlighting UK data protection best practices for mobile
-          device users.
+          device users. View the articles via the link below.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
