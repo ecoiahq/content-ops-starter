@@ -86,7 +86,7 @@ sections:
           For organisations ready to amplify their reach and drive meaningful
           change.
         features:
-          - Brand Strategy Development
+          - Ongoing Social Media & Community Management
           - 'SEO, SEM Optimization'
           - Social Media Management (Organic & Paid)
           - Grant Proposal Development
