@@ -93,7 +93,7 @@ sections:
           For organisations ready to amplify their reach and drive meaningful
           change.
         features:
-          - Ongoing Social Media and Community Management
+          - Ongoing Social Media & Community Management
           - Weekly integrated content marketing
           - Ongoing Grant Proposal Development
           - Ongoing Influencer & Partnership Outreach
