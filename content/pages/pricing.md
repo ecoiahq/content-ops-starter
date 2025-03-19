@@ -47,7 +47,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Ecoia Audit
-        price: '£2,200'
+        price: '£1,700'
         details: Billed Monthly
         description: |+
           Ideal for businesses needing foundational branding & digital presence
