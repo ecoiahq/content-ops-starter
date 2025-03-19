@@ -55,8 +55,8 @@ sections:
           You’re saving £350 (17.1%) by selecting this package. Billed as a
           one-time payment.
         description: >
-          For established organisations seeking improved visibility, brand
-          strategies and audience engagement 
+          For established organisations seeking improved visibility and audience
+          engagement
         features:
           - 'Brand, Website & Marketing Audit'
           - 'SEO, Social Media & Audience Insights'
