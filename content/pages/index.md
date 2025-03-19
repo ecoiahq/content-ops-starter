@@ -58,8 +58,10 @@ sections:
         title: Strategy
         subtitle: ''
         text: >
-          Thoughtful guidance in brand positioning, audience engagement, and
-          funding strategies to drive meaningful change.
+          Award-winning creative direction and multimedia storytelling tailored
+          for film, radio, digital television, print, and social media—bringing
+          your mission to life with authenticity, creativity, and lasting
+          impact.
         actions: []
         elementId: null
         colors: bg-light-fg-dark
