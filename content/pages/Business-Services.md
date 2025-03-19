@@ -166,10 +166,7 @@ sections:
         title: ''
         tagline: ''
         subtitle: ''
-        text: >
-          We design customised fundraising strategies that align with your
-          organisation’s goals, helping you reach and engage potential donors,
-          secure grants, and build long-term financial support.
+        text: ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
