@@ -170,7 +170,7 @@ sections:
           borderRadius: large
     badge:
       type: Badge
-      label: Contact Us
+      label: ''
       color: text-primary
     colors: bg-light-fg-dark
 seo:
