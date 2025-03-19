@@ -112,7 +112,7 @@ sections:
       - type: FeaturedItem
         title: 'Phronesis Technologies '
         tagline: ''
-        subtitle: ''
+        subtitle: Thought Leadership
         text: >
           Phronesis Cyber Security briefed us to create thought leadership
           content highlighting UK data protection best practices for mobile
