@@ -23,7 +23,7 @@ sections:
         features:
           - 'Brand Development, Strategy & Positioning'
           - Website & Digital Presence Setup
-          - Social Media Setup & Content Strategy
+          - SEO & Search Visibility Setup
           - Basic Marketing Materials
         image:
           altText: Pricing plan 1
