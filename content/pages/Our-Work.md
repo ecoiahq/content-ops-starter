@@ -51,7 +51,7 @@ sections:
       - type: FeaturedItem
         title: Disability Sports Channel
         tagline: ''
-        subtitle: "Brand Development\_• Market Positioning"
+        subtitle: Business Development
         text: >
           Disability Sports Channel founder Simeon Wakely partnered with Ecoia
           to develop, position and brand the pioneering platform dedicated to
