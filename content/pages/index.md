@@ -87,8 +87,9 @@ sections:
       - title: Digital
         subtitle: ''
         text: >
-          Purpose-led digital marketing, data-driven optimisation, and online
-          experiences that foster deep engagement and long-term connections.
+          Purpose-led digital marketing, social-first experiences, and
+          data-driven optimisation that foster deep engagement and long-term
+          connections.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
