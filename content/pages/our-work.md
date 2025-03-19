@@ -88,9 +88,10 @@ sections:
         tagline: ''
         subtitle: Content Strategy (FIRU / HorizonScan)
         text: >
-          Our creative director guided the refreshed content strategy and
-          production for Fera, the UK's leading agri-food and environmental
-          research facility. View the latest content via the link below.
+          Our Creative Director spearheaded the refreshed content strategy and
+          production for Fera’s HorizonScan and FIRU ventures, driving
+          innovation at the UK’s foremost agri-food and environmental research
+          facility. Explore the latest content through the link below.
         image:
           type: ImageBlock
           altText: Placeholder image
