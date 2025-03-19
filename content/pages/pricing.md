@@ -97,7 +97,6 @@ sections:
           - Weekly 360 content production.
           - Ongoing Grant Proposal Development
           - Ongoing Influencer & Partnership Outreach
-          - Thought Leadership & Blog Content
           - Monthly social impact reporting
         image:
           url: /images/Growth.png
