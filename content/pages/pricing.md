@@ -95,7 +95,7 @@ sections:
         features:
           - Ongoing Social Media & Community Management
           - Video & Storytelling Content
-          - Grant Proposal Strategy
+          - Grant Proposal Development and Pitching
           - Influencer & Partnership Outreach
           - Thought Leadership & Blog Content
           - Quarterly Marketing & Fundraising Campaigns
