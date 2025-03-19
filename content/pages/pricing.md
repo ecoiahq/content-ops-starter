@@ -22,7 +22,7 @@ sections:
           presence.
         features:
           - Brand Development and Strategy
-          - Marketing Roadmap
+          - Market Positioning Roadmap
           - 'Website Development, Google Search'
           - Social Media Channel Setup
           - Brand Social Media Marketing Templates
