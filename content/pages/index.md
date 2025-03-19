@@ -9,11 +9,11 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      Rooted in the UK broadcast media sector, our diverse team of brand
-      strategists, marketers, and creative producers empower founder-led
-      business with cultural strategy and creative excellence—helping them
-      engage supporters, expand their influence, and drive meaningful impact at
-      the grassroots level.
+      We empower mission-driven brands, startups, and NGOs to expand their
+      influence and create lasting social impact. Rooted in the UK broadcast
+      media sector, our team of strategists, marketers, and creative producers
+      bring cultural insight, digital expertise, and creative excellence to help
+      you engage audiences, inspire action, and drive measurable results.
     actions:
       - label: Get started
         altText: ''
@@ -46,20 +46,20 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Our Core Areas
+      text: Our Three-Pillar Approach
       color: text-light
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: A Three-Pillar Approach to Empower Your Organisation.
+    subtitle: 'A strategic, digital, and creative framework to amplify your influence.'
     items:
       - type: FeaturedItem
         title: Strategy
         subtitle: ''
         text: >
           Thoughtful guidance in brand development, audience engagement, and
-          funding strategies to drive sustainability and meaningful change.
+          funding strategies designed for sustainability and real-world impact.
         actions: []
         elementId: null
         colors: bg-light-fg-dark
@@ -85,9 +85,8 @@ sections:
       - title: Digital
         subtitle: ''
         text: >
-          Purpose-led digital marketing and optimisation to drive engagement,
-          amplify social impact, and foster lasting connections– online and
-          offline. 
+          Purpose-led digital marketing, data-driven optimisation, and online
+          experiences that foster deep engagement and long-term connections.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -110,9 +109,9 @@ sections:
       - title: Creative
         subtitle: ''
         text: >
-          Award-winning creative direction and media for social media, film,
-          television, radio, television and print—bringing your mission to life
-          with authenticity and lasting impact.
+          Award-winning storytelling across social media, film, television, and
+          print—bringing your social and environmental mission to life with
+          authenticity. 
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -183,7 +182,7 @@ sections:
         textAlign: center
     type: ImageGallerySection
   - title:
-      text: EcoiaFund™
+      text: Introducing EcoiaFund™
       color: text-dark
       styles:
         self:
@@ -192,10 +191,9 @@ sections:
     subtitle: ''
     text: >+
       <div style="text-align: center">Our innovative fundraising mechanism,
-      **EcoiaFund™**, gives clients the option to **monetise creative content**
-      into direct grassroots contributions. With every media asset we deliver,
-      we **harness blockchain technology** to seamlessly fund a charity of your
-      choosing—**at no extra cost**.</div>
+      EcoiaFund™, seamlessly integrates blockchain technology to transform media
+      assets into direct grassroots contributions—funding causes that matter, at
+      no extra cost.</div>
 
     badge:
       label: ''
