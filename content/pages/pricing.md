@@ -124,9 +124,9 @@ sections:
       color: text-dark
     subtitle: Bespoke Services – Tailored to Your Needs
     text: >
-      If your requirements go beyond our set packages, we create **custom
-      solutions** designed around your specific goals. Let’s craft a strategy
-      that fits your vision.
+      If your requirements go beyond our set packages, we create custom
+      solutions designed around your specific goals. Simply get in touch today
+      to discuss your unique needs.
     actions: []
     media:
       type: FormBlock
