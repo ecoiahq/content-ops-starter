@@ -60,7 +60,7 @@ sections:
           - Strategic Roadmap & Messaging Guide
           - Campaign & Content Framework
         image:
-          url: /images/2.png
+          url: /images/Audit.png
           altText: Pricing plan 2
           type: ImageBlock
         actions:
