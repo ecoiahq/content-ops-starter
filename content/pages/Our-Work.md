@@ -93,7 +93,7 @@ sections:
           research facility. View the latest content via the link below.
         image:
           type: ImageBlock
-          url: /images/Untitled design (2).svg
+          url: /images/Untitled design (1).png
           altText: Placeholder image
           styles:
             self:
