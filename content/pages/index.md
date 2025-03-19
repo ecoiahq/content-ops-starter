@@ -191,7 +191,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >+
-      <div style="text-align: center">Our innovative fundraising model,
+      <div style="text-align: center">Our innovative fundraising mechanism,
       **EcoiaFund™**, gives clients the option to **monetise creative content**
       into direct grassroots contributions. With every media asset we deliver,
       we **harness blockchain technology** to seamlessly fund a charity of your
