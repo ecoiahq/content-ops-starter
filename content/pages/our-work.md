@@ -29,7 +29,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: 'Learn More '
             altText: ''
             url: >-
               https://www.fera.co.uk/insect-bioconversion-reforming-the-food-system
