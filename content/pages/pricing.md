@@ -10,10 +10,9 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: >-
-      We provide expert-led, impact-driven solutions tailored for SMEs,
-      non-profits, NGOs, and founder-led businesses. Whether you’re looking to
-      build a strong foundation, scale your reach, or secure funding, we have a
-      package to match your ambitions.
+      We offer flexible packages designed for SMEs, NGOs, and founder-led
+      businesses. Whether you're building your brand, expanding your reach, or
+      securing funding, we have a solution that fits your goals—and your budget.
     plans:
       - title: Essential Growth Package
         price: '£1,350'
