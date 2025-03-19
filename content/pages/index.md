@@ -109,8 +109,8 @@ sections:
       - title: Creative
         subtitle: ''
         text: >
-          Compelling visual storytelling, campaign development, and media assets
-          that bring your mission to life.
+          Thoughtful guidance in brand positioning, audience engagement, and
+          funding strategies to drive meaningful change.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
