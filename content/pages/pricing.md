@@ -23,7 +23,7 @@ sections:
           - 'Brand Development, Strategy & Positioning'
           - Website Design & Optimization
           - Social Media Setup & Content Strategy
-          - SEO & SEM Foundation
+          - Basic Marketing Materials
         image:
           altText: Pricing plan 1
           type: ImageBlock
