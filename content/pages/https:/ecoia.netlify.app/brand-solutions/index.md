@@ -181,7 +181,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: /brand-solutions
+slug: 'https://ecoia.netlify.app/brand-solutions/'
 seo:
   type: Seo
   metaTitle: Careers - Demo site
