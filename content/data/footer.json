@@ -36,7 +36,7 @@
     "legalLinks": [
         {
             "label": "Privacy Policy",
-            "url": "/",
+            "url": "/privacy-policy",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
