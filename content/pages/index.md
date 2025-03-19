@@ -9,12 +9,12 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      We empower mission-driven organisations to expand their influence and
+      We support mission-driven organisations to expand their influence and
       create lasting social impact. Rooted in the UK broadcast media sector, our
       team of strategists, marketers, and creative producers leverage cultural
       insight, digital expertise, and creative excellence to help you engage
-      audiences, inspire action, and drive measurable results– online and
-      offline. 
+      audiences, inspire action, and drive meaningful results– online and
+      offline.
     actions:
       - label: Get started
         altText: ''
