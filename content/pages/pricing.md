@@ -17,8 +17,9 @@ sections:
       - title: Essential Growth Package
         price: '£1,350'
         details: Billed Monthly
-        description: |
-          Best for businesses seeking analysis & insights
+        description: >
+          For startups, small NGOs & early-stage businesses needing brand
+          clarity & digital presence.
         features:
           - Brand Audit
           - Social Listening
