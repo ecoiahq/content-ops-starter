@@ -90,7 +90,7 @@ sections:
           - Video & Storytelling Content
           - Grant Proposal Strategy
           - Influencer & Partnership Outreach
-          - Influencer Partnership Facilitation
+          - Thought Leadership & Blog Content
           - 'Video, Graphic Design and Podcast Production'
         image:
           url: /images/3.png
