@@ -52,9 +52,10 @@ sections:
         tagline: ''
         subtitle: Brand Strategy
         text: >
-          Disability Sports Channel partnered with Ecoia to develop, position,
-          and brand the pioneering platform dedicated to amplifying disability
-          sports worldwide. View the channel on Instagram via the link below.
+          Olympic Torchbearer Simeon Wakely partnered with Ecoia to develop,
+          position, and brand the pioneering platform dedicated to amplifying
+          disability sports worldwide. View the channel on Instagram via the
+          link below.
         image:
           type: ImageBlock
           altText: Placeholder image
