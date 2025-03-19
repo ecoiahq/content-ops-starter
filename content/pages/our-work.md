@@ -173,7 +173,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: Learn More
             altText: ''
             url: 'https://theidspectrum.bandcamp.com/album/ids001'
             showIcon: false
