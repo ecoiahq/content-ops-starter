@@ -80,7 +80,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Ecoia Growth
-        price: '£2,750'
+        price: '£3,500'
         details: Billed Monthly
         description: |
           For businesses focused on expanding reach & funding
