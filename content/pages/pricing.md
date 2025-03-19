@@ -82,8 +82,9 @@ sections:
       - title: Ecoia Growth
         price: '£3,500'
         details: Billed Monthly
-        description: |
-          For businesses focused on expanding reach & funding
+        description: >
+          For organisations ready to amplify their reach and drive meaningful
+          change.
         features:
           - Brand Strategy Development
           - 'SEO, SEM Optimization'
