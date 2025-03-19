@@ -13,13 +13,13 @@ sections:
     subtitle: Explore our work below and see how we turn creativity into impact.
     items:
       - type: FeaturedItem
-        title: Adidas – 4DFWD
+        title: Adidas
         tagline: ''
-        subtitle: Sound Editorial
+        subtitle: Sound Editorial (4DFWD)
         text: >
           Adidas' music supervision agency, Record-Play, partnered with our
-          creative team to deliver original music for the Adidas 4D4WD campaign.
-          Watch the video via the link below.
+          company founder– Louis Sterling– to create bespoke music for the
+          Adidas 4D4WD campaign. Watch the video via the link below.
         image:
           type: ImageBlock
           url: /images/1.png
@@ -29,10 +29,9 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: 'Learn More '
             altText: ''
-            url: >-
-              https://www.fera.co.uk/insect-bioconversion-reforming-the-food-system
+            url: ''
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -51,11 +50,12 @@ sections:
       - type: FeaturedItem
         title: Disability Sports Channel
         tagline: ''
-        subtitle: Business Development
+        subtitle: Brand Strategy
         text: >
-          Disability Sports Channel partnered with Ecoia to develop, position,
-          and brand the pioneering platform dedicated to amplifying disability
-          sports worldwide. View the channel on Instagram via the link below.
+          Olympic Torchbearer Simeon Wakely partnered with Ecoia to develop,
+          position, and brand the pioneering platform dedicated to amplifying
+          disability sports worldwide. View the channel on Instagram via the
+          link below.
         image:
           type: ImageBlock
           altText: Placeholder image
@@ -65,9 +65,9 @@ sections:
           url: /images/2.png
         actions:
           - type: Button
-            label: Get started
+            label: Learn More
             altText: ''
-            url: 'https://www.disabilitysportschannel.co.uk/'
+            url: 'https://www.instagram.com/disability_sports_channel/'
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -86,11 +86,12 @@ sections:
       - type: FeaturedItem
         title: Fera Science
         tagline: ''
-        subtitle: Content Strategy
+        subtitle: Content Strategy (FIRU / HorizonScan)
         text: >
-          Our creative director guided the refreshed content strategy and
-          production for Fera, the UK's leading agri-food and environmental
-          research facility. View the latest content via the link below.
+          Our Creative Director spearheaded the refreshed content strategy and
+          production for Fera’s HorizonScan and FIRU ventures, driving
+          innovation at the UK’s foremost agri-food and environmental research
+          facility. Explore the latest content through the link below.
         image:
           type: ImageBlock
           altText: Placeholder image
@@ -98,7 +99,16 @@ sections:
             self:
               borderRadius: x-large
           url: /images/3.png
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: 'https://horizonscan.fera.co.uk/'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -114,9 +124,10 @@ sections:
         tagline: ''
         subtitle: Thought Leadership Articles
         text: >
-          Phronesis Cyber Security briefed us to create thought leadership
-          content highlighting UK data protection best practices for mobile
-          device users. View the articles via the link below.
+          Phronesis Cyber Security commissioned our copywriters to develop
+          thought leadership content showcasing best practices in UK data
+          protection, specifically tailored for UK-centric mobile device users.
+          Explore the articles via the link below.
         image:
           type: ImageBlock
           url: /images/4.png
@@ -124,7 +135,16 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: 'https://tmtid.com/'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -151,33 +171,16 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-      - type: FeaturedItem
-        title: Massage in Thyme
-        tagline: ''
-        subtitle: This is the item subtitle
-        text: >
-          We were briefed to develop the brand strategy for Massage in Thyme, a
-          Bath-based holistic wellbeing company dedicated to enhancing wellness
-          through therapeutic treatments and mindful practices.
-        image:
-          type: ImageBlock
-          url: /images/6.png
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: 'https://theidspectrum.bandcamp.com/album/ids001'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
