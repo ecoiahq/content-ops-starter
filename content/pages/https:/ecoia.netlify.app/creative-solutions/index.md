@@ -175,7 +175,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: /creative-solutions
+slug: 'https://ecoia.netlify.app/creative-solutions/'
 seo:
   type: Seo
   metaTitle: Careers - Demo site
