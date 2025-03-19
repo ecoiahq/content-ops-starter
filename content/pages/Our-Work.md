@@ -140,11 +140,10 @@ sections:
         tagline: ''
         subtitle: Creative Direction
         text: >
-          We developed in-house platform, IDS, to serve as a hub for creative
-          talent at the University of Brighton, alongside building a record
-          label designed to foster artists and support the arts within
-          Brighton's tight-knit creative community. Listen to IDS Music via. the
-          link below.
+          We developed the in-house platform IDS to serve as a hub for artistic
+          talent in Brighton, UK, alongside building a record label designed to
+          foster artists and support the arts within Brighton's tight-knit
+          creative community.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
