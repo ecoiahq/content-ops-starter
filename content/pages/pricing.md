@@ -44,7 +44,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Ecoia Foundation
+      - title: Impact & Visibility Package
         price: '£2,200'
         details: Billed Monthly
         description: |+
