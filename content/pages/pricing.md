@@ -93,7 +93,6 @@ sections:
           For organisations ready to amplify their reach and drive meaningful
           change.
         features:
-          - ''
           - Ongoing Social Media & Community Management
           - Video & Storytelling Content
           - Grant Proposal Strategy
