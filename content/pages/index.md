@@ -46,7 +46,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Our Core Areas
+      text: Our Three-Pillar Approach
       color: text-light
       styles:
         self:
