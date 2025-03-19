@@ -259,7 +259,7 @@ sections:
         alignItems: center
     type: GenericSection
   - title:
-      text: Digital Services
+      text: Digital Solutions
       color: text-dark
       type: TitleBlock
     subtitle: ''
