@@ -109,8 +109,9 @@ sections:
       - title: Creative
         subtitle: ''
         text: >
-          Thoughtful guidance in brand positioning, audience engagement, and
-          funding strategies to drive meaningful change.
+          Award-winning creative direction tailored for film, radio, digital
+          television, print, and social media—bringing your mission to life with
+          authenticity and lasting impact.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
