@@ -87,7 +87,7 @@ sections:
           change.
         features:
           - Ongoing Social Media & Community Management
-          - 'SEO, SEM Optimization'
+          - Video & Storytelling Content
           - Social Media Management (Organic & Paid)
           - Grant Proposal Development
           - Influencer Partnership Facilitation
