@@ -48,7 +48,18 @@
             "type": "SubNav"
         },
         {
-            "label": "Packages",
+            "type": "Link",
+            "label": "Our Work",
+            "altText": "",
+            "url": "/our-work",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
+            "label": "Set Packages",
             "url": "https://ecoia.netlify.app/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
