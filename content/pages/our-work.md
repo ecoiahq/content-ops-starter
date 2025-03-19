@@ -101,7 +101,7 @@ sections:
           url: /images/3.png
         actions:
           - type: Button
-            label: Get started
+            label: Learn More
             altText: ''
             url: 'https://horizonscan.fera.co.uk/'
             showIcon: false
