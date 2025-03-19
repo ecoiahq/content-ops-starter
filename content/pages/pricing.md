@@ -3,13 +3,15 @@ title: Packages
 slug: pricing
 sections:
   - title:
-      text: Set Packages
+      text: Set Packages & Bespoke Solutions
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: We offer tailored packages designed to elevate and support your mission.
+    subtitle: >-
+      We offer both structured set packages and fully bespoke solutions to
+      support and elevate your mission.
     plans:
       - title: Ecoia Audit
         price: '£1,350'
@@ -115,6 +117,63 @@ sections:
       subtitle:
         textAlign: center
     type: PricingSection
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Not sure which is right for you?
+      color: text-dark
+    subtitle: Bespoke Services – Tailored to Your Needs
+    text: >
+      If your requirements go beyond our set packages, we create custom
+      solutions designed around your specific goals. Simply get in touch today
+      to discuss your unique needs.
+    actions: []
+    media:
+      type: FormBlock
+      fields:
+        - type: TextFormControl
+          name: name
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          isRequired: true
+          width: full
+        - type: EmailFormControl
+          name: email
+          label: Email
+          hideLabel: true
+          placeholder: Your email
+          isRequired: true
+          width: full
+        - type: TextareaFormControl
+          name: message
+          label: Message
+          hideLabel: true
+          placeholder: Your message
+          width: full
+      submitButton:
+        type: SubmitButtonFormControl
+        label: Submit
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+      elementId: contact-form
+      styles:
+        self:
+          padding:
+            - pt-6
+            - pb-6
+            - pl-6
+            - pr-6
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-light-fg-dark
 seo:
   metaTitle: Pricing - Demo site
   metaDescription: This is the pricing page built with Netlify Create.
