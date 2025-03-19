@@ -51,8 +51,15 @@ sections:
         title: Disability Sports Channel
         tagline: ''
         subtitle: "Brand Development\_• Market Positioning"
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: >+
+          Simeon's vision was clear—to amplify and enhance the representation of
+          disability sports, fostering greater awareness, inclusivity, and
+          engagement within both the sporting community and broader audience.
+          Ecoia worked closely with Simeon, leveraging their expertise to
+          establish strategic partnerships, create impactful branding, and
+          position the Disability Sports Channel as a pioneering platform
+          dedicated to championing athletes with disabilities worldwide.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
