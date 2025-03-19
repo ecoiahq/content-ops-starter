@@ -48,7 +48,9 @@ sections:
         type: PricingPlan
       - title: Ecoia Audit
         price: '£1,700'
-        details: Billed Monthly
+        details: >-
+          You’re saving £350 (17.1%) while setting up your organization for
+          long-term success.
         description: >
           Best for: Established organisations seeking clarity, direction, and a
           stronger strategy.
