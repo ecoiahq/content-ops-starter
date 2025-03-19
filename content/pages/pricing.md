@@ -97,7 +97,7 @@ sections:
           - Video & Storytelling Content
           - Grant Proposal Development & Pitching
           - Influencer & Partnership Outreach
-          - Monthly social impact reporting
+          - Monthly Social Impact Reporting
         image:
           url: /images/Growth.png
           altText: Pricing plan 3
