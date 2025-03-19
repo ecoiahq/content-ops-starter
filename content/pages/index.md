@@ -47,7 +47,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Our Three-Pillar Approach
+      text: Our Approach
       color: text-light
       styles:
         self:
