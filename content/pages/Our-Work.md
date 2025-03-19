@@ -167,8 +167,10 @@ sections:
         title: Massage in Thyme
         tagline: ''
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          We were briefed to develop the brand strategy for Massage in Thyme, a
+          Bath-based holistic wellbeing company dedicated to enhancing wellness
+          through therapeutic treatments and mindful practices.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
