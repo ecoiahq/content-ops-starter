@@ -50,7 +50,7 @@ sections:
         price: '£1,700'
         details: You’re saving £350 (17.1%) by selecting this package.
         description: >
-          Best for: Established organisations seeking clarity, direction, and a
+          Best for established organisations seeking clarity, direction, and a
           stronger strategy.
         features:
           - 'Brand, Website & Marketing Audit'
