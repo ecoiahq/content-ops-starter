@@ -51,7 +51,7 @@
             "type": "Link",
             "label": "Our Work",
             "altText": "",
-            "url": "/our-work",
+            "url": "ecoia.netlify.app/our-work",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
