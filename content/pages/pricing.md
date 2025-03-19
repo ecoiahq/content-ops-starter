@@ -97,6 +97,7 @@ sections:
           - Weekly Bespoke Content Production
           - Grant Proposal Development & Pitching
           - Influencer & Partnership Outreach
+          - ''
           - Monthly Social Impact Reporting
         image:
           url: /images/Growth.png
