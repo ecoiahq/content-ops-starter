@@ -89,7 +89,7 @@ sections:
           - Ongoing Social Media & Community Management
           - Video & Storytelling Content
           - Grant Proposal Strategy
-          - Grant Proposal Development
+          - Influencer & Partnership Outreach
           - Influencer Partnership Facilitation
           - 'Video, Graphic Design and Podcast Production'
         image:
