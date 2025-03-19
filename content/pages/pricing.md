@@ -57,7 +57,7 @@ sections:
           - 'SEO, Social Media & Audience Insights'
           - Competitor & Positioning Analysis
           - Strategic Roadmap & Messaging Guide
-          - Brand Design
+          - Campaign & Content Framework
         image:
           url: /images/2.png
           altText: Pricing plan 2
