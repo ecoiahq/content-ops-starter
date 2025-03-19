@@ -85,8 +85,9 @@ sections:
       - title: Digital
         subtitle: ''
         text: >
-          High-quality digital media, content marketing, and technology-driven
-          storytelling to connect with your community.
+          Purpose-led digital marketing and optimisation to drive engagement,
+          amplify social impact, and foster lasting connections– online and
+          offline. 
         image:
           url: /images/icon2.svg
           altText: Featured icon two
