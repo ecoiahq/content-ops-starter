@@ -47,7 +47,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Adidas
+        title: DSC
         tagline: ''
         subtitle: Sonic Branding – 4D4WD
         text: |
