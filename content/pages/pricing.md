@@ -10,9 +10,9 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: >-
-      We offer set and flexible packages to build your brand, expand your reach
-      and support your growth. , we have a solution that fits your goals—and
-      your budget.
+      We offer both set and flexible packages designed to build your brand,
+      expand your reach, and drive sustainable growth. Whatever your goals or
+      budget, we have a solution tailored to your needs.
     plans:
       - title: Ecoia Foundation
         price: '£1,350'
