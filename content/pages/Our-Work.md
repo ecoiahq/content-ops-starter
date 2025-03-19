@@ -93,11 +93,11 @@ sections:
           research facility. View the latest content via the link below.
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
           altText: Placeholder image
           styles:
             self:
               borderRadius: x-large
+          url: /images/Untitled design.jpg
         actions: []
         colors: bg-light-fg-dark
         styles:
@@ -119,7 +119,7 @@ sections:
           device users. View the articles via the link below.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Untitled design.jpg
           altText: Placeholder text
           styles:
             self:
