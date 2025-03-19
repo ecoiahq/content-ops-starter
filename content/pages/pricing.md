@@ -58,7 +58,7 @@ sections:
           For established organisations seeking improved visibility and audience
           engagement. 
         features:
-          - Brand and Social Impact Audit
+          - Brand and Impact Audit
           - 'SEO, Social Media & Audience Insights'
           - Competitor & Positioning Analysis
           - Strategic Roadmap & Messaging Guide
