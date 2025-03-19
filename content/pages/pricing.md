@@ -21,11 +21,11 @@ sections:
           For startups, non-profits, and mission-led brands establishing their
           presence.
         features:
-          - Brand Identity Development
-          - Marketing Roadmap
-          - Website & Digital Presence Setup
-          - SEO & Search Visibility Setup
-          - Branded Marketing Essentials
+          - Brand Development and Strategy
+          - Market Positioning Roadmap
+          - Website Development
+          - Social Media Channel Setup
+          - Brand Social Media Marketing Templates
         image:
           altText: Pricing plan 1
           type: ImageBlock
