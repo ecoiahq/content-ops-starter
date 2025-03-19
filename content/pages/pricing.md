@@ -94,7 +94,7 @@ sections:
           change.
         features:
           - Monthly Social Media Management (Organic and PPC)
-          - Video & Storytelling Content
+          - Weekly Bespoke Content Production
           - Grant Proposal Development & Pitching
           - Influencer & Partnership Outreach
           - Monthly Social Impact Reporting
