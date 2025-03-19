@@ -59,7 +59,7 @@ sections:
         subtitle: ''
         text: >
           Thoughtful guidance in brand development, audience engagement, and
-          funding strategies to drive sustainability and meaningful change.
+          funding strategies designed for sustainability and real-world impact.
         actions: []
         elementId: null
         colors: bg-light-fg-dark
