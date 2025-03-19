@@ -24,7 +24,7 @@ sections:
           - Brand Strategy & Positioning
           - Messaging & Campaign Planning
           - Website Optimization & UX Strategy
-          - Brand/Media Activation
+          - SEO & SEM Foundation
         image:
           altText: Pricing plan 1
           type: ImageBlock
