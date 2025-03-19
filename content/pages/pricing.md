@@ -94,7 +94,7 @@ sections:
           change.
         features:
           - Ongoing Social Media Management
-          - Weekly 360 content production.
+          - Weekly integrated content marketing
           - Ongoing Grant Proposal Development
           - Ongoing Influencer & Partnership Outreach
           - Monthly social impact reporting
