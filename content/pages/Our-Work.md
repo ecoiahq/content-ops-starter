@@ -87,8 +87,10 @@ sections:
         title: Fera Science
         tagline: ''
         subtitle: ''
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: >
+          Our creative director guided the refreshed content strategy and
+          production for the UK's leading agri-food and environmental research
+          facility.
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
