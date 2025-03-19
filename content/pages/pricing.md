@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: >-
       We offer set packages and fully bespoke solutions to support and elevate
-      your mission.
+      your brand and social mission.
     plans:
       - title: Ecoia Audit
         price: '£1,350'
