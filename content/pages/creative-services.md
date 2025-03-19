@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Creative Services
+title: Creative Solutions
 sections:
   - type: GenericSection
     title:
