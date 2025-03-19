@@ -172,7 +172,7 @@ sections:
           through therapeutic treatments and mindful practices.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/6.png
           altText: Placeholder text
           styles:
             self:
