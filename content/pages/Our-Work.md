@@ -15,7 +15,7 @@ sections:
       - type: FeaturedItem
         title: Adidas
         tagline: ''
-        subtitle: Sonic Branding (4D4WD)
+        subtitle: Sonic Branding
         text: >
           3Tone Music Publishing engaged our creative team to compose original
           music, provide sound mixing, and master the audio for the Adidas 4D4WD
