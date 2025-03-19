@@ -11,9 +11,9 @@ sections:
     text: >
       We support mission-driven organisations to expand their influence and
       create lasting social impact. Rooted in the UK broadcast media sector, our
-      team of strategists, marketers, and creative producers leverage cultural
-      insight, digital expertise, and creative excellence to help you engage
-      audiences, inspire action, and drive meaningful results– online and
+      diverse team of strategists, marketers, and creative producers leverage
+      cultural insight, digital expertise, and creative excellence to help you
+      engage audiences, inspire action, and drive meaningful results– online and
       offline.
     actions:
       - label: Get started
