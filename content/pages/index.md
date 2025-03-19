@@ -112,9 +112,9 @@ sections:
       - title: Creative
         subtitle: ''
         text: >
-          Award-winning storytelling across social media, film, television, and
-          print—bringing your social and environmental mission to life with
-          authenticity. 
+          Award-winning creative storytelling across social media, film,
+          television, and print—bringing your brand’s identity and mission to
+          life with authenticity and impact.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
