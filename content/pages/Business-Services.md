@@ -137,7 +137,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Impact / CSR Reporting
+        title: Impact Reporting
         tagline: This is the tagline
         subtitle: ''
         text: >
