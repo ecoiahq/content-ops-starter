@@ -62,7 +62,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-          url: /images/2.png
+          url: /images/Ecoia DSC.png
         actions:
           - type: Button
             label: Learn More
