@@ -10,10 +10,12 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: >-
-      We offer both bespoke and pre-designed packages to build, strengthen, and
-      expand your brand and social mission.
+      We provide expert-led, impact-driven solutions tailored for SMEs,
+      non-profits, NGOs, and founder-led businesses. Whether you’re looking to
+      build a strong foundation, scale your reach, or secure funding, we have a
+      package to match your ambitions.
     plans:
-      - title: Ecoia Audit
+      - title: Essential Growth Package
         price: '£1,350'
         details: Billed Monthly
         description: |
@@ -44,7 +46,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Ecoia Foundation
+      - title: Impact & Visibility Package
         price: '£2,200'
         details: Billed Monthly
         description: |+
