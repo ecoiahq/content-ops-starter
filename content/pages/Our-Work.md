@@ -15,7 +15,7 @@ sections:
       - type: FeaturedItem
         title: Adidas – 4D4WD
         tagline: ''
-        subtitle: Content Strategy • Content Production
+        subtitle: Content Refresh • Content Production
         text: |
           Follow the tutorial to build your first Netlify site.
         image:
