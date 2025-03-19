@@ -95,7 +95,7 @@ sections:
         features:
           - Ongoing Social Media Management
           - Weekly 360 content production.
-          - Weekly Grant Proposal Development and Pitching
+          - Ongoing Grant Proposal Development and Pitching
           - Ongoing Influencer & Partnership Outreach
           - Thought Leadership & Blog Content
           - Monthly social impact reporting
