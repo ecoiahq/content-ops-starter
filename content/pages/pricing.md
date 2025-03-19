@@ -22,7 +22,7 @@ sections:
           to establish their presence.
         features:
           - 'Brand Development, Strategy & Positioning'
-          - Website Design & Optimization
+          - Website & Digital Presence Setup
           - Social Media Setup & Content Strategy
           - Basic Marketing Materials
         image:
