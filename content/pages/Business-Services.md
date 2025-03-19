@@ -46,7 +46,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Business Planning and Formation
+        title: Strategy
         tagline: This is the tagline
         subtitle: ''
         text: >
