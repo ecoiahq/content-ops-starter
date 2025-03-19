@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: Explore our work below and see how we turn creativity into impact.
     items:
       - type: FeaturedItem
         title: Feature Item One
