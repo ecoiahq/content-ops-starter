@@ -9,12 +9,12 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      With a foundation in the UK broadcast media industry, our team of brand
-      strategists, marketers, and creative producers works with mission-driven
-      organisations to showcase their corporate social responsibility by
-      integrating cultural strategy into their business planning and content
-      marketing efforts—engaging supporters, expanding their influence, and
-      driving real impact at the grassroots level.
+      Rooted in the UK broadcast media sector, our diverse team of brand
+      strategists, marketers, and creative producers supports mission-driven
+      brands in showcasing their corporate social and environmental
+      responsibility. We achieve this by embedding cultural insight and creative
+      excellence to engage supporters, expand their influence, and drive real
+      impact at the grassroots level.
     actions:
       - label: Get started
         altText: ''
