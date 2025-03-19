@@ -98,11 +98,10 @@ sections:
         title: Social Media Management (Organic)
         subtitle: Social Media Management
         text: >
-          We manage your social media platforms with a blend of organic content
-          creation and paid advertising strategies. Our approach fosters
-          community engagement, builds brand awareness, and drives conversions,
-          ensuring your message resonates with your target audience across
-          various social channels.
+          We manage your social media platforms with organic advertising
+          strategies. Our approach fosters community engagement, builds brand
+          awareness, and drives conversions, ensuring your message resonates
+          with your target audience across various social channels.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
