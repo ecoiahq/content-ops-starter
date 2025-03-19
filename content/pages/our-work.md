@@ -101,7 +101,7 @@ sections:
           url: /images/3.png
         actions:
           - type: Button
-            label: Get started
+            label: Learn More
             altText: ''
             url: 'https://horizonscan.fera.co.uk/'
             showIcon: false
@@ -137,7 +137,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: Learn More
             altText: ''
             url: 'https://tmtid.com/'
             showIcon: false
@@ -173,7 +173,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: Learn More
             altText: ''
             url: 'https://theidspectrum.bandcamp.com/album/ids001'
             showIcon: false
