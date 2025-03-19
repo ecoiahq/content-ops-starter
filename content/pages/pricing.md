@@ -23,7 +23,7 @@ sections:
         features:
           - Brand Development and Strategy
           - Market Positioning Roadmap
-          - 'Website Development, Google Search'
+          - Website Development
           - Social Media Channel Setup
           - Brand Social Media Marketing Templates
         image:
