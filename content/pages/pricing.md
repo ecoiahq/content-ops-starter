@@ -96,7 +96,7 @@ sections:
           - Thought Leadership & Blog Content
           - Quarterly Marketing & Fundraising Campaigns
         image:
-          url: /images/3.png
+          url: /images/Growth.png
           altText: Pricing plan 3
           type: ImageBlock
         actions:
