@@ -16,7 +16,9 @@ sections:
     plans:
       - title: Ecoia Foundation
         price: '£1,350'
-        details: You’re saving £350 (17.1%) by selecting this package. One-off billing.
+        details: >-
+          You’re saving £350 (17.1%) by selecting this package. Billed as a
+          one-time payment.
         description: >
           For startups, non-profits, and mission-led brands establishing their
           presence.
