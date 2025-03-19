@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: Our Work
-      color: text-primary
+      color: text-dark
       styles:
         self:
           textAlign: center
