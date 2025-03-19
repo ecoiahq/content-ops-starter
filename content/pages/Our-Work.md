@@ -82,7 +82,7 @@ sections:
       - type: FeaturedItem
         title: Fera Science
         tagline: ''
-        subtitle: Sonic Branding
+        subtitle: ''
         text: |
           Learn from the tutorial and build your first awesome Netlify site.
         image:
