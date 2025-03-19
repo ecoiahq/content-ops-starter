@@ -80,7 +80,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Adidas
+        title: Fera Science
         tagline: ''
         subtitle: Sonic Branding
         text: |
