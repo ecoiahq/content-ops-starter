@@ -65,7 +65,7 @@ sections:
           url: /images/2.png
         actions:
           - type: Button
-            label: Get started
+            label: Learn More
             altText: ''
             url: 'https://www.disabilitysportschannel.co.uk/'
             showIcon: false
