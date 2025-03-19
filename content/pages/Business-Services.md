@@ -164,7 +164,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: ''
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: >
           We design customised fundraising strategies that align with your
