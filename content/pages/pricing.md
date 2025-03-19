@@ -16,7 +16,7 @@ sections:
     plans:
       - title: Ecoia Foundation
         price: '£1,350'
-        details: Save £600 (28.6%)
+        details: You’re saving £600 (28.6%) by bundling these services.
         description: >
           For startups, small NGOs & early-stage businesses needing brand
           clarity & digital presence.
