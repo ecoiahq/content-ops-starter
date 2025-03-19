@@ -93,7 +93,7 @@ sections:
           For organisations ready to amplify their reach and drive meaningful
           change.
         features:
-          - Monthly Social Media Management (Organic and PPC)
+          - Monthly Social Media Management
           - Weekly Bespoke Content Production
           - Grant Proposal Development & Pitching
           - Influencer & Partnership Outreach
