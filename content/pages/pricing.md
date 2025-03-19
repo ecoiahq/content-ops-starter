@@ -21,7 +21,7 @@ sections:
           For founders looking to establish their brand and digital presence.
         features:
           - 'Brand Development, Strategy & Positioning'
-          - Messaging & Campaign Planning
+          - Website Design & Optimization
           - Website Optimization & UX Strategy
           - SEO & SEM Foundation
         image:
