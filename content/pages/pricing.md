@@ -25,7 +25,7 @@ sections:
           - Marketing Roadmap
           - 'Website Development, Google Search'
           - Social Media Channel Setup
-          - Branded Marketing Essentials
+          - Brand Social Media Marketing Templates
         image:
           altText: Pricing plan 1
           type: ImageBlock
