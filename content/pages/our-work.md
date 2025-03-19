@@ -22,7 +22,7 @@ sections:
           Adidas 4D4WD campaign. Watch the video via the link below.
         image:
           type: ImageBlock
-          url: /images/1.png
+          url: /images/Ecoia – Adidas.png
           altText: Placeholder image
           styles:
             self:
@@ -62,7 +62,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-          url: /images/2.png
+          url: /images/Ecoia DSC.png
         actions:
           - type: Button
             label: Learn More
@@ -98,7 +98,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-          url: /images/3.png
+          url: /images/Ecoia – Fera Science.png
         actions:
           - type: Button
             label: Learn More
