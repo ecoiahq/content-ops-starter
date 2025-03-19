@@ -10,8 +10,8 @@ sections:
     subtitle: ''
     text: >
       Rooted in the UK broadcast media sector, our diverse team of brand
-      strategists, marketers, and creative producers work empower mission-driven
-      organisations with cultural strategy and creative excellence—helping them
+      strategists, marketers, and creative producers empower founder-led
+      business with cultural strategy and creative excellence—helping them
       engage supporters, expand their influence, and drive meaningful impact at
       the grassroots level.
     actions:
