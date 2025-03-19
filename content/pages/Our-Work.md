@@ -139,8 +139,12 @@ sections:
         title: The ID Spectrum
         tagline: ''
         subtitle: Creative Direction
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          We developed and branded the in-house platform, IDS, to serve as a hub
+          for creative talent at the University of Brighton, alongside building
+          a record label designed to foster artists and support the arts within
+          Brighton's tight-knit creative community. Listen to IDS Music via. the
+          link below. 
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
