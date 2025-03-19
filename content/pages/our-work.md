@@ -18,8 +18,8 @@ sections:
         subtitle: Sound Editorial
         text: >
           Adidas' music supervision agency, Record-Play, partnered with our
-          creative team to deliver original music for the Adidas 4D4WD campaign.
-          Watch the video via the link below.
+          company founder– Louis Sterling– to deliver original music for the
+          Adidas 4D4WD campaign. Watch the video via the link below.
         image:
           type: ImageBlock
           url: /images/1.png
