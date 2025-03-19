@@ -8,12 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      We are a diverse team of brand strategists, marketers, and creative
-      producers supporting mission-driven brands to showcase their corporate
-      social responsibility. With a foundation in the UK broadcast media sector,
-      we integrate cultural insight, trend-awareness and creative excellence to
-      drive real impact at the grassroots level.
+    text: ''
     actions:
       - label: Get started
         altText: ''
