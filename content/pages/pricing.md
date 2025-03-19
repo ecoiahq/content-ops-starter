@@ -14,16 +14,17 @@ sections:
       businesses. Whether you're building your brand, expanding your reach, or
       securing funding, we have a solution that fits your goals—and your budget.
     plans:
-      - title: Essential Growth Package
+      - title: Ecoia Foundation
         price: '£1,350'
-        details: Billed Monthly
-        description: |
-          Best for businesses seeking analysis & insights
+        details: You’re saving £350 (20.6%) by selecting this package.
+        description: >
+          Best for startups, non-profits, and mission-led brands establishing
+          their presence.
         features:
-          - Brand Audit
-          - Social Listening
-          - 'SEO, SEM Optimisation'
-          - Brand/Media Activation
+          - 'Brand Development, Strategy & Positioning'
+          - Website & Digital Presence Setup
+          - SEO & Search Visibility Setup
+          - Branded Marketing Essentials
         image:
           altText: Pricing plan 1
           type: ImageBlock
@@ -45,18 +46,18 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Impact & Visibility Package
-        price: '£2,200'
-        details: Billed Monthly
-        description: |+
-          Ideal for businesses needing foundational branding & digital presence
-
+      - title: Ecoia Audit
+        price: '£1,700'
+        details: You’re saving £350 (17.1%) by selecting this package.
+        description: >
+          Best for established organisations seeking clarity, direction, and a
+          stronger strategy.
         features:
-          - Brand Strategy Development
-          - Website Design & Optimisation
-          - 'SEO, SEM Optimisation'
-          - Social Media Management (Organic & Paid)
-          - Brand Design
+          - 'Brand, Website & Marketing Audit'
+          - 'SEO, Social Media & Audience Insights'
+          - Competitor & Positioning Analysis
+          - Strategic Roadmap & Messaging Guide
+          - Campaign & Content Framework
         image:
           url: /images/2.png
           altText: Pricing plan 2
@@ -79,17 +80,18 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Ecoia Growth
-        price: '£2,750'
-        details: Billed Monthly
-        description: |
-          For businesses focused on expanding reach & funding
+        price: '£3,500'
+        details: 'You’re saving £1,000 (22.2%) by selecting this set package.'
+        description: >
+          For organisations ready to amplify their reach and drive meaningful
+          change.
         features:
-          - Brand Strategy Development
-          - 'SEO, SEM Optimization'
-          - Social Media Management (Organic & Paid)
-          - Grant Proposal Development
-          - Influencer Partnership Facilitation
-          - 'Video, Graphic Design and Podcast Production'
+          - Ongoing Social Media & Community Management
+          - Video & Storytelling Content
+          - Grant Proposal Strategy
+          - Influencer & Partnership Outreach
+          - Thought Leadership & Blog Content
+          - Quarterly Marketing & Fundraising Campaigns
         image:
           url: /images/3.png
           altText: Pricing plan 3
