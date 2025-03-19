@@ -175,7 +175,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: /creative-services
+slug: /creative-solutions
 seo:
   type: Seo
   metaTitle: Careers - Demo site
