@@ -20,7 +20,7 @@ sections:
         description: |
           For founders looking to establish their brand and digital presence.
         features:
-          - Brand Strategy & Positioning
+          - 'Brand Development, Strategy & Positioning'
           - Messaging & Campaign Planning
           - Website Optimization & UX Strategy
           - SEO & SEM Foundation
