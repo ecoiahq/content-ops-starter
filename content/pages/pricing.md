@@ -24,7 +24,7 @@ sections:
           - Brand Identity Development
           - Marketing Roadmap
           - 'Website Development, Google Search'
-          - SEO & Search Visibility Setup
+          - Social Media Channel Setup
           - Branded Marketing Essentials
         image:
           altText: Pricing plan 1
