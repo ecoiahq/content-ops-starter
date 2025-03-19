@@ -57,7 +57,7 @@ sections:
           - Social Media Management (Organic & Paid)
           - Brand Design
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/2.png
           altText: Pricing plan 2
           type: ImageBlock
         actions:
