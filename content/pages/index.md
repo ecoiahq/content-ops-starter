@@ -58,8 +58,8 @@ sections:
         title: Strategy
         subtitle: ''
         text: >
-          Expert guidance in brand positioning, audience engagement, and funding
-          strategies to maximise your impact.
+          Thoughtful guidance in brand positioning, audience engagement, and
+          funding strategies to drive meaningful change.
         actions: []
         elementId: null
         colors: bg-light-fg-dark
