@@ -52,7 +52,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: A Three-Pillar Approach to Empower Your Organisation.
+    subtitle: 'A strategic, digital, and creative framework to amplify your influence.'
     items:
       - type: FeaturedItem
         title: Strategy
