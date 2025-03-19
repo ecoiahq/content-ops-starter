@@ -114,7 +114,7 @@ sections:
         text: >
           Award-winning creative storytelling across social media, film,
           television, and print—bringing your brand’s identity and mission to
-          life with authenticity and impact.
+          life with authenticity. 
         image:
           url: /images/icon3.svg
           altText: Featured icon three
