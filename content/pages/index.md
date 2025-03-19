@@ -292,7 +292,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Creative Services
+      text: Creative Solutions
       color: text-light
     subtitle: ''
     text: >
