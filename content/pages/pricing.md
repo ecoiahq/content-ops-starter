@@ -21,7 +21,7 @@ sections:
           For startups, small NGOs & early-stage businesses needing brand
           clarity & digital presence.
         features:
-          - Brand Audit
+          - 'Brand Foundation, Audit and Market Positioning'
           - Social Listening
           - 'SEO, SEM Optimisation'
           - Brand/Media Activation
