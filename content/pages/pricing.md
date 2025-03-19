@@ -91,7 +91,7 @@ sections:
           - Grant Proposal Strategy
           - Influencer & Partnership Outreach
           - Thought Leadership & Blog Content
-          - 'Video, Graphic Design and Podcast Production'
+          - Quarterly Marketing & Fundraising Campaigns
         image:
           url: /images/3.png
           altText: Pricing plan 3
