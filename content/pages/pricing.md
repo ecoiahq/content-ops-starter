@@ -10,7 +10,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: >-
-      We provide tailored packages and fully customized solutions to strengthen
+      We provide tailored packages and fully customised solutions to strengthen
       and elevate your brand and social mission.
     plans:
       - title: Ecoia Audit
