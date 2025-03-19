@@ -24,7 +24,7 @@ sections:
           - 'SEO, SEM Optimisation'
           - Brand/Media Activation
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/1.png
           altText: Pricing plan 1
           type: ImageBlock
         actions:
