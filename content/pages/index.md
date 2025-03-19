@@ -14,7 +14,7 @@ sections:
       media sector, our diverse team of strategists, marketers, and creative
       producers bring cultural insight, digital expertise, and creative
       excellence to help you engage audiences, inspire action, and drive
-      measurable results – online and offline. 
+      measurable results– online and offline.
     actions:
       - label: Get started
         altText: ''
