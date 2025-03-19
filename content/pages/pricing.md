@@ -56,7 +56,7 @@ sections:
           - 'Brand, Website & Marketing Audit'
           - 'SEO, Social Media & Audience Insights'
           - Competitor & Positioning Analysis
-          - Social Media Management (Organic & Paid)
+          - Strategic Roadmap & Messaging Guide
           - Brand Design
         image:
           url: /images/2.png
