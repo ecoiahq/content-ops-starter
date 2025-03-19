@@ -25,7 +25,7 @@ sections:
         features:
           - Brand Development & Strategy
           - Market Positioning Roadmap
-          - Website Development
+          - UX/UI Website Development
           - Social Media Channel Setup
           - Brand Social Media Marketing Templates
         image:
