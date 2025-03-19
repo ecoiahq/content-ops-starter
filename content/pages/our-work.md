@@ -50,7 +50,7 @@ sections:
       - type: FeaturedItem
         title: Disability Sports Channel
         tagline: ''
-        subtitle: Brand Strategy Partnership Faciliation
+        subtitle: Brand Strategy • Partnership Faciliation
         text: >
           Olympic Torchbearer Simeon Wakely partnered with Ecoia to develop,
           position, and brand the pioneering platform dedicated to amplifying
