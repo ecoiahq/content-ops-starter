@@ -56,7 +56,7 @@ sections:
           one-time payment.
         description: >
           For established organisations seeking improved visibility and audience
-          engagement
+          engagement. 
         features:
           - 'Brand, Website & Marketing Audit'
           - 'SEO, Social Media & Audience Insights'
