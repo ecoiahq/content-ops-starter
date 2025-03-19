@@ -49,7 +49,7 @@ sections:
         type: PricingPlan
       - title: Ecoia Audit
         price: '£1,700'
-        details: You’re saving £350 (17.1%) by selecting this package.
+        details: You’re saving £350 (17.1%) by selecting this package. One-off billing.
         description: >
           For established organisations seeking clarity, direction, and a
           stronger strategy.
