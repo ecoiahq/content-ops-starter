@@ -53,7 +53,7 @@ sections:
           Best for: Established organisations seeking clarity, direction, and a
           stronger strategy.
         features:
-          - Brand Strategy Development
+          - 'Brand, Website & Marketing Audit'
           - Website Design & Optimisation
           - 'SEO, SEM Optimisation'
           - Social Media Management (Organic & Paid)
