@@ -89,8 +89,8 @@ sections:
         subtitle: Content Strategy
         text: >
           Our creative director guided the refreshed content strategy and
-          production for the UK's leading agri-food and environmental research
-          facility.
+          production for Fera, the UK's leading agri-food and environmental
+          research facility. View the latest content via the link below.
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
