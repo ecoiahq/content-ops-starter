@@ -191,7 +191,7 @@ sections:
       - type: FeaturedItem
         title: Massage in Thyme
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           We were briefed to develop the brand strategy for Massage in Thyme, a
           Bath-based holistic wellbeing company dedicated to enhancing wellness
