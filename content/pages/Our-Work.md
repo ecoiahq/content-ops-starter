@@ -62,6 +62,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
+          url: /images/Untitled design (1).png
         actions:
           - type: Button
             label: Get started
