@@ -85,9 +85,8 @@ sections:
       - title: Digital
         subtitle: ''
         text: >
-          Purpose-led digital marketing and optimisation to drive engagement,
-          amplify social impact, and foster lasting connections– online and
-          offline. 
+          Purpose-led digital marketing, data-driven optimisation, and online
+          experiences that foster deep engagement and long-term connections.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
