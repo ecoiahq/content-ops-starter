@@ -18,8 +18,8 @@ sections:
         price: '£1,350'
         details: You’re saving £350 (20.6%) by selecting this package.
         description: >
-          For founders, early-stage startups and mission-led initiatives looking
-          to establish their presence.
+          Best for: Startups, early-stage non-profits & founder-led businesses
+          ready to launch with purpose.
         features:
           - 'Brand Development, Strategy & Positioning'
           - Website & Digital Presence Setup
