@@ -26,6 +26,7 @@ sections:
         image:
           altText: Pricing plan 1
           type: ImageBlock
+          url: /images/1.png
         actions:
           - label: Get Started
             url: 'https://ecoia.netlify.app/get-in-touch/'
