@@ -98,7 +98,7 @@ sections:
           - Grant Proposal Development and Pitching
           - Influencer & Partnership Outreach
           - Thought Leadership & Blog Content
-          - Quarterly Marketing & Fundraising Campaigns
+          - Monthly social impact reporting
         image:
           url: /images/Growth.png
           altText: Pricing plan 3
