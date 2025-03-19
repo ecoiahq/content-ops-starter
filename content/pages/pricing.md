@@ -95,7 +95,7 @@ sections:
         features:
           - Monthly Social Media Management
           - Bespoke Content Production
-          - Grant Proposal Development & Pitching
+          - Grant Proposal Development
           - Influencer & Partnership Outreach
           - Press & Media Outreach Support
           - Monthly Social Impact Reporting
