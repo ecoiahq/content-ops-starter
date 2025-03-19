@@ -119,7 +119,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Impact Strategy
+        title: Social Impact Strategy
         subtitle: ''
         text: >
           We develop tailored impact strategies that align with your mission and
