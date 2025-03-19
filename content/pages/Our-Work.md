@@ -47,7 +47,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: DSC
+        title: Disability Sports Channel
         tagline: ''
         subtitle: Brand Development
         text: |
