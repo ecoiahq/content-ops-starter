@@ -16,7 +16,9 @@ sections:
     plans:
       - title: Ecoia Foundation
         price: '£1,350'
-        details: You’re saving £350 (20.6%) by selecting this package. Billed Monthly.
+        details: >-
+          You’re saving £350 (17.1%) by selecting this package. Billed as a
+          one-time payment.
         description: >
           For startups, non-profits, and mission-led brands establishing their
           presence.
@@ -49,7 +51,9 @@ sections:
         type: PricingPlan
       - title: Ecoia Audit
         price: '£1,700'
-        details: You’re saving £350 (17.1%) by selecting this package. Billed Monthly.
+        details: >-
+          You’re saving £350 (17.1%) by selecting this package. Billed as a
+          one-time payment.
         description: >
           For established organisations seeking clarity, direction, and a
           stronger strategy.
@@ -91,10 +95,10 @@ sections:
         features:
           - Ongoing Social Media & Community Management
           - Video & Storytelling Content
-          - Grant Proposal Strategy
+          - Grant Proposal Development and Pitching
           - Influencer & Partnership Outreach
           - Thought Leadership & Blog Content
-          - Quarterly Marketing & Fundraising Campaigns
+          - Monthly social impact reporting
         image:
           url: /images/Growth.png
           altText: Pricing plan 3
