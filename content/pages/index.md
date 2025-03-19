@@ -230,7 +230,7 @@ sections:
         self:
           borderRadius: medium
   - title:
-      text: Business Services
+      text: Brand Solutions
       color: text-light
       type: TitleBlock
     subtitle: ''
