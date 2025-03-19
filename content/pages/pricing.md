@@ -46,7 +46,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Impact & Visibility Package
+      - title: Ecoia Audit
         price: '£2,200'
         details: Billed Monthly
         description: |+
