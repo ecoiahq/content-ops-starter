@@ -49,7 +49,7 @@ sections:
       - type: FeaturedItem
         title: DSC
         tagline: ''
-        subtitle: Sonic Branding – 4D4WD
+        subtitle: Brand Development
         text: |
           Follow the tutorial to build your first awesome Netlify site.
         image:
