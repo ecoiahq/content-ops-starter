@@ -94,7 +94,7 @@ sections:
           change.
         features:
           - Ongoing Social Media & Community Management
-          - Weekly integrated content marketing
+          - Video & Storytelling Content
           - Ongoing Grant Proposal Development
           - Ongoing Influencer & Partnership Outreach
           - Monthly social impact reporting
