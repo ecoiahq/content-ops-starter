@@ -96,7 +96,7 @@ sections:
           - Ongoing Social Media & Community Management
           - Video & Storytelling Content
           - Grant Proposal Development & Pitching
-          - Ongoing Influencer & Partnership Outreach
+          - Influencer & Partnership Outreach
           - Monthly social impact reporting
         image:
           url: /images/Growth.png
