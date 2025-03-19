@@ -14,7 +14,7 @@ sections:
       businesses. Whether you're building your brand, expanding your reach, or
       securing funding, we have a solution that fits your goals—and your budget.
     plans:
-      - title: Ecoia Growth
+      - title: Ecoia Foundation
         price: '£1,350'
         details: You’re saving £350 (20.6%) by selecting this package. Billed Monthly.
         description: >
