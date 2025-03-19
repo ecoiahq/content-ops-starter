@@ -26,9 +26,9 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Digital Services",
+                    "label": "Digital Solutions",
                     "altText": "",
-                    "url": "https://ecoia.netlify.app/digital-services",
+                    "url": "https://ecoia.netlify.app/digital-solutions/",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
