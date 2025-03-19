@@ -17,8 +17,9 @@ sections:
       - title: Ecoia Foundation
         price: '£1,350'
         details: You’re saving £600 (28.6%) by bundling these services.
-        description: |
-          For founders looking to establish their brand and digital presence.
+        description: >
+          For founders, early-stage startups and mission-led initiatives looking
+          to establish their presence.
         features:
           - 'Brand Development, Strategy & Positioning'
           - Website Design & Optimization
