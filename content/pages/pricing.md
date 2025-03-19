@@ -3,7 +3,7 @@ title: Packages
 slug: pricing
 sections:
   - title:
-      text: Set Packages
+      text: Set Packages & Bespoke Solutions
       color: text-dark
       styles:
         self:
