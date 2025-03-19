@@ -113,8 +113,10 @@ sections:
         title: 'Phronesis Technologies '
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Phronesis Cyber Security briefed us to create thought leadership
+          content highlighting UK data protection best practices for mobile
+          device users.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
