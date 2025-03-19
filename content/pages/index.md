@@ -11,9 +11,10 @@ sections:
     text: >
       We empower mission-driven brands, startups, and NGOs to expand their
       influence and create lasting social impact. Rooted in the UK broadcast
-      media sector, our team of strategists, marketers, and creative producers
-      bring cultural insight, digital expertise, and creative excellence to help
-      you engage audiences, inspire action, and drive measurable results.
+      media sector, our diverse team of strategists, marketers, and creative
+      producers bring cultural insight, digital expertise, and creative
+      excellence to help you engage audiences, inspire action, and drive
+      measurable results– online and offline.
     actions:
       - label: Get started
         altText: ''
