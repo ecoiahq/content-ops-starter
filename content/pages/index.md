@@ -9,11 +9,11 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      Rooted in the UK broadcast media sector, our diverse team of brand
-      strategists, marketers, and creative producers empower founder-led
-      business with cultural strategy and creative excellence—helping them
-      engage supporters, expand their influence, and drive meaningful impact at
-      the grassroots level.
+      We empower mission-driven brands, startups, and NGOs to expand their
+      influence and create lasting social impact. Rooted in the UK broadcast
+      media sector, our team of strategists, marketers, and creative producers
+      bring cultural insight, digital expertise, and creative excellence to help
+      you engage audiences, inspire action, and drive measurable results.
     actions:
       - label: Get started
         altText: ''
