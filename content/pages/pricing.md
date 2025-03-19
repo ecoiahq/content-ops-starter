@@ -20,8 +20,8 @@ sections:
           You’re saving £350 (17.1%) by selecting this package. Billed as a
           one-time payment.
         description: >
-          For startups, non-profits, and mission-led brands establishing their
-          presence.
+          For non-profits, entrepreneurs, and mission-led SMEs establishing
+          their presence.
         features:
           - Brand Development and Strategy
           - Market Positioning Roadmap
