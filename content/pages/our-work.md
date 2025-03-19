@@ -86,7 +86,7 @@ sections:
       - type: FeaturedItem
         title: Fera Science
         tagline: ''
-        subtitle: Content Strategy
+        subtitle: Content Strategy (FIRU / HorizonScan)
         text: >
           Our creative director guided the refreshed content strategy and
           production for Fera, the UK's leading agri-food and environmental
