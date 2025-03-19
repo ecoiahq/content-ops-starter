@@ -10,10 +10,9 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: >-
-      We offer flexible and set packages for SMEs, NGOs, and founder-led
-      businesses. Whether you're building your brand, seeking strategic support,
-      or looking to amplify your reach, we offer solutions that align with your
-      goals and budget.
+      Whether you're building your brand, seeking strategic support, or looking
+      to amplify your reach, we offer solutions that align with your goals and
+      budget.
     plans:
       - title: Ecoia Foundation
         price: '£1,350'
