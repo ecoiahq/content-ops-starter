@@ -17,7 +17,7 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Brand Services",
+                    "label": "Business Services",
                     "url": "https://ecoia.netlify.app//Business-Services",
                     "icon": "arrowRight",
                     "iconPosition": "right",
