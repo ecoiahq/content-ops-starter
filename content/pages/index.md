@@ -59,8 +59,8 @@ sections:
         subtitle: ''
         text: >
           Thoughtful guidance in brand development, positioning, audience
-          engagement, and funding strategies to drive business sustainability
-          and meaningful change.
+          engagement, and funding strategies to drive sustainability and
+          meaningful change.
         actions: []
         elementId: null
         colors: bg-light-fg-dark
