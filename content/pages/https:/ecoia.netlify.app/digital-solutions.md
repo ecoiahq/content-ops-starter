@@ -153,7 +153,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: /digital-solutions
+slug: 'https://ecoia.netlify.app/digital-solutions'
 seo:
   type: Seo
   metaTitle: Careers - Demo site
