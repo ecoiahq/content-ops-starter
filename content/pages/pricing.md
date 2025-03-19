@@ -22,6 +22,7 @@ sections:
           presence.
         features:
           - 'Brand Development, Strategy & Positioning'
+          - ''
           - Website & Digital Presence Setup
           - SEO & Search Visibility Setup
           - Branded Marketing Essentials
