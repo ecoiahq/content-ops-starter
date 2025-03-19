@@ -138,7 +138,7 @@ sections:
       - type: FeaturedItem
         title: The ID Spectrum
         tagline: ''
-        subtitle: Creative Direction
+        subtitle: Business Development Creative Direction
         text: >
           We developed the in-house platform IDS to serve as a hub for artistic
           talent in Brighton, UK, alongside building a record label designed to
