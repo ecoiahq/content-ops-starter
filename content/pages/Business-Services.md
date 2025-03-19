@@ -73,7 +73,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Business Audit
+        title: Audit
         subtitle: ''
         text: >
           We conduct thorough assessments of your organisation to identify
