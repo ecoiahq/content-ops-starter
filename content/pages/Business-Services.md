@@ -46,7 +46,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Strategy
+        title: Brand Strategy
         tagline: This is the tagline
         subtitle: ''
         text: >
