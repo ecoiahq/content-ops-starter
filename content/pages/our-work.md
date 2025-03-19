@@ -119,7 +119,7 @@ sections:
           device users. View the articles via the link below.
         image:
           type: ImageBlock
-          url: /images/Untitled design.jpg
+          url: /images/4.png
           altText: Placeholder text
           styles:
             self:
