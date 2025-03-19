@@ -15,7 +15,7 @@ sections:
       - type: FeaturedItem
         title: Adidas
         tagline: ''
-        subtitle: Sonic Branding
+        subtitle: Sound Editorial
         text: >
           Adidas' music supervision agency, Record-Play, partnered with our
           creative team to deliver original music for the Adidas 4D4WD campaign.
