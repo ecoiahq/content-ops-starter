@@ -55,7 +55,7 @@ sections:
         features:
           - 'Brand, Website & Marketing Audit'
           - 'SEO, Social Media & Audience Insights'
-          - 'SEO, SEM Optimisation'
+          - Competitor & Positioning Analysis
           - Social Media Management (Organic & Paid)
           - Brand Design
         image:
