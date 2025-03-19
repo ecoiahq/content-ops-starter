@@ -94,7 +94,7 @@ sections:
           change.
         features:
           - Monthly Social Media Management
-          - Weekly Bespoke Content Production
+          - Bespoke Content Production
           - Grant Proposal Development & Pitching
           - Influencer & Partnership Outreach
           - Press & Media Outreach Support
