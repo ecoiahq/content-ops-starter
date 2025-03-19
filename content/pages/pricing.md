@@ -23,6 +23,7 @@ sections:
         features:
           - Brand Identity Development
           - Marketing Roadmap
+          - ''
           - 'Website Development, Google Search Setup'
           - SEO & Search Visibility Setup
           - Branded Marketing Essentials
