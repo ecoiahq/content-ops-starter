@@ -9,11 +9,12 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      We are a diverse team of brand strategists, marketeers and creative
-      producers working collaboratively to amplify mission-driven organisations.
-      Whether you're a nonprofit, ethical brand, or looking to demonstrate your
-      corporate social responsibility, we help you engage supporters, grow your
-      influence, and make a real difference at the grassroots level.
+      With a foundation in the UK broadcast media industry, our team of brand
+      strategists, marketers, and creative producers works with mission-driven
+      organisations to showcase their corporate social responsibility by
+      integrating cultural strategy into their business planning and content
+      marketing efforts—engaging supporters, expanding their influence, and
+      driving real impact at the grassroots level.
     actions:
       - label: Get started
         altText: ''
