@@ -37,7 +37,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: DSC
+        title: Adidas
         tagline: ''
         subtitle: This is the item subtitle
         text: |
