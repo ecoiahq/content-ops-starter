@@ -21,7 +21,7 @@ sections:
           For startups, non-profits, and mission-led brands establishing their
           presence.
         features:
-          - Brand Identity Development
+          - Brand Development and Strategy
           - Marketing Roadmap
           - 'Website Development, Google Search'
           - Social Media Channel Setup
