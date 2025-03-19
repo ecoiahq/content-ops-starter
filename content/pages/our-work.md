@@ -15,7 +15,7 @@ sections:
       - type: FeaturedItem
         title: Adidas
         tagline: ''
-        subtitle: Sound Editorial (4DFWD)
+        subtitle: Original Music Composition
         text: >
           Adidas' music supervision agency, Record-Play, partnered with our
           company founder– Louis Sterling– to create bespoke music for the
