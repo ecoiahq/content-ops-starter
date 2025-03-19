@@ -9,11 +9,11 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      We are a diverse team of brand strategists, marketeers and creative
-      producers working collaboratively to amplify mission-driven organisations.
-      Whether you're a nonprofit, ethical brand, or looking to demonstrate your
-      corporate social responsibility, we help you engage supporters, grow your
-      influence, and make a real difference at the grassroots level.
+      Rooted in the UK broadcast media sector, our diverse team of brand
+      strategists, marketers, and creative producers work empower mission-driven
+      organisations with cultural strategy and creative excellence—helping them
+      engage supporters, expand their influence, and drive meaningful impact at
+      the grassroots level.
     actions:
       - label: Get started
         altText: ''
@@ -154,9 +154,6 @@ sections:
         textAlign: center
   - subtitle: Trusted by Leading Brands
     images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
