@@ -11,9 +11,9 @@ sections:
     text: >
       We are a diverse team of brand strategists, marketers, and creative
       producers supporting mission-driven brands to showcase their corporate
-      social and environmental responsibility. Rooted in the UK broadcast media
-      sector, we integrate cultural insight and creative excellence at the heart
-      of our campaigns to drive real impact at the grassroots level.
+      social responsibility. With a foundation in the UK broadcast media sector,
+      we integrate cultural insight, trend-awareness and creative excellence to
+      drive real impact at the grassroots level.
     actions:
       - label: Get started
         altText: ''
