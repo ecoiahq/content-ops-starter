@@ -58,7 +58,6 @@ sections:
           sports worldwide. View the channel on Instagram via the link below.
         image:
           type: ImageBlock
-          url: /images/Untitled design (2).svg
           altText: Placeholder image
           styles:
             self:
