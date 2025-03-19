@@ -22,7 +22,7 @@ sections:
           clarity & digital presence.
         features:
           - Brand Strategy & Positioning
-          - Social Listening
+          - Messaging & Campaign Planning
           - 'SEO, SEM Optimisation'
           - Brand/Media Activation
         image:
