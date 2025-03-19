@@ -50,8 +50,8 @@ sections:
         price: '£1,700'
         details: Billed Monthly
         description: >
-          For established organisations seeking clarity, direction, and a
-          stronger strategy.
+          Best for: For established organisations seeking clarity, direction,
+          and a stronger strategy.
         features:
           - Brand Strategy Development
           - Website Design & Optimisation
