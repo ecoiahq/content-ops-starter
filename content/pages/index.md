@@ -236,8 +236,9 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      From business strategy to impact reporting, we provide full-scale
-      solutions that help your mission-driven organisation grow.
+      From strategic brand development to measurable impact reporting, we
+      provide full-scale solutions that help mission-driven organisations
+      amplify their influence and drive meaningful change.
     actions:
       - label: Learn More
         url: 'https://ecoia.netlify.app/Business-Services/'
@@ -264,8 +265,9 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      Maximise your online messaging with a refreshed website, application, or
-      digital campaign that fuels audience engagement and impact.
+      Strengthen your digital presence with UI-focused website design, UX-driven
+      applications, or purpose-led campaigns that deepen audience engagement and
+      amplify your impact.
     actions:
       - label: Learn More
         url: 'https://ecoia.netlify.app/digital-services/'
@@ -295,8 +297,10 @@ sections:
       color: text-light
     subtitle: ''
     text: >
-      We produce compelling and emotionally resonant content that captivates
-      audiences and strengthens your cause.
+      With roots in the broadcast media industry, we create compelling,
+      emotionally resonant content that captivates audiences, amplifies your
+      message, and strengthens your cause—ensuring your story reaches the right
+      people, in the right way, for the greatest impact.
     actions:
       - type: Button
         label: Learn More
