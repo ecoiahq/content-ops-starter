@@ -22,7 +22,7 @@ sections:
           Watch the video via the link below.
         image:
           type: ImageBlock
-          url: /images/Untitled design (2).svg
+          url: /images/1.png
           altText: Placeholder image
           styles:
             self:
