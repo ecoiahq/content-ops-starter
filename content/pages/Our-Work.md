@@ -138,7 +138,7 @@ sections:
       - type: FeaturedItem
         title: The ID Spectrum
         tagline: ''
-        subtitle: 'Branding '
+        subtitle: Creative Direction
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
