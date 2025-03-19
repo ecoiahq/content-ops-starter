@@ -12,6 +12,9 @@ sections:
           textAlign: center
     subtitle: ''
     text: >
+      ### **Privacy Policy**
+
+
       Ecoia Limited values your privacy. We collect and use personal data only
       as described here, ensuring compliance with legal obligations and your
       rights. By using our website ([www.ecoia.co.uk](https://www.ecoia.co.uk))
