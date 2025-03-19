@@ -15,12 +15,12 @@ sections:
       <div style="text-align: left">**Privacy Policy**Ecoia Limited values your
       privacy. We collect and use personal data only as described here, ensuring
       compliance with legal obligations and your rights. By using our website
-      ([www.ecoia.co.uk](https://www.ecoia.co.uk)) and services, you agree to
+      ([www.ecoia.co.uk](http://www.ecoia.co.uk)) and services, you agree to
       this policy.### 1. About UsEcoia Limited is a company registered in
       England under company number 16252074. Our registered address is 76
       Cranmore Place, Bath, England, BA2 2UP, United Kingdom. The Data
       Protection Officer is Louis Fabrice Sterling-Snell, who can be contacted
-      at <hello@ecoia.co.uk>.### 2. Scope of This PolicyThis policy applies to
+      at [hello@ecoia.co.uk]().### 2. Scope of This PolicyThis policy applies to
       your use of our website and services. Our website may contain links to
       third-party sites, but we are not responsible for their data practices.###
       3. What is Personal Data?Personal data, as defined by the UK GDPR and the
@@ -33,7 +33,7 @@ sections:
       also restrict the processing of your data, object to its use for certain
       purposes, withdraw consent where applicable, and request data
       portability.If you wish to exercise these rights, you can contact us at
-      <hello@ecoia.co.uk>. Further guidance is available from the Information
+      [hello@ecoia.co.uk](). Further guidance is available from the Information
       Commissioner’s Office.### 5. Data We CollectWe collect personal data only
       when voluntarily provided by you, such as when you contact us or use our
       services. This may include names, email addresses, and other relevant
@@ -50,20 +50,20 @@ sections:
       acquisition.### 10. Controlling Your DataWhen you submit personal data
       through our website, you may have the option to manage how we use it. You
       can also opt out of direct marketing by contacting us at
-      <hello@ecoia.co.uk>.### 11. Withholding InformationYou may access our
+      [hello@ecoia.co.uk]().### 11. Withholding InformationYou may access our
       website without providing any personal data. You may also restrict the use
       of cookies as explained in Section 13.### 12. Accessing Your DataIf you
       wish to know what personal data we hold about you, you can submit a
-      **Subject Access Request** in writing to <hello@ecoia.co.uk>. We aim to
+      **Subject Access Request** in writing to [hello@ecoia.co.uk](). We aim to
       respond within one month.### 13. CookiesOur website uses cookies to
       improve user experience. You may manage cookie preferences through your
       browser settings.### 14. Contact UsIf you have any questions about this
       Privacy Policy or your personal data, please contact us at
-      <hello@ecoia.co.uk>. Our registered address is 76 Cranmore Place, Bath,
+      [hello@ecoia.co.uk](). Our registered address is 76 Cranmore Place, Bath,
       England, BA2 2UP, United Kingdom.### 15. Changes to This PolicyWe may
       update this Privacy Policy from time to time. Any changes will be posted
       on our website, and continued use of our site implies acceptance of the
-      updated policy.*Last updated: 11 March 2025*</div>
+      updated policy.Last updated: 11 March 2025</div>
 
     actions:
       - type: Button
