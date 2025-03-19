@@ -73,7 +73,7 @@ sections:
       - type: FeaturedItem
         title: Adidas
         tagline: ''
-        subtitle: Brand Development
+        subtitle: Sonic Branding
         text: |
           Learn from the tutorial and build your first awesome Netlify site.
         image:
