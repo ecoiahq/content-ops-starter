@@ -130,13 +130,14 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Not sure which is right for you?
+      text: Looking for a Bespoke Solution?
       color: text-dark
     subtitle: ''
     text: >
-      If your requirements go beyond our set packages, we create custom
-      solutions designed around your specific goals. Simply get in touch today
-      to discuss your unique needs.
+      If your needs go beyond our set packages, we offer tailored solutions
+      designed specifically for your organisation. Whether you need a mix of
+      strategy, branding, media production, or impact measurement, we can create
+      a custom approach that aligns with your goals. 
     actions: []
     media:
       type: FormBlock
