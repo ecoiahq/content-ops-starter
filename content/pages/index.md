@@ -191,10 +191,11 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >+
-      <div style="text-align: center">Our innovative funding mechanism,
-      EcoiaFund™, empowers clients to turn creative campaigns into direct
+      <div style="text-align: center">Our innovative fundraising mechanism,
+      **EcoiaFund™**, empowers clients to monetise creative content into direct
       grassroots contributions. With every project we deliver, we harness
-      blockchain technology to support global causes—at no extra cost.</div>
+      blockchain technology to seamlessly fund global causes—at no extra
+      cost.</div>
 
     badge:
       label: ''
