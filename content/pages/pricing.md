@@ -95,7 +95,7 @@ sections:
         features:
           - Ongoing Social Media & Community Management
           - Video & Storytelling Content
-          - Ongoing Grant Proposal Development
+          - Grant Proposal Development & Pitching
           - Ongoing Influencer & Partnership Outreach
           - Monthly social impact reporting
         image:
