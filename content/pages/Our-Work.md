@@ -13,7 +13,7 @@ sections:
     subtitle: Explore our work below and see how we turn creativity into impact.
     items:
       - type: FeaturedItem
-        title: Fera Science
+        title: Adidas – 4D4WD
         tagline: ''
         subtitle: Content Strategy
         text: |
