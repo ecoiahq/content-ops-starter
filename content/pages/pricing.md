@@ -26,7 +26,7 @@ sections:
           - Brand Development & Strategy
           - Market Positioning Roadmap
           - UX/UI Website Development
-          - Social Media Channel Setup
+          - Content Marketing Plan
           - Brand Social Media Marketing Templates
         image:
           altText: Pricing plan 1
