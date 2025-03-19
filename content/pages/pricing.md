@@ -24,7 +24,7 @@ sections:
           - 'Brand Development, Strategy & Positioning'
           - Website & Digital Presence Setup
           - SEO & Search Visibility Setup
-          - Basic Marketing Materials
+          - Branded Marketing Essentials
         image:
           altText: Pricing plan 1
           type: ImageBlock
