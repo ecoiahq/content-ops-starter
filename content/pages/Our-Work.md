@@ -49,7 +49,7 @@ sections:
       - type: FeaturedItem
         title: Disability Sports Channel
         tagline: ''
-        subtitle: Brand Development
+        subtitle: "Brand Development\_• Market Positioning"
         text: |
           Follow the tutorial to build your first awesome Netlify site.
         image:
