@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Digital Services
+title: Digital Solutions
 sections:
   - type: GenericSection
     title:
@@ -153,7 +153,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: /digital-services
+slug: /digital-solutions
 seo:
   type: Seo
   metaTitle: Careers - Demo site
