@@ -53,10 +53,9 @@ sections:
         tagline: ''
         subtitle: Business Development
         text: >
-          Disability Sports Channel founder Simeon Wakely partnered with Ecoia
-          to develop, position, and brand the pioneering platform dedicated to
-          amplifying disability sports worldwide. View the channel on Instagram
-          via the link below.
+          Disability Sports Channel partnered with Ecoia to develop, position,
+          and brand the pioneering platform dedicated to amplifying disability
+          sports worldwide. View the channel on Instagram via the link below.
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
