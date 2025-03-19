@@ -15,7 +15,7 @@ sections:
       - type: FeaturedItem
         title: Fera Science
         tagline: ''
-        subtitle: Brand Development
+        subtitle: Content Strategy
         text: |
           Follow the tutorial to build your first Netlify site.
         image:
