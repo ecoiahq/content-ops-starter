@@ -17,9 +17,10 @@ sections:
         tagline: ''
         subtitle: Sonic Branding
         text: >
-          3Tone Music Publishing engaged our creative team to compose original
-          music, provide sound mixing, and master the audio for the Adidas 4D4WD
-          advertisement.
+          Adidas' music supervision agency, Record-Play, partnered with our
+          creative team to deliver original music—expertly mixed and
+          mastered—for the Adidas 4D4WD campaign. Watch the video via the link
+          below.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
