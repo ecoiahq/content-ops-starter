@@ -163,7 +163,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Fundraising Strategy
+        title: ''
         tagline: This is the tagline
         subtitle: ''
         text: >
