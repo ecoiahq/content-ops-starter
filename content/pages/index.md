@@ -333,8 +333,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: >-
-      Tell us a bit about your business goals, and we’ll create a strategy to
-      amplify your impact.
+      Tell us a bit about your business goals, and we’ll create a bespoke
+      strategy to amplify your impact.
     text: ''
     media:
       fields:
