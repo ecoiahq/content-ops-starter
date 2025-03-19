@@ -71,7 +71,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: DSC
+        title: Adidas
         tagline: ''
         subtitle: Brand Development
         text: |
