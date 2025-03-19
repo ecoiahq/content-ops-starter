@@ -58,8 +58,8 @@ sections:
         title: Strategy
         subtitle: ''
         text: >
-          Expert guidance in brand positioning, audience engagement, and funding
-          strategies to maximise your impact.
+          Thoughtful guidance in brand development, audience engagement, and
+          funding strategies to drive sustainability and meaningful change.
         actions: []
         elementId: null
         colors: bg-light-fg-dark
@@ -85,8 +85,9 @@ sections:
       - title: Digital
         subtitle: ''
         text: >
-          High-quality digital media, content marketing, and technology-driven
-          storytelling to connect with your community.
+          Purpose-led digital marketing and optimisation to drive engagement,
+          amplify social impact, and foster lasting connections– online and
+          offline. 
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -109,8 +110,9 @@ sections:
       - title: Creative
         subtitle: ''
         text: >
-          Compelling visual storytelling, campaign development, and media assets
-          that bring your mission to life.
+          Award-winning creative direction and media for social media, film,
+          television, radio, television and print—bringing your mission to life
+          with authenticity and lasting impact.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
