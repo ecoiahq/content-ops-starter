@@ -24,7 +24,7 @@ sections:
           their presence.
         features:
           - Brand Development & Strategy
-          - Market Positioning Roadmap
+          - Brand Positioning Roadmap
           - UX/UI Website Development
           - Bespoke content Marketing Plan
           - Brand Social Media Marketing Templates
