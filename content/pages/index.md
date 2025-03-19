@@ -182,7 +182,7 @@ sections:
         textAlign: center
     type: ImageGallerySection
   - title:
-      text: EcoiaFund™
+      text: Introducing EcoiaFund™
       color: text-dark
       styles:
         self:
