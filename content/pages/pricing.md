@@ -29,7 +29,7 @@ sections:
         image:
           altText: Pricing plan 1
           type: ImageBlock
-          url: /images/1.png
+          url: /images/Foundation.png
         actions:
           - label: Get Started
             url: 'https://ecoia.netlify.app/get-in-touch/'
@@ -60,7 +60,7 @@ sections:
           - Strategic Roadmap & Messaging Guide
           - Campaign & Content Framework
         image:
-          url: /images/2.png
+          url: /images/Audit.png
           altText: Pricing plan 2
           type: ImageBlock
         actions:
@@ -96,7 +96,7 @@ sections:
           - Thought Leadership & Blog Content
           - Quarterly Marketing & Fundraising Campaigns
         image:
-          url: /images/3.png
+          url: /images/Growth.png
           altText: Pricing plan 3
           type: ImageBlock
         actions:
