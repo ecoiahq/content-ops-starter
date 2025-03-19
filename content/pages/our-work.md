@@ -124,9 +124,10 @@ sections:
         tagline: ''
         subtitle: Thought Leadership Articles
         text: >
-          Phronesis Cyber Security briefed us to create thought leadership
-          content highlighting UK data protection best practices for mobile
-          device users. View the articles via the link below.
+          Phronesis Cyber Security commissioned our copywriters to develop
+          thought leadership content showcasing best practices in UK data
+          protection, specifically tailored for UK-centric mobile device users.
+          Explore the articles via the link below.
         image:
           type: ImageBlock
           url: /images/4.png
