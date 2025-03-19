@@ -18,8 +18,8 @@ sections:
         price: '£1,350'
         details: You’re saving £350 (20.6%) by selecting this package.
         description: >
-          Best for startups, non-profits, and mission-led brands establishing
-          their presence.
+          For startups, non-profits, and mission-led brands establishing their
+          presence.
         features:
           - 'Brand Development, Strategy & Positioning'
           - Website & Digital Presence Setup
