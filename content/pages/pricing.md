@@ -88,7 +88,7 @@ sections:
         features:
           - Ongoing Social Media & Community Management
           - Video & Storytelling Content
-          - Social Media Management (Organic & Paid)
+          - Funding & Grant Proposal Strategy
           - Grant Proposal Development
           - Influencer Partnership Facilitation
           - 'Video, Graphic Design and Podcast Production'
