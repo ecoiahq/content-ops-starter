@@ -97,6 +97,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
+          url: /images/Untitled design (2).svg
         actions: []
         colors: bg-light-fg-dark
         styles:
