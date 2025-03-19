@@ -123,11 +123,10 @@ sections:
       text: Not sure which is right for you?
       color: text-dark
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      If your requirements go beyond our set packages, we create **custom
+      solutions** designed around your specific goals. Let’s craft a strategy
+      that fits your vision.
     actions: []
     media:
       type: FormBlock
