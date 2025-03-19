@@ -98,7 +98,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-          url: /images/3.png
+          url: /images/Ecoia – Fera Science.png
         actions:
           - type: Button
             label: Learn More
