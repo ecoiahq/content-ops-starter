@@ -192,8 +192,8 @@ sections:
     subtitle: ''
     text: >+
       <div style="text-align: center">Our innovative fundraising mechanism,
-      **EcoiaFund™**, empowers clients to monetise creative content into direct
-      grassroots contributions. With every project we deliver, we harness
+      **EcoiaFund™**, gives our clients the option to monetise content into
+      direct grassroots contributions. With every project we deliver, we harness
       blockchain technology to seamlessly fund global causes—at no extra
       cost.</div>
 
