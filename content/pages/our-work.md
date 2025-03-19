@@ -86,7 +86,7 @@ sections:
       - type: FeaturedItem
         title: Fera Science
         tagline: ''
-        subtitle: Content Strategy (FIRU / HorizonScan)
+        subtitle: Content Strategy
         text: >
           Our Creative Director spearheaded the refreshed content strategy and
           production for Fera’s HorizonScan and FIRU ventures, driving
