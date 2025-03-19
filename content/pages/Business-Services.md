@@ -47,7 +47,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Brand Strategy
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: >
           We guide mission-driven organisations in developing comprehensive
