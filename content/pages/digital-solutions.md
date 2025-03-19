@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Digital Services
+title: Digital Solutions
 sections:
   - type: GenericSection
     title:
