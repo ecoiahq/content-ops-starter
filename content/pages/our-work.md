@@ -191,32 +191,6 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
-      - type: FeaturedItem
-        title: Massage in Thyme
-        tagline: ''
-        subtitle: ''
-        text: >
-          We were briefed to develop the brand strategy for Massage in Thyme, a
-          Bath-based holistic wellbeing company dedicated to enhancing wellness
-          through therapeutic treatments and mindful practices.
-        image:
-          type: ImageBlock
-          url: /images/6.png
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
     actions: []
     variant: two-col-grid
     colors: bg-neutral-fg-dark
