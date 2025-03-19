@@ -181,7 +181,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: /Business-Services
+slug: /brand-solutions
 seo:
   type: Seo
   metaTitle: Careers - Demo site
