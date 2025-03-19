@@ -73,7 +73,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Audit
+        title: Brand Audit
         subtitle: ''
         text: >
           We conduct thorough assessments of your organisation to identify
