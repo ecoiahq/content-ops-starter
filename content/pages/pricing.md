@@ -58,7 +58,7 @@ sections:
           For established organisations seeking improved visibility and audience
           engagement. 
         features:
-          - Ongoing Social Media & Community Management
+          - Brand Audit
           - 'SEO, Social Media & Audience Insights'
           - Competitor & Positioning Analysis
           - Strategic Roadmap & Messaging Guide
