@@ -109,9 +109,8 @@ sections:
       - title: Creative
         subtitle: ''
         text: >
-          Award-winning creative direction and media for social media, film,
-          television, radio, television and print—bringing your mission to life
-          with authenticity and lasting impact.
+          Award-winning storytelling across social media, film, television, and
+          print—bringing your mission to life with authenticity and impact.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
