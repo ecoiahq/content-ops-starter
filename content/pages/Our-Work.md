@@ -86,7 +86,7 @@ sections:
       - type: FeaturedItem
         title: Fera Science
         tagline: ''
-        subtitle: ''
+        subtitle: Content Strategy
         text: >
           Our creative director guided the refreshed content strategy and
           production for the UK's leading agri-food and environmental research
