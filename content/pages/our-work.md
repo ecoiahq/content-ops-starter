@@ -50,7 +50,7 @@ sections:
       - type: FeaturedItem
         title: Disability Sports Channel
         tagline: ''
-        subtitle: Business Development
+        subtitle: Brand Strategy
         text: >
           Disability Sports Channel partnered with Ecoia to develop, position,
           and brand the pioneering platform dedicated to amplifying disability
