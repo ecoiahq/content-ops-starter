@@ -13,7 +13,7 @@ sections:
       We offer both bespoke and pre-designed packages to build, strengthen, and
       expand your brand and social mission.
     plans:
-      - title: Ecoia Audit
+      - title: Essential Growth Package
         price: '£1,350'
         details: Billed Monthly
         description: |
