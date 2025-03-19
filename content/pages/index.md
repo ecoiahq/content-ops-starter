@@ -110,7 +110,8 @@ sections:
         subtitle: ''
         text: >
           Award-winning storytelling across social media, film, television, and
-          print—bringing your mission to life with authenticity and impact.
+          print—bringing your social and environmental mission to life with
+          authenticity. 
         image:
           url: /images/icon3.svg
           altText: Featured icon three
