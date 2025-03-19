@@ -24,9 +24,9 @@ sections:
           - 'SEO, SEM Optimisation'
           - Brand/Media Activation
         image:
-          url: /images/1.png
           altText: Pricing plan 1
           type: ImageBlock
+          url: /images/1.png
         actions:
           - label: Get Started
             url: 'https://ecoia.netlify.app/get-in-touch/'
