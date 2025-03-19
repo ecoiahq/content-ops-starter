@@ -23,7 +23,7 @@ sections:
         features:
           - Brand Strategy & Positioning
           - Messaging & Campaign Planning
-          - 'SEO, SEM Optimisation'
+          - Website Optimization & UX Strategy
           - Brand/Media Activation
         image:
           altText: Pricing plan 1
