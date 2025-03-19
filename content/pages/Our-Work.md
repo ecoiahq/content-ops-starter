@@ -63,7 +63,7 @@ sections:
       - type: FeaturedItem
         title: DSC
         tagline: ''
-        subtitle: Brand Strategy
+        subtitle: Brand Development
         text: |
           Learn from the tutorial and build your first awesome Netlify site.
         image:
