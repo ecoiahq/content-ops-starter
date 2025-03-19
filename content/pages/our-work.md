@@ -15,7 +15,7 @@ sections:
       - type: FeaturedItem
         title: Adidas
         tagline: ''
-        subtitle: Sound Editorial (4DFWD)
+        subtitle: Original Music Composition
         text: >
           Adidas' music supervision agency, Record-Play, partnered with our
           company founder– Louis Sterling– to create bespoke music for the
@@ -50,7 +50,7 @@ sections:
       - type: FeaturedItem
         title: Disability Sports Channel
         tagline: ''
-        subtitle: Brand Strategy
+        subtitle: Brand Strategy • Partnership Faciliation
         text: >
           Olympic Torchbearer Simeon Wakely partnered with Ecoia to develop,
           position, and brand the pioneering platform dedicated to amplifying
@@ -86,7 +86,7 @@ sections:
       - type: FeaturedItem
         title: Fera Science
         tagline: ''
-        subtitle: Content Strategy (FIRU / HorizonScan)
+        subtitle: Content Refresh
         text: >
           Our Creative Director spearheaded the refreshed content strategy and
           production for Fera’s HorizonScan and FIRU ventures, driving
@@ -158,7 +158,7 @@ sections:
       - type: FeaturedItem
         title: The ID Spectrum
         tagline: ''
-        subtitle: Business Formation
+        subtitle: Brand Strategy
         text: >
           We developed the in-house platform IDS to serve as a hub for artistic
           talent in Brighton, UK, alongside building a record label designed to
