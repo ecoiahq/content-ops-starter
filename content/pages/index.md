@@ -9,11 +9,11 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      We are a diverse team of brand strategists, marketers, and creative
-      producers. With foundations across the UK broadcast media sector, we equip
-      organisations with cultural strategy and creative advantage to engage
-      supporters, expand their influence, and drive real impact at the
-      grassroots level.
+      Rooted in the UK broadcast media sector, our diverse team of brand
+      strategists, marketers, and creative producers work empower mission-driven
+      organisations with cultural strategy and creative excellence—helping them
+      engage supporters, expand their influence, and drive meaningful impact at
+      the grassroots level.
     actions:
       - label: Get started
         altText: ''
