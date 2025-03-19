@@ -63,7 +63,6 @@ sections:
           - Competitor & Positioning Analysis
           - Strategic Roadmap & Messaging Guide
           - Campaign & Content Framework
-          - ''
         image:
           url: /images/Audit.png
           altText: Pricing plan 2
