@@ -95,7 +95,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Social Media Management (Organic )
+        title: Social Media Management (Organic)
         subtitle: Social Media Management
         text: >
           We manage your social media platforms with a blend of organic content
