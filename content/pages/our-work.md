@@ -13,7 +13,7 @@ sections:
     subtitle: Explore our work below and see how we turn creativity into impact.
     items:
       - type: FeaturedItem
-        title: Adidas – 4DFWD
+        title: Adidas
         tagline: ''
         subtitle: Sound Editorial
         text: >
