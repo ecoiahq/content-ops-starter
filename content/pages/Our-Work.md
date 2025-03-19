@@ -13,7 +13,7 @@ sections:
     subtitle: Explore our work below and see how we turn creativity into impact.
     items:
       - type: FeaturedItem
-        title: Adidas – 4D4WD
+        title: Adidas
         tagline: ''
         subtitle: Sonic Branding
         text: |
