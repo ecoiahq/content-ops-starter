@@ -265,8 +265,9 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      Maximise your online messaging with a refreshed website, application, or
-      digital campaign that fuels audience engagement and impact.
+      Strengthen your digital presence with UI-focused website design, UX-driven
+      applications, or purpose-led campaigns that deepen audience engagement and
+      amplify your impact.
     actions:
       - label: Learn More
         url: 'https://ecoia.netlify.app/digital-services/'
