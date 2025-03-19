@@ -67,7 +67,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: 'https://www.disabilitysportschannel.co.uk/'
+            url: 'https://www.instagram.com/disability_sports_channel/'
             showIcon: false
             icon: arrowRight
             iconPosition: right
