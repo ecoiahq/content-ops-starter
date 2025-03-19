@@ -22,7 +22,7 @@ sections:
         features:
           - 'Brand Development, Strategy & Positioning'
           - Website Design & Optimization
-          - SEO & SEM Foundation Setup
+          - Social Media Setup & Content Strategy
           - SEO & SEM Foundation
         image:
           altText: Pricing plan 1
