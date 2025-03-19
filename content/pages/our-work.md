@@ -22,7 +22,7 @@ sections:
           Watch the video via the link below.
         image:
           type: ImageBlock
-          url: /images/Untitled design (2).svg
+          url: /images/1.png
           altText: Placeholder image
           styles:
             self:
@@ -62,7 +62,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-          url: /images/Untitled design (1).png
+          url: /images/2.png
         actions:
           - type: Button
             label: Get started
@@ -97,7 +97,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-          url: /images/Untitled design.jpg
+          url: /images/3.png
         actions: []
         colors: bg-light-fg-dark
         styles:
@@ -119,7 +119,7 @@ sections:
           device users. View the articles via the link below.
         image:
           type: ImageBlock
-          url: /images/Untitled design.jpg
+          url: /images/4.png
           altText: Placeholder text
           styles:
             self:
@@ -146,7 +146,7 @@ sections:
           creative community.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/IDS (1).png
           altText: Placeholder text
           styles:
             self:
@@ -172,7 +172,7 @@ sections:
           through therapeutic treatments and mindful practices.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/6.png
           altText: Placeholder text
           styles:
             self:
@@ -201,7 +201,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: Our Work
+slug: our-work
 isDraft: false
 seo:
   type: Seo
