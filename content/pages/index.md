@@ -297,8 +297,10 @@ sections:
       color: text-light
     subtitle: ''
     text: >
-      We produce compelling and emotionally resonant content that captivates
-      audiences and strengthens your cause.
+      With roots in the broadcast media industry, we create compelling,
+      emotionally resonant content that captivates audiences, amplifies your
+      message, and strengthens your cause—ensuring your story reaches the right
+      people, in the right way, for the greatest impact.
     actions:
       - type: Button
         label: Learn More
