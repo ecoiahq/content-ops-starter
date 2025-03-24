@@ -333,7 +333,7 @@ sections:
           placeholder: Your message
           width: full
           type: TextareaFormControl
-      elementId: contact-form
+      elementId: r
       styles:
         self:
           padding:
