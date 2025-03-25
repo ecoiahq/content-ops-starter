@@ -5,9 +5,9 @@ title: >-
 slug: five-tips-for-starting-a-startup
 date: '2023-03-18'
 excerpt: >-
-  Ecoia supports dissbilaity sports channel in facilitating Strategic
+  Ecoia Supports Disability Sports Channel in Facilitating Strategic
   Collaboration to Amplify Inclusive Voices and Drive Social Impact in Adaptive
-  Sports
+  Sports.
 featuredImage:
   url: /images/audi-nissen-u1CAj5HJzO4-unsplash.jpg
   altText: Thumbnail
