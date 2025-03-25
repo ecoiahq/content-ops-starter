@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Track the right analytics for your business
+title: Disability Sports Channel secures Partership
 slug: track-the-right-analytics-for-your-business
 date: '2023-02-20'
 excerpt: >-
