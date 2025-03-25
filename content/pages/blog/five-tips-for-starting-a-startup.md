@@ -1,5 +1,7 @@
 ---
-title: "Ecoia partners with Disability Sports Channel\_for\_National Exhibition Centre Summit"
+title: >-
+  Ecoia Partners with Disability Sports Channel for National Exhibition Centre
+  Summit
 slug: five-tips-for-starting-a-startup
 date: '2023-03-18'
 excerpt: >-
