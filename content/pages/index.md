@@ -159,7 +159,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Recent Work
+      text: News
       color: text-dark
       styles:
         self:
