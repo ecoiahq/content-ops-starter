@@ -1,5 +1,5 @@
 ---
-title: Disability Sports Channel Secures Brand Partnership with
+title: Disability Sports Channel Secures Brand Partnership with Ecoia
 slug: five-tips-for-starting-a-startup
 date: '2023-03-18'
 excerpt: >-
