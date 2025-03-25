@@ -6,10 +6,8 @@ title: >-
 slug: what-is-a-design-system
 date: '2023-02-14'
 excerpt: >-
-  A Design System is a comprehensive set of standards, principles, and tools
-  that guide the design and development of a product or service. It provides a
-  unified framework to ensure consistency, efficiency, and scalability across a
-  product's user interface (UI) and user experience (UX).
+  Ecoia Launches Auxx Music Group to Empower and Amplify Underrepresented Youth
+  Voices across BANES and West Yorkshire.
 featuredImage:
   url: /images/frankie-cordoba-Vgg0Ccy-f5Y-unsplash.jpg
   altText: Thumbnail
