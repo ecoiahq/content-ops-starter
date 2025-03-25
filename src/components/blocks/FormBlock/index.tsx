@@ -43,26 +43,29 @@ export default function FormBlock(props) {
     <button type="submit">Send</button>
   </p>
 </form>
-        
-            className={classNames(
-  'sb-component',
-  'sb-component-block',
-  'sb-component-form-block',
-  className,
-  styles?.self?.margin ? mapStyles({ margin: styles?.self?.margin }) : undefined,
-  styles?.self?.padding ? mapStyles({ padding: styles?.self?.padding }) : undefined,
-  styles?.self?.borderWidth && styles?.self?.borderWidth !== 0 && styles?.self?.borderStyle !== 'none'
-    ? mapStyles({
-        borderWidth: styles?.self?.borderWidth,
-        borderStyle: styles?.self?.borderStyle,
-        borderColor: styles?.self?.borderColor ?? 'border-primary'
-      })
-    : undefined,
-  styles?.self?.borderRadius ? mapStyles({ borderRadius: styles?.self?.borderRadius }) : undefined
-)}
-        
-                      })
-                    : undefined,
+
+<div
+  className={classNames(
+    'sb-component',
+    'sb-component-block',
+    'sb-component-form-block',
+    className,
+    styles?.self?.margin ? mapStyles({ margin: styles?.self?.margin }) : undefined,
+    styles?.self?.padding ? mapStyles({ padding: styles?.self?.padding }) : undefined,
+    styles?.self?.borderWidth &&
+    styles?.self?.borderWidth !== 0 &&
+    styles?.self?.borderStyle !== 'none'
+      ? mapStyles({
+          borderWidth: styles?.self?.borderWidth,
+          borderStyle: styles?.self?.borderStyle,
+          borderColor: styles?.self?.borderColor ?? 'border-primary'
+        })
+      : undefined,
+    styles?.self?.borderRadius ? mapStyles({ borderRadius: styles?.self?.borderRadius }) : undefined
+  )}
+>
+  {/* Additional content here if needed */}
+</div>
                 styles?.self?.borderRadius ? mapStyles({ borderRadius: styles?.self?.borderRadius }) : undefined
             )}
             name={elementId}
