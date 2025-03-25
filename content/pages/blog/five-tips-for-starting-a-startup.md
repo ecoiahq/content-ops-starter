@@ -5,9 +5,9 @@ title: >-
 slug: five-tips-for-starting-a-startup
 date: '2023-03-18'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  Ecoia supports dissbilaity sports channel in facilitating Strategic
+  Collaboration to Amplify Inclusive Voices and Drive Social Impact in Adaptive
+  Sports
 featuredImage:
   url: /images/audi-nissen-u1CAj5HJzO4-unsplash.jpg
   altText: Thumbnail
