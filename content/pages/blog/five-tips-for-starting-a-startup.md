@@ -1,6 +1,6 @@
 ---
 title: >-
-  Ecoia partners with Disability Sports Channel for National Exhibition Centre
+  Ecoia Partners with Disability Sports Channel for National Exhibition Centre
   Summit
 slug: five-tips-for-starting-a-startup
 date: '2023-03-18'
