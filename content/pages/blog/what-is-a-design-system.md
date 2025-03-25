@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: >-
-  Ecoia Launches Auxx Music Group to Empower Youth Voices from Underrepresented
+  Ecoia Launches Auxx Music Group to Amplify Youth Voices from Underrepresented
   Communities
 slug: what-is-a-design-system
 date: '2023-02-14'
