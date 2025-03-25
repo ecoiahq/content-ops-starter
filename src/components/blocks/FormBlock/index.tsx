@@ -22,7 +22,28 @@ export default function FormBlock(props) {
     }
 
     return (
-        <form
+        <form name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
+  {/* Hidden Input to Force Netlify to Detect the Form */}
+  <input type="hidden" name="form-name" value="contact" />
+
+  {/* Honeypot Field to Prevent Bots */}
+  <p hidden>
+    <label>
+      Don’t fill this out: <input name="bot-field" />
+    </label>
+  </p>
+
+  <p>
+    <label>Name: <input type="text" name="name" required /></label>
+  </p>
+  <p>
+    <label>Email: <input type="email" name="email" required /></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
+        
             className={classNames(
                 'sb-component',
                 'sb-component-block',
@@ -49,7 +70,7 @@ export default function FormBlock(props) {
                 className={classNames('w-full', 'flex', 'flex-wrap', 'gap-8', mapStyles({ justifyContent: styles?.self?.justifyContent ?? 'flex-start' }))}
                 {...(fieldPath && { 'data-sb-field-path': '.fields' })}
             >
-                <input type="hidden" name="form-name" value={elementId} />
+                <input type="hidden" name="form-name" value="contact" />
                 {fields.map((field, index) => {
                     const modelName = field.__metadata.modelName;
                     if (!modelName) {
