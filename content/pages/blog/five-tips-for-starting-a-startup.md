@@ -1,5 +1,7 @@
 ---
-title: Disability Sports Channel Secures Brand Partnership with Ecoia
+title: >-
+  Ecoia secures partnership with Disability Sports Channel for National
+  Exhibition Centre
 slug: five-tips-for-starting-a-startup
 date: '2023-03-18'
 excerpt: >-
