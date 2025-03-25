@@ -1,13 +1,15 @@
 ---
-title: 5 Tips for Starting a Startup
+title: >-
+  Ecoia Partners with Disability Sports Channel for National Exhibition Centre
+  Summit
 slug: five-tips-for-starting-a-startup
 date: '2023-03-18'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  Ecoia Supports Disability Sports Channel in Facilitating Strategic
+  Collaboration to Amplify Inclusive Voices and Drive Social Impact in Adaptive
+  Sports.
 featuredImage:
-  url: /images/abstract-feature1.svg
+  url: /images/audi-nissen-u1CAj5HJzO4-unsplash.jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
