@@ -29,22 +29,24 @@ export const config = defineStackbitConfig({
     presetDirs: ['sources/local/presets']
   },
   siteMap: ({ documents, models }): SiteMapEntry[] => {
-    // 💡 Treat all models as pages temporarily to ensure sitemap populates
     const pageModels = models.map((model) => model.name);
 
     return documents
       .filter((document) => pageModels.includes(document.modelName))
       .map((document) => {
-        const slugField = document.fields.slug as DocumentStringLikeFieldNonLocalized;
-        let slug = slugField?.value;
+        // Try to get the slug from multiple possible fields
+        const slug =
+          (document.fields.slug as DocumentStringLikeFieldNonLocalized)?.value ||
+          (document.fields.path as DocumentStringLikeFieldNonLocalized)?.value ||
+          (document.fields.permalink as DocumentStringLikeFieldNonLocalized)?.value ||
+          document.id?.split('/').pop(); // fallback: use filename
 
         if (!slug) {
-          console.warn(`Skipping document ${document.id}: missing slug`);
+          console.warn(`Skipping document ${document.id}: no usable slug`);
           return null;
         }
 
-        // Normalize slug by removing leading slashes
-        slug = slug.replace(/^\/+/, '');
+        const cleanSlug = slug.replace(/^\/+/, '');
 
         switch (document.modelName) {
           case 'PostFeedLayout':
@@ -54,17 +56,17 @@ export const config = defineStackbitConfig({
             };
           case 'PostLayout':
             return {
-              urlPath: `/blog/${slug}`,
+              urlPath: `/blog/${cleanSlug}`,
               document
             };
           default:
             return {
-              urlPath: `/${slug}`,
+              urlPath: `/${cleanSlug}`,
               document
             };
         }
       })
-      .filter(Boolean); // Remove any nulls
+      .filter(Boolean); // Filter out nulls
   }
 });
 
