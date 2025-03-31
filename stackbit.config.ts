@@ -1,50 +1,44 @@
-import {
-  defineStackbitConfig,
-  DocumentStringLikeFieldNonLocalized,
-  SiteMapEntry
-} from '@stackbit/types';
-import { GitContentSource } from '@stackbit/cms-git';
-import { allModels } from 'sources/local/models';
+// stackbit.config.ts
+import { defineStackbitConfig, SiteMapEntry } from "@stackbit/types";
 
-const gitContentSource = new GitContentSource({
-  rootPath: __dirname,
-  contentDirs: ['content'],
-  models: Object.values(allModels),
-  assetsConfig: {
-    referenceType: 'static',
-    staticDir: 'public',
-    uploadDir: 'images',
-    publicPath: '/'
-  }
-});
-
-export const config = defineStackbitConfig({
-  stackbitVersion: '~0.7.0',
-  ssgName: 'nextjs',
-  nodeVersion: '18',
-  styleObjectModelName: 'ThemeStyle',
-  contentSources: [gitContentSource],
-  presetSource: {
-    type: 'files',
-    presetDirs: ['sources/local/presets']
-  },
-  siteMap: ({ documents, models }): SiteMapEntry[] => {
-    const pageModels = models.map((model) => model.name);
+export default defineStackbitConfig({
+  // ...
+  modelExtensions: [
+    // Static URL paths derived from the model's "slug" field
+    { name: "Page", type: "page", urlPath: "/{slug}" },
+    { name: "Post", type: "page", urlPath: "/blog/{slug}" }
+  ]
+  siteMap: ({ documents, models }) => {
+    // 1. Filter all page models which were defined in modelExtensions
+    const pageModels = models.filter((m) => m.type === "page")
 
     return documents
-      .filter((document) => pageModels.includes(document.modelName))
+      // 2. Filter all documents which are of a page model
+      .filter((d) => pageModels.some(m => m.name === d.modelName))
+      // 3. Map each document to a SiteMapEntry
       .map((document) => {
-        // Try to get the slug from multiple possible fields
-        const slug =
-          (document.fields.slug as DocumentStringLikeFieldNonLocalized)?.value ||
-          (document.fields.path as DocumentStringLikeFieldNonLocalized)?.value ||
-          (document.fields.permalink as DocumentStringLikeFieldNonLocalized)?.value ||
-          document.id?.split('/').pop(); // fallback: use filename
+        // Map the model name to its corresponding URL
+        const urlModel = (() => {
+            switch (document.modelName) {
+                case 'Page':
+                    return 'otherPage';
+                case 'Blog':
+                    return 'otherBlog';
+                default:
+                    return null;
+            }
+        })();
 
-        if (!slug) {
-          console.warn(`Skipping document ${document.id}: no usable slug`);
-          return null;
-        }
+        return {
+          stableId: document.id,
+          urlPath: `/${urlModel}/${document.id}`,
+          document,
+          isHomePage: false,
+        };
+      })
+      .filter(Boolean) as SiteMapEntry[];
+  }
+});
 
         const cleanSlug = slug.replace(/^\/+/, '');
 
