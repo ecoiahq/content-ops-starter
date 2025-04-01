@@ -32,4 +32,11 @@ export default defineStackbitConfig({
             };
           default:
             return {
-              urlPath: `/other/${
+              urlPath: `/other/${cleanSlug}`,
+              document
+            };
+        }
+      })
+      .filter(Boolean) as SiteMapEntry[];
+  }
+});
