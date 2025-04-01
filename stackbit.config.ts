@@ -1,7 +1,8 @@
+
 import { defineStackbitConfig, SiteMapEntry } from '@stackbit/types';
 
 export default defineStackbitConfig({
-  stackbitVersion: '^0.6.0', // ✅ This is now REQUIRED
+  stackbitVersion: '^0.6.0',
   modelExtensions: [
     { name: 'Page', type: 'page', urlPath: '/{slug}' },
     { name: 'Post', type: 'page', urlPath: '/blog/{slug}' }
@@ -12,8 +13,8 @@ export default defineStackbitConfig({
     return documents
       .filter((d) => pageModels.some((m) => m.name === d.modelName))
       .map((document) => {
-        const slug = document.fields?.slug || document.id;
-        const cleanSlug = slug.replace(/^\/+/, '');
+        const rawSlug = document.fields?.slug || document.id;
+        const cleanSlug = String(rawSlug).replace(/^\/+/, '');
 
         switch (document.modelName) {
           case 'PostFeedLayout':
