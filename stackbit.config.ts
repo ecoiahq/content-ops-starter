@@ -1,55 +1,17 @@
-// stackbit.config.ts
-import { defineStackbitConfig } from "@stackbit/types";
+import { defineStackbitConfig, SiteMapEntry } from '@stackbit/types';
 
 export default defineStackbitConfig({
-  // ...
   modelExtensions: [
-    // Extend the "Page" and "Post" models by defining them as page models
-    { name: "Page", type: "page" },
-    { name: "Post", type: "page" }
-  ]
-});
-import { defineStackbitConfig, SiteMapEntry } from "@stackbit/types";
-
-export default defineStackbitConfig({
-  // ...
-  modelExtensions: [
-    // Static URL paths derived from the model's "slug" field
-    { name: "Page", type: "page", urlPath: "/{slug}" },
-    { name: "Post", type: "page", urlPath: "/blog/{slug}" }
-  ]
+    { name: 'Page', type: 'page', urlPath: '/{slug}' },
+    { name: 'Post', type: 'page', urlPath: '/blog/{slug}' }
+  ],
   siteMap: ({ documents, models }) => {
-    // 1. Filter all page models which were defined in modelExtensions
-    const pageModels = models.filter((m) => m.type === "page")
+    const pageModels = models.filter((m) => m.type === 'page');
 
     return documents
-      // 2. Filter all documents which are of a page model
-      .filter((d) => pageModels.some(m => m.name === d.modelName))
-      // 3. Map each document to a SiteMapEntry
+      .filter((d) => pageModels.some((m) => m.name === d.modelName))
       .map((document) => {
-        // Map the model name to its corresponding URL
-        const urlModel = (() => {
-            switch (document.modelName) {
-                case 'Page':
-                    return 'otherPage';
-                case 'Blog':
-                    return 'otherBlog';
-                default:
-                    return null;
-            }
-        })();
-
-        return {
-          stableId: document.id,
-          urlPath: `/${urlModel}/${document.id}`,
-          document,
-          isHomePage: false,
-        };
-      })
-      .filter(Boolean) as SiteMapEntry[];
-  }
-});
-
+        const slug = document.fields?.slug || document.id;
         const cleanSlug = slug.replace(/^\/+/, '');
 
         switch (document.modelName) {
@@ -63,15 +25,18 @@ export default defineStackbitConfig({
               urlPath: `/blog/${cleanSlug}`,
               document
             };
-          default:
+          case 'Page':
             return {
               urlPath: `/${cleanSlug}`,
               document
             };
+          default:
+            return {
+              urlPath: `/other/${cleanSlug}`,
+              document
+            };
         }
       })
-      .filter(Boolean); // Filter out nulls
+      .filter(Boolean) as SiteMapEntry[];
   }
 });
-
-export default config;
