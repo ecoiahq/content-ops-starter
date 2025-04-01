@@ -6,96 +6,95 @@ import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to
 import SubmitButtonFormControl from './SubmitButtonFormControl';
 
 export default function FormBlock(props) {
-    const formRef = React.createRef<HTMLFormElement>();
-    const { fields = [], elementId, submitButton, className, styles = {}, 'data-sb-field-path': fieldPath } = props;
+  const formRef = React.createRef<HTMLFormElement>();
+  const { fields = [], elementId, submitButton, className, styles = {}, 'data-sb-field-path': fieldPath } = props;
 
-    if (fields.length === 0) {
-        return null;
-    }
+  if (fields.length === 0) {
+    return null;
+  }
 
-    function handleSubmit(event) {
-        event.preventDefault();
+  function handleSubmit(event) {
+    event.preventDefault();
 
-        const data = new FormData(formRef.current);
-        const value = Object.fromEntries(data.entries());
-        alert(`Form data: ${JSON.stringify(value)}`);
-    }
+    const data = new FormData(formRef.current);
+    const value = Object.fromEntries(data.entries());
+    alert(`Form data: ${JSON.stringify(value)}`);
+  }
 
-    return (
-        <form name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
-  {/* Hidden Input to Force Netlify to Detect the Form */}
-  <input type="hidden" name="form-name" value="contact" />
+  return (
+    <div>
+      <form
+        name="contact"
+        method="POST"
+        data-netlify="true"
+        data-netlify-honeypot="bot-field"
+        name={elementId}
+        id={elementId}
+        onSubmit={handleSubmit}
+        ref={formRef}
+        data-sb-field-path={fieldPath}
+        className={classNames(
+          'sb-component',
+          'sb-component-block',
+          'sb-component-form-block',
+          className,
+          styles?.self?.margin && mapStyles({ margin: styles.self.margin }),
+          styles?.self?.padding && mapStyles({ padding: styles.self.padding }),
+          styles?.self?.borderWidth &&
+            styles?.self?.borderWidth !== 0 &&
+            styles?.self?.borderStyle !== 'none' &&
+            mapStyles({
+              borderWidth: styles.self.borderWidth,
+              borderStyle: styles.self.borderStyle,
+              borderColor: styles.self.borderColor ?? 'border-primary'
+            }),
+          styles?.self?.borderRadius && mapStyles({ borderRadius: styles.self.borderRadius })
+        )}
+      >
+        <input type="hidden" name="form-name" value="contact" />
+        <p hidden>
+          <label>
+            Don’t fill this out: <input name="bot-field" />
+          </label>
+        </p>
 
-  {/* Honeypot Field to Prevent Bots */}
-  <p hidden>
-    <label>
-      Don’t fill this out: <input name="bot-field" />
-    </label>
-  </p>
-
-  <p>
-    <label>Name: <input type="text" name="name" required /></label>
-  </p>
-  <p>
-    <label>Email: <input type="email" name="email" required /></label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
-</form>
-
-<div
-  className={classNames(
-    'sb-component',
-    'sb-component-block',
-    'sb-component-form-block',
-    className,
-    styles?.self?.margin ? mapStyles({ margin: styles?.self?.margin }) : undefined,
-    styles?.self?.padding ? mapStyles({ padding: styles?.self?.padding }) : undefined,
-    styles?.self?.borderWidth &&
-    styles?.self?.borderWidth !== 0 &&
-    styles?.self?.borderStyle !== 'none'
-      ? mapStyles({
-          borderWidth: styles?.self?.borderWidth,
-          borderStyle: styles?.self?.borderStyle,
-          borderColor: styles?.self?.borderColor ?? 'border-primary'
-        })
-      : undefined,
-    styles?.self?.borderRadius ? mapStyles({ borderRadius: styles?.self?.borderRadius }) : undefined
-  )}
->
-  {/* Additional content here if needed */}
-</div>
-                styles?.self?.borderRadius ? mapStyles({ borderRadius: styles?.self?.borderRadius }) : undefined
-            )}
-            name={elementId}
-            id={elementId}
-            onSubmit={handleSubmit}
-            ref={formRef}
-            data-sb-field-path= {fieldPath}
+        <div
+          className={classNames(
+            'w-full',
+            'flex',
+            'flex-wrap',
+            'gap-8',
+            mapStyles({ justifyContent: styles?.self?.justifyContent ?? 'flex-start' })
+          )}
+          {...(fieldPath && { 'data-sb-field-path': '.fields' })}
         >
-            <div
-                className={classNames('w-full', 'flex', 'flex-wrap', 'gap-8', mapStyles({ justifyContent: styles?.self?.justifyContent ?? 'flex-start' }))}
-                {...(fieldPath && { 'data-sb-field-path': '.fields' })}
-            >
-                <input type="hidden" name="form-name" value="contact" />
-                {fields.map((field, index) => {
-                    const modelName = field.__metadata.modelName;
-                    if (!modelName) {
-                        throw new Error(`form field does not have the 'modelName' property`);
-                    }
-                    const FormControl = getComponent(modelName);
-                    if (!FormControl) {
-                        throw new Error(`no component matching the form field model name: ${modelName}`);
-                    }
-                    return <FormControl key={index} {...field} {...(fieldPath && { 'data-sb-field-path': `.${index}` })} />;
-                })}
-            </div>
-            {submitButton && (
-                <div className={classNames('mt-8', 'flex', mapStyles({ justifyContent: styles?.self?.justifyContent ?? 'flex-start' }))}>
-                    <SubmitButtonFormControl {...submitButton} {...(fieldPath && { 'data-sb-field-path': '.submitButton' })} />
-                </div>
+          {fields.map((field, index) => {
+            const modelName = field.__metadata.modelName;
+            if (!modelName) {
+              throw new Error(`form field does not have the 'modelName' property`);
+            }
+            const FormControl = getComponent(modelName);
+            if (!FormControl) {
+              throw new Error(`no component matching the form field model name: ${modelName}`);
+            }
+            return (
+              <FormControl key={index} {...field} {...(fieldPath && { 'data-sb-field-path': `.${index}` })} />
+            );
+          })}
+        </div>
+
+        {submitButton && (
+          <div
+            className={classNames(
+              'mt-8',
+              'flex',
+              mapStyles({ justifyContent: styles?.self?.justifyContent ?? 'flex-start' })
             )}
-        </form>
-    );
+          >
+            <SubmitButtonFormControl {...submitButton} {...(fieldPath && { 'data-sb-field-path': '.submitButton' })} />
+          </div>
+        )}
+      </form>
+    </div>
+  );
 }
