@@ -22,34 +22,34 @@ export default function FormBlock(props) {
   }
 
   return (
-    <div>
+    <div
+      className={classNames(
+        'sb-component',
+        'sb-component-block',
+        'sb-component-form-block',
+        className,
+        styles?.self?.margin && mapStyles({ margin: styles.self.margin }),
+        styles?.self?.padding && mapStyles({ padding: styles.self.padding }),
+        styles?.self?.borderWidth &&
+          styles?.self?.borderWidth !== 0 &&
+          styles?.self?.borderStyle !== 'none' &&
+          mapStyles({
+            borderWidth: styles.self.borderWidth,
+            borderStyle: styles.self.borderStyle,
+            borderColor: styles.self.borderColor ?? 'border-primary'
+          }),
+        styles?.self?.borderRadius && mapStyles({ borderRadius: styles.self.borderRadius })
+      )}
+    >
       <form
         name="contact"
         method="POST"
         data-netlify="true"
         data-netlify-honeypot="bot-field"
-        name={elementId}
         id={elementId}
         onSubmit={handleSubmit}
         ref={formRef}
         data-sb-field-path={fieldPath}
-        className={classNames(
-          'sb-component',
-          'sb-component-block',
-          'sb-component-form-block',
-          className,
-          styles?.self?.margin && mapStyles({ margin: styles.self.margin }),
-          styles?.self?.padding && mapStyles({ padding: styles.self.padding }),
-          styles?.self?.borderWidth &&
-            styles?.self?.borderWidth !== 0 &&
-            styles?.self?.borderStyle !== 'none' &&
-            mapStyles({
-              borderWidth: styles.self.borderWidth,
-              borderStyle: styles.self.borderStyle,
-              borderColor: styles.self.borderColor ?? 'border-primary'
-            }),
-          styles?.self?.borderRadius && mapStyles({ borderRadius: styles.self.borderRadius })
-        )}
       >
         <input type="hidden" name="form-name" value="contact" />
         <p hidden>
@@ -98,3 +98,4 @@ export default function FormBlock(props) {
     </div>
   );
 }
+
