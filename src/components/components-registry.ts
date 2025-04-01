@@ -44,7 +44,7 @@ const components = {
     FormBlock: dynamic(() => import('./blocks/FormBlock')),
     GenericSection: dynamic(() => import('./sections/GenericSection')),
     ImageBlock: dynamic(() => import('./blocks/ImageBlock')),
-    ImageGallerySection: dynamic(() => import('./sections/ImageGallerySection')),
+    ImageGallerySection: dynamic(() => import('./sections/ImageGallerySection').then(mod => mod.default)),
     PostFeedSection: dynamic(() => import('./sections/PostFeedSection')),
     PricingSection: dynamic(() => import('./sections/PricingSection')),
     RecentPostsSection: dynamic(() => import('./sections/RecentPostsSection')),
