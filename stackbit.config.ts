@@ -1,7 +1,7 @@
-import { defineStackbitConfig, SiteMapEntry } from '@stackbit/sdk';
+import { defineStackbitConfig, SiteMapEntry } from '@stackbit/types';
 
 export default defineStackbitConfig({
-  stackbitVersion: '^0.6.0', // ✅ Required field!
+  stackbitVersion: '^0.6.0', // ✅ This is now REQUIRED
   modelExtensions: [
     { name: 'Page', type: 'page', urlPath: '/{slug}' },
     { name: 'Post', type: 'page', urlPath: '/blog/{slug}' }
